@@ -1,0 +1,92 @@
+<NotepadPlus>
+    <Project name="mph_cloud">
+        <Folder name="pages">
+            <Folder name="classes">
+                <File name="pages\classes\experiencia.php" />
+                <File name="pages\classes\formacao.php" />
+                <File name="pages\classes\identificacao.php" />
+            </Folder>
+            <Folder name="img">
+                <File name="pages\img\trabalhecom.jpg" />
+            </Folder>
+            <Folder name="js">
+                <File name="pages\js\cep.js" />
+                <File name="pages\js\mascaras.js" />
+                <File name="pages\js\validator.min.js" />
+            </Folder>
+            <File name="pages\cad_experiencia.php" />
+            <File name="pages\cad_formacao.php" />
+            <File name="pages\cad_identificacao.php" />
+            <File name="pages\cad_identificacao2.php" />
+            <File name="pages\conn.php" />
+            <File name="pages\del_experiencia.php" />
+            <File name="pages\del_formacao.php" />
+            <File name="pages\edit_identificao.php" />
+            <File name="pages\index.html" />
+            <File name="pages\ins_curso.php" />
+            <File name="pages\ins_experiencia.php" />
+            <File name="pages\ins_formacao.php" />
+            <File name="pages\ins_identificacao.php" />
+            <File name="pages\login.php" />
+            <File name="pages\logout.php" />
+            <File name="pages\nova_experiencia.php" />
+            <File name="pages\nova_formacao.php" />
+            <File name="pages\novo_curso.php" />
+            <File name="pages\resumo.php" />
+            <File name="pages\teste.html" />
+        </Folder>
+        <Folder name="scripts">
+            <File name="scripts\Experiencia_Web.sql" />
+            <File name="scripts\Formacao_Web.sql" />
+            <File name="scripts\Municipios_Web.sql" />
+            <File name="scripts\Talentos_Web.sql" />
+            <File name="scripts\Tipo_Cargo_Web.sql" />
+            <File name="scripts\Usuarios_Web.sql" />
+        </Folder>
+        <Folder name="vendor">
+            <Folder name="bootstrap">
+                <Folder name="css">
+                    <File name="vendor\bootstrap\css\bootstrap.css" />
+                    <File name="vendor\bootstrap\css\bootstrap.css.map" />
+                    <File name="vendor\bootstrap\css\bootstrap.min.css" />
+                    <File name="vendor\bootstrap\css\bootstrap.min.css.map" />
+                </Folder>
+                <Folder name="fonts">
+                    <File name="vendor\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+                    <File name="vendor\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+                    <File name="vendor\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+                    <File name="vendor\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+                    <File name="vendor\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+                </Folder>
+                <Folder name="js">
+                    <File name="vendor\bootstrap\js\bootstrap.bundle.js" />
+                    <File name="vendor\bootstrap\js\bootstrap.bundle.js.map" />
+                    <File name="vendor\bootstrap\js\bootstrap.bundle.min.js" />
+                    <File name="vendor\bootstrap\js\bootstrap.bundle.min.js.map" />
+                    <File name="vendor\bootstrap\js\bootstrap.js" />
+                    <File name="vendor\bootstrap\js\bootstrap.js.map" />
+                    <File name="vendor\bootstrap\js\bootstrap.min.js" />
+                    <File name="vendor\bootstrap\js\bootstrap.min.js.map" />
+                </Folder>
+            </Folder>
+            <Folder name="jquery">
+                <File name="vendor\jquery\jquery.js" />
+                <File name="vendor\jquery\jquery.min.js" />
+                <File name="vendor\jquery\jquery.min.map" />
+                <File name="vendor\jquery\jquery.slim.js" />
+                <File name="vendor\jquery\jquery.slim.min.js" />
+                <File name="vendor\jquery\jquery.slim.min.map" />
+            </Folder>
+            <File name="vendor\validator.min.js" />
+        </Folder>
+        <File name=".gitignore" />
+        <File name=".travis.yml" />
+        <File name="gulpfile.js" />
+        <File name="index.html" />
+        <File name="LICENSE" />
+        <File name="mph_cloud" />
+        <File name="package-lock.json" />
+        <File name="package.json" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>

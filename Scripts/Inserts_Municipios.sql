@@ -1,0 +1,22079 @@
+SET DEFINE OFF;
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (466, 'ARAME', 'MA', '65945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (467, 'ARARI', 'MA', '65480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (469, 'BACABAL', 'MA', '65700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (470, 'BACABEIRA', 'MA', '65103000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (224, 'MOJU', 'PA', '68450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (225, 'MONTE ALEGRE', 'PA', '68220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (226, 'MUANA', 'PA', '68825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (227, 'NOVA ESPERANCA DO PIRIA', 'PA', '68618000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (228, 'NOVA IPIXUNA', 'PA', '68585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (229, 'NOVA TIMBOTEUA', 'PA', '68730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (230, 'NOVO PROGRESSO', 'PA', '68193000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (231, 'NOVO REPARTIMENTO', 'PA', '68473000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (232, 'OBIDOS', 'PA', '68250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (233, 'OEIRAS DO PARA', 'PA', '68470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (235, 'OUREM', 'PA', '68640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (236, 'OURILANDIA DO NORTE', 'PA', '68390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (237, 'PACAJA', 'PA', '68485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (238, 'PALESTINA DO PARA', 'PA', '68535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (239, 'PARAGOMINAS', 'PA', '68625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (240, 'PARAUAPEBAS', 'PA', '68515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (241, 'PAU D''ARCO', 'PA', '68545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (242, 'PEIXE-BOI', 'PA', '68734000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (243, 'PICARRA', 'PA', '68575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (244, 'PLACAS', 'PA', '68138000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (245, 'PONTA DE PEDRAS', 'PA', '68830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (246, 'PORTEL', 'PA', '68480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (247, 'PORTO DE MOZ', 'PA', '68330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (249, 'PRIMAVERA', 'PA', '68707000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (250, 'QUATIPURU', 'PA', '68709000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (251, 'REDENCAO', 'PA', '68550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (252, 'RIO MARIA', 'PA', '68530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (253, 'RONDON DO PARA', 'PA', '68638000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (254, 'RUROPOLIS', 'PA', '68165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (255, 'SALINOPOLIS', 'PA', '68721000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (256, 'SALVATERRA', 'PA', '68860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (257, 'SANTA BARBARA DO PARA', 'PA', '68798000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (258, 'SANTA CRUZ DO ARARI', 'PA', '68850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (259, 'SANTA ISABEL DO PARA', 'PA', '68790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (260, 'SANTA LUZIA DO PARA', 'PA', '68644000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (262, 'SANTA MARIA DO PARA', 'PA', '68738000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (263, 'SANTANA DO ARAGUAIA', 'PA', '68560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (264, 'SANTAREM', 'PA', '68000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (265, 'SANTAREM NOVO', 'PA', '68720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (266, 'SANTO ANTONIO DO TAUA', 'PA', '68786000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (267, 'SAO CAETANO DE ODIVELAS', 'PA', '68775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (268, 'SAO DOMINGOS DO ARAGUAIA', 'PA', '68520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (269, 'SAO DOMINGOS DO CAPIM', 'PA', '68635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (270, 'SAO FELIX DO XINGU', 'PA', '68380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (271, 'SAO FRANCISCO DO PARA', 'PA', '68748000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (272, 'SAO GERALDO DO ARAGUAIA', 'PA', '68570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (273, 'SAO JOAO DA PONTA', 'PA', '68774000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (274, 'SAO JOAO DE PIRABAS', 'PA', '68719000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (275, 'SAO JOAO DO ARAGUAIA', 'PA', '68518000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (276, 'SAO MIGUEL DO GUAMA', 'PA', '68660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (277, 'SAO SEBASTIAO DA BOA VISTA', 'PA', '68820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (279, 'SENADOR JOSE PORFIRIO', 'PA', '68360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (280, 'SOURE', 'PA', '68870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (281, 'TAILANDIA', 'PA', '68695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (282, 'TERRA ALTA', 'PA', '68773000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (283, 'TERRA SANTA', 'PA', '68285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (284, 'TOME-ACU', 'PA', '68680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (143, 'CAROEBE', 'RR', '69378000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (144, 'IRACEMA', 'RR', '69348000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (145, 'MUCAJAI', 'RR', '69340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (146, 'NORMANDIA', 'RR', '69355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (147, 'PACARAIMA', 'RR', '69345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (148, 'RORAINOPOLIS', 'RR', '69373000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (150, 'SAO LUIZ', 'RR', '69370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (151, 'UIRAMUTAN', 'RR', '69358000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (152, 'ABAETETUBA', 'PA', '68440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (153, 'ABEL FIGUEIREDO', 'PA', '68527000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (154, 'ACARA', 'PA', '68690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (155, 'AFUA', 'PA', '68890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (156, 'AGUA AZUL DO NORTE', 'PA', '68533000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (157, 'ALENQUER', 'PA', '68200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (158, 'ALMEIRIM', 'PA', '68230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (159, 'ALTAMIRA', 'PA', '68370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (160, 'ANAJAS', 'PA', '68810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (161, 'ANANINDEUA', 'PA', '67000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (162, 'ANAPU', 'PA', '68365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (163, 'AUGUSTO CORREA', 'PA', '68610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (164, 'AURORA DO PARA', 'PA', '68658000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (166, 'BAGRE', 'PA', '68475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (167, 'BAIAO', 'PA', '68465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (168, 'BANNACH', 'PA', '68388000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (169, 'BARCARENA', 'PA', '68445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (423, 'SAMPAIO', 'TO', '77980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (587, 'PEDREIRAS', 'MA', '65725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (588, 'PEDRO DO ROSARIO', 'MA', '65206000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (589, 'PENALVA', 'MA', '65213000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (590, 'PERI MIRIM', 'MA', '65245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (591, 'PERITORO', 'MA', '65418000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (592, 'PINDARE-MIRIM', 'MA', '65370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (916, 'BELA CRUZ', 'CE', '62570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (917, 'BOA VIAGEM', 'CE', '63870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (918, 'BREJO SANTO', 'CE', '63260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (919, 'CAMOCIM', 'CE', '62400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (920, 'CAMPOS SALES', 'CE', '63150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (921, 'CANINDE', 'CE', '62700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (922, 'CAPISTRANO', 'CE', '62748000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (924, 'CARIRE', 'CE', '62184000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (925, 'CARIRIACU', 'CE', '63220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (926, 'CARIUS', 'CE', '63530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (927, 'CARNAUBAL', 'CE', '62375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (928, 'CASCAVEL', 'CE', '62850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (929, 'CATARINA', 'CE', '63595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (930, 'CATUNDA', 'CE', '62297000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (931, 'CAUCAIA', 'CE', '61600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (932, 'CEDRO', 'CE', '63400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (933, 'CHAVAL', 'CE', '62420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (934, 'CHORO', 'CE', '63950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (935, 'CHOROZINHO', 'CE', '62875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (936, 'COREAU', 'CE', '62160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (938, 'CRATO', 'CE', '63100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (939, 'CROATA', 'CE', '62390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (940, 'CRUZ', 'CE', '62595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (941, 'DEPUTADO IRAPUAN RIBEIRO', 'CE', '63645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (942, 'ERERE', 'CE', '63470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (943, 'EUSEBIO', 'CE', '61760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (944, 'FARIAS BRITO', 'CE', '63185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (945, 'FORQUILHA', 'CE', '62115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (946, 'FORTALEZA', 'CE', '60000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (947, 'FORTIN', 'CE', '62815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (948, 'FRECHEIRINHA', 'CE', '62340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (949, 'GENERAL SAMPAIO', 'CE', '62738000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (951, 'GRANJA', 'CE', '62430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (952, 'GRANJEIRO', 'CE', '63230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (953, 'GROIARAS', 'CE', '62190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (954, 'GUAIUBA', 'CE', '61890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (955, 'GUARACIABA DO NORTE', 'CE', '62380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (956, 'GUARAMIRANGA', 'CE', '62766000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (957, 'HIDROLANDIA', 'CE', '62270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (958, 'HORIZONTE', 'CE', '62880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (959, 'IBARETAMA', 'CE', '63970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (960, 'IBIAPINA', 'CE', '62360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (961, 'IBICUITINGA', 'CE', '62955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (962, 'ICAPUI', 'CE', '62810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (964, 'IGUATU', 'CE', '63500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (965, 'INDEPENDENCIA', 'CE', '63640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (966, 'IPAPORANGA', 'CE', '62215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (967, 'IPAUMIRIM', 'CE', '63340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (968, 'IPU', 'CE', '62250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (969, 'IPUEIRAS', 'CE', '62230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (970, 'IRACEMA', 'CE', '62980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (971, 'IRAUCUBA', 'CE', '62620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (972, 'ITAICABA', 'CE', '62820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (973, 'ITAITINGA', 'CE', '61880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (974, 'ITAPAGE', 'CE', '62600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (976, 'ITAPIUNA', 'CE', '62740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (977, 'ITAREMA', 'CE', '62590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (978, 'ITATIRA', 'CE', '62720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (979, 'JAGUARETAMA', 'CE', '63480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (980, 'JAGUARIBARA', 'CE', '63490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (837, 'RIO GRANDE DO PIAUI', 'PI', '64835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (838, 'SANTA CRUZ DO PIAUI', 'PI', '64545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (839, 'SANTA CRUZ DOS MILAGRES', 'PI', '64315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (840, 'SANTA FILOMENA', 'PI', '64945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (841, 'SANTA LUZ', 'PI', '64910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (842, 'SANTANA DO PIAUI', 'PI', '64615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (843, 'SANTA ROSA DO PIAUI', 'PI', '64518000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (844, 'SANTO ANTONIO DE LISBOA', 'PI', '64640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (846, 'SANTO INACIO DO PIAUI', 'PI', '64560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (847, 'SAO BRAZ DO PIAUI', 'PI', '64783000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (848, 'SAO FELIX DO PIAUI', 'PI', '64375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (849, 'SAO FRANCISCO DE ASSIS DO PIAUI', 'PI', '64745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (850, 'SAO FRANCISCO DO PIAUI', 'PI', '64550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (851, 'SAO GONCALO DO GURGUEIA', 'PI', '64993000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (852, 'SAO GONCALO DO PIAUI', 'PI', '64435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5600, 'SALTA', 'AR', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5601, 'ITALIA', 'IT', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5604, 'ESTADOS UNIDOS', 'US', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5605, 'ESPANHA', 'ES', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5607, 'SANTA CRUZ-BOLIVIA', 'BO', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5608, 'CACHOEIRA DO CAMPO', 'MG', '35410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5609, 'SANTA CRUZ BOLIVIA', 'BO', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5610, 'FRANÇA', 'FR', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5611, 'LA ROCHELLE', 'FR', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5613, 'HOLANDA PAISES BAIXOS', 'HO', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5614, 'REP POPULAR DA CHINA', 'CH', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (700, 'BRASILEIRA', 'PI', '64265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (701, 'BREJO DO PIAUI', 'PI', '64895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (702, 'BURITI DOS LOPES', 'PI', '64230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (703, 'BURITI DOS MONTES', 'PI', '64345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (704, 'CABECEIRAS DO PIAUI', 'PI', '64105000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (705, 'CAJAZEIRAS DO PIAUI', 'PI', '64514000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (706, 'CAJUEIRO DA PRAIA', 'PI', '64222000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (708, 'CAMPINAS DO PIAUI', 'PI', '64730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (709, 'CAMPO ALEGRE DO FIDALGO', 'PI', '64767000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (710, 'CAMPO GRANDE DO PIAUI', 'PI', '64578000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (711, 'CAMPO LARGO DO PIAUI', 'PI', '64148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (712, 'CAMPO MAIOR', 'PI', '64280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (713, 'CANAVIEIRA', 'PI', '64833000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (714, 'CANTO DO BURITI', 'PI', '64890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (715, 'CAPITAO DE CAMPOS', 'PI', '64270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (716, 'CAPITAO GERVASIO OLIVEIRA', 'PI', '64763000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (718, 'CARAUBAS DO PIAUI', 'PI', '64233000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (719, 'CARIDADE DO PIAUI', 'PI', '64590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (720, 'CASTELO DO PIAUI', 'PI', '64340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (721, 'CAXINGO', 'PI', '64228000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (722, 'COCAL', 'PI', '64235000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (724, 'COCAL DO ALVES', 'PI', '64238000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (725, 'COIVARAS', 'PI', '64335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (727, 'COLONIA DO PIAUI', 'PI', '64516000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (728, 'CONCEICAO DO CANINDE', 'PI', '64740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (729, 'CORONEL JOSE DIAS', 'PI', '64793000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (730, 'CORRENTE', 'PI', '64980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (743, 'ELISEU MARTINS', 'PI', '64880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (744, 'ESPERANTINA', 'PI', '64180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (745, 'FARTURA DO PIAUI', 'PI', '64788000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (746, 'FLORES DO PIAUI', 'PI', '64815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (747, 'FLORESTA DO PIAUI', 'PI', '64563000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (748, 'FLORIANO', 'PI', '64800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (749, 'FRANCINOPOLIS', 'PI', '64520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (750, 'FRANCISCO AYRES', 'PI', '64475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (751, 'FRANCISCO MACEDO', 'PI', '64683000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (732, 'CRISTINO CASTRO', 'PI', '64920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (733, 'CURIMATA', 'PI', '64960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (734, 'CURRAIS', 'PI', '64905000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (735, 'CURRALINHOS', 'PI', '64453000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (736, 'CURRAL NOVO DO PIAUI', 'PI', '64595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (737, 'DEMERVAL LOBAO', 'PI', '64390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (738, 'DIRCEU ARCOVERDE', 'PI', '64785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (739, 'DOM EXPEDITO LOPES', 'PI', '64620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (740, 'DOMINGOS MOURAO', 'PI', '64250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (741, 'DOM INOCENCIO', 'PI', '64790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (742, 'ELESBAO VELOSO', 'PI', '64325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (490, 'BURITICUPU', 'MA', '65393000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (491, 'BURITIRANA', 'MA', '65935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (492, 'CACHOEIRA GRANDE', 'MA', '65165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (493, 'CAJAPIO', 'MA', '65230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (495, 'CAMPESTRE DO MARANHAO', 'MA', '65968000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (496, 'CANDIDO MENDES', 'MA', '65280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (497, 'CANTANHEDE', 'MA', '65465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (498, 'CAPINZAL DO NORTE', 'MA', '65735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (499, 'CAROLINA', 'MA', '65980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (500, 'CARUTAPERA', 'MA', '65295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (501, 'CAXIAS', 'MA', '65600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (502, 'CEDRAL', 'MA', '65260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (503, 'CENTRAL DO MARANHAO', 'MA', '65267000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (504, 'CENTRO DO GUILHERME', 'MA', '65288000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (505, 'CENTRO NOVO DO MARANHAO', 'MA', '65299000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (506, 'CHAPADINHA', 'MA', '65500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (508, 'CODO', 'MA', '65400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (509, 'COELHO NETO', 'MA', '65620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (510, 'COLINAS', 'MA', '65690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (511, 'CONCEICAO DO LAGO ACU', 'MA', '65340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (512, 'COROATA', 'MA', '65415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (513, 'CURURUPU', 'MA', '65268000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (514, 'DAVINOPOLIS', 'MA', '65927000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (515, 'DOM PEDRO', 'MA', '65765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (516, 'DUQUE BACELAR', 'MA', '65625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (517, 'ESPERANTINOPOLIS', 'MA', '65750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (518, 'ESTREITO', 'MA', '65975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (519, 'FEIRA NOVA DO MARANHAO', 'MA', '65995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (521, 'FORMOSA DA SERRA NEGRA', 'MA', '65943000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (522, 'FORTALEZA DOS NOGUEIRAS', 'MA', '65805000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (523, 'FORTUNA', 'MA', '65695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (524, 'GODOFREDO VIANA', 'MA', '65285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (525, 'GONCALVES DIAS', 'MA', '65775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (526, 'GOVERNADOR ARCHER', 'MA', '65770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (527, 'GOVERNADOR EDSON LOBAO', 'MA', '65928000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (528, 'GOVERNADOR EUGENIO BARROS', 'MA', '65780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (529, 'GOVERNADOR LUIS ROCHA', 'MA', '65795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (530, 'GOVERNADOR NEWTON BELLO', 'MA', '65363000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (531, 'GOVERNADOR NUNES FREIRE', 'MA', '65284000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (532, 'GRACA ARANHA', 'MA', '65785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (533, 'GRAJAU', 'MA', '65940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (534, 'GUIMARAES', 'MA', '65255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (536, 'ICATU', 'MA', '65170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (537, 'IGARAPE DO MEIO', 'MA', '65345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (538, 'IGARAPE GRANDE', 'MA', '65720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (539, 'IMPERATRIZ', 'MA', '65900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (540, 'ITAIPAVA DO GRAJAU', 'MA', '65948000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (541, 'ITAPECURU MIRIM', 'MA', '65485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (542, 'ITINGA DO MARANHAO', 'MA', '65939000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (543, 'JATOBA', 'MA', '65693000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (544, 'JENIPAPO DOS VIEIRAS', 'MA', '65962000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (545, 'JOAO LISBOA', 'MA', '65922000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (546, 'JOSELANDIA', 'MA', '65755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (547, 'JUNCO DO MARANHAO', 'MA', '65294000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (548, 'LAGO DA PEDRA', 'MA', '65715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (549, 'LAGO DO JUNCO', 'MA', '65710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (550, 'LAGO VERDE', 'MA', '65705000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (552, 'LAGO DOS RODRIGUES', 'MA', '65712000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (553, 'LAGOA GRANDE DO MARANHAO', 'MA', '65718000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (554, 'LAJEADO NOVO', 'MA', '65937000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (555, 'LIMA CAMPOS', 'MA', '65728000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (556, 'LORETO', 'MA', '65895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (557, 'LUIS DOMINGUES', 'MA', '65290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (426, 'SANTA MARIA DO TOCANTINS', 'TO', '77716000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (427, 'SANTA RITA DO TOCANTINS', 'TO', '77565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (428, 'SANTA ROSA DO TOCANTINS', 'TO', '77375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (429, 'SANTA TEREZA DO TOCANTINS', 'TO', '77615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (430, 'SANTA TEREZINHA DO TOCANTINS', 'TO', '77885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (431, 'SAO BENTO DO TOCANTINS', 'TO', '77958000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (432, 'SAO FELIX DO TOCANTINS', 'TO', '77605000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (434, 'SAO SALVADOR DO TOCANTINS', 'TO', '77368000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (435, 'SAO SEBASTIAO DO TOCANTINS', 'TO', '77990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (436, 'SAO VALERIO DA NATIVIDADE', 'TO', '77390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (437, 'SILVANOPOLIS', 'TO', '77580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (438, 'SITIO NOVO DO TOCANTINS', 'TO', '77940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (439, 'SUCUPIRA', 'TO', '77458000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (440, 'TAGUATINGA', 'TO', '77320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (441, 'TAIPAS DO TOCANTINS', 'TO', '77308000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (442, 'TALISMA', 'TO', '77483000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (443, 'PALMAS', 'TO', '77000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (444, 'TOCANTINIA', 'TO', '77640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (445, 'TOCANTINOPOLIS', 'TO', '77900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (446, 'TUPIRAMA', 'TO', '77704000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (558, 'MAGALHAES DE ALMEIDA', 'MA', '65560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (559, 'MARACACUME', 'MA', '65289000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (561, 'MARANHAOZINHO', 'MA', '65283000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (699, 'BOQUEIRAO DO PIAUI', 'PI', '64283000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (447, 'TUPIRATINS', 'TO', '77743000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (448, 'WANDERLANDIA', 'TO', '77860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (449, 'XAMBIOA', 'TO', '77880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (450, 'ACAILANDIA', 'MA', '65930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (451, 'AFONSO CUNHA', 'MA', '65505000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (452, 'AGUA DOCE DO MARANHAO', 'MA', '65578000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (454, 'ALDEIAS ALTAS', 'MA', '65610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (339, 'CACHOEIRINHA', 'TO', '77915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (340, 'CAMPOS LINDOS', 'TO', '77777000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (341, 'CARIRI DO TOCANTINS', 'TO', '77453000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (342, 'CARMOLANDIA', 'TO', '77840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (343, 'CARRASCO BONITO', 'TO', '77985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (345, 'CENTENARIO', 'TO', '77723000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (346, 'CHAPADA DE AREIA', 'TO', '77575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (347, 'CHAPADA DA NATIVIDADE', 'TO', '77378000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (348, 'COLINAS DO TOCANTINS', 'TO', '77760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (349, 'COMBINADO', 'TO', '77350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (350, 'CONCEICAO DO TOCANTINS', 'TO', '77305000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (351, 'COUTO DE MAGALHAES', 'TO', '77750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (352, 'CRISTALANDIA', 'TO', '77490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (353, 'CRIXAS DO TOCANTINS', 'TO', '77463000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (354, 'DARCINOPOLIS', 'TO', '77910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (355, 'DIANOPOLIS', 'TO', '77300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (356, 'DIVINOPOLIS DO TOCANTINS', 'TO', '77670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (358, 'DUERE', 'TO', '77485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (359, 'ESPERANTINA', 'TO', '77993000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (360, 'FATIMA', 'TO', '77555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (361, 'FIGUEIROPOLIS', 'TO', '77465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (362, 'FILADELFIA', 'TO', '77795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (363, 'FORMOSO DO ARAGUAIA', 'TO', '77470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (364, 'FORTALEZA DO TABOCAO', 'TO', '77708000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (365, 'GOIANORTE', 'TO', '77695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (366, 'GOIATINS', 'TO', '77770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (367, 'GUARAI', 'TO', '77700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (368, 'GURUPI', 'TO', '77400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (369, 'IPUEIRAS', 'TO', '77553000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (370, 'ITACAJA', 'TO', '77720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (371, 'ITAGUATINS', 'TO', '77920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (372, 'ITAPIRATINS', 'TO', '77718000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (374, 'JAU DO TOCANTINS', 'TO', '77450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (375, 'JUARINA', 'TO', '77753000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (376, 'LAGOA DA CONFUSAO', 'TO', '77493000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (377, 'LAGOA DO TOCANTINS', 'TO', '77613000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (378, 'LAJEADO', 'TO', '77645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (379, 'LAVANDEIRA', 'TO', '77328000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (380, 'LIZARDA', 'TO', '77630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (381, 'LUZINOPOLIS', 'TO', '77903000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (382, 'MARIANOPOLIS DO TOCANTINS', 'TO', '77675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (383, 'MATEIROS', 'TO', '77593000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (384, 'MAURILANDIA DO TOCANTINS', 'TO', '77918000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (385, 'MIRACEMA DO TOCANTINS', 'TO', '77650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (386, 'MIRANORTE', 'TO', '77660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (387, 'MONTE DO CARMO', 'TO', '77585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (388, 'MONTE SANTO DO TOCANTINS', 'TO', '77673000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (390, 'MURICILANDIA', 'TO', '77850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (391, 'NATIVIDADE', 'TO', '77370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (392, 'NAZARE', 'TO', '77895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (393, 'NOVA OLINDA', 'TO', '77790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (394, 'NOVA ROSALANDIA', 'TO', '77495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (395, 'NOVO ACORDO', 'TO', '77610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (396, 'NOVO ALEGRE', 'TO', '77353000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (397, 'NOVO JARDIM', 'TO', '77318000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (398, 'OLIVEIRA DE FATIMA', 'TO', '77558000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (399, 'PALMEIRANTE', 'TO', '77798000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (400, 'PALMEIROPOLIS', 'TO', '77365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (401, 'PARAISO DO TOCANTINS', 'TO', '77600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (403, 'PAU D''ARCO', 'TO', '77785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (404, 'PEDRO AFONSO', 'TO', '77710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (405, 'PEIXE', 'TO', '77460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (406, 'PEQUIZEIRO', 'TO', '77730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (407, 'COLMEIA', 'TO', '77725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (408, 'PINDORAMA DO TOCANTINS', 'TO', '77380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (409, 'PIRAQUE', 'TO', '77888000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (410, 'PIUM', 'TO', '77570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (411, 'PONTE ALTA DO BOM JESUS', 'TO', '77315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (412, 'PONTE ALTA DO TOCANTINS', 'TO', '77590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (413, 'PORTO ALEGRE DO TOCANTINS', 'TO', '77395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (421, 'RIO DOS BOIS', 'TO', '77655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (422, 'RIO SONO', 'TO', '77635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (562, 'MATA ROMA', 'MA', '65510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (563, 'MATINHA', 'MA', '65218000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (415, 'PRAIA NORTE', 'TO', '77970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (416, 'PRESIDENTE KENNEDY', 'TO', '77745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (417, 'PUGMIL', 'TO', '77603000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (418, 'RECURSOLANDIA', 'TO', '77733000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (419, 'RIACHINHO', 'TO', '77893000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (420, 'RIO DA CONCEICAO', 'TO', '77303000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (285, 'TRACUATEUA', 'PA', '68647000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (286, 'TRAIRAO', 'PA', '68198000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (287, 'TUCUMA', 'PA', '68385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (289, 'ULIANOPOLIS', 'PA', '68632000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (290, 'URUARA', 'PA', '68140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (291, 'VIGIA', 'PA', '68780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (292, 'VISEU', 'PA', '68620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (293, 'VITORIA DO XINGU', 'PA', '68383000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (294, 'XINGUARA', 'PA', '68555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (295, 'SERRA DO NAVIO', 'AP', '68914000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (296, 'AMAPA', 'AP', '68950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (297, 'PEDRA BRANCA DO AMAPARI', 'AP', '68945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (298, 'CALCOENE', 'AP', '68960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (299, 'CUTIAS', 'AP', '68973000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (300, 'FERREIRA GOMES', 'AP', '68915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (301, 'ITAUBAL', 'AP', '68976000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (303, 'MACAPA', 'AP', '68900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (304, 'MAZAGAO', 'AP', '68940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (305, 'OIAPOQUE', 'AP', '68980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (306, 'PORTO GRANDE', 'AP', '68997000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (307, 'PRACUUBA', 'AP', '68918000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (308, 'SANTANA', 'AP', '68925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (478, 'BELA VISTA DO MARANHAO', 'MA', '65335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (479, 'BENEDITO LEITE', 'MA', '65885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (480, 'BEQUIMAO', 'MA', '65248000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (481, 'BERNARDO DO MEARIM', 'MA', '65723000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (309, 'TARTARUGALZINHO', 'AP', '68990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (310, 'VITORIA DO JARI', 'AP', '68924000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (311, 'ABREULANDIA', 'TO', '77693000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (312, 'AGUIARNOPOLIS', 'TO', '77908000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (458, 'ALTO PARNAIBA', 'MA', '65810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (459, 'AMAPA DO MARANHAO', 'MA', '65293000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (460, 'AMARANTE DO MARANHAO', 'MA', '65923000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (461, 'ANAJATUBA', 'MA', '65490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (462, 'ANAPURUS', 'MA', '65525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (463, 'APICUM-ACU', 'MA', '65275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (465, 'ARAIOSES', 'MA', '65570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (645, 'SENADOR ALEXANDRE COSTA', 'MA', '65783000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (646, 'SENADOR LA ROQUE', 'MA', '65935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (647, 'SERRANO DO MARANHAO', 'MA', '65269000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (648, 'SITIO NOVO', 'MA', '65925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (649, 'SUCUPIRA DO NORTE', 'MA', '65860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (650, 'SUCUPIRA DO RIACHAO', 'MA', '65668000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (651, 'TASSO FRAGOSO', 'MA', '65820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (652, 'TIMBIRAS', 'MA', '65420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (653, 'TIMON', 'MA', '65630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (654, 'TRIZIDELA DO VALE', 'MA', '65727000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (655, 'TUFILANDIA', 'MA', '65378000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (656, 'TUNTUM', 'MA', '65763000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (657, 'TURIACU', 'MA', '65278000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (659, 'TUTOIA', 'MA', '65580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (660, 'URBANO SANTOS', 'MA', '65530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (661, 'VARGEM GRANDE', 'MA', '65430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (662, 'VIANA', 'MA', '65215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (663, 'VILA NOVA DOS MARTIRIOS', 'MA', '65924000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (664, 'VITORIA DO MEARIM', 'MA', '65350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4452, 'LUZERNA', 'SC', '89609000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4453, 'MACIEIRA', 'SC', '89518000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4454, 'MAFRA', 'SC', '89300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4455, 'MAJOR GERCINO', 'SC', '88260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4456, 'MAJOR VIEIRA', 'SC', '89480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4457, 'MARACAJA', 'SC', '88915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4458, 'MARAVILHA', 'SC', '89874000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4459, 'MAREMA', 'SC', '89860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4460, 'MASSARANDUBA', 'SC', '89108000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4461, 'MATOS COSTA', 'SC', '89420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4462, 'MELEIRO', 'SC', '88920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4463, 'MIRIM DOCE', 'SC', '89194000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4465, 'MONDAI', 'SC', '89893000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4466, 'MONTE CARLO', 'SC', '89618000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4467, 'MONTE CASTELO', 'SC', '89380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4468, 'MORRO DA FUMACA', 'SC', '88830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4469, 'MORRO GRANDE', 'SC', '88925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4470, 'NAVEGANTES', 'SC', '88375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4471, 'NOVA ERECHIM', 'SC', '89865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4472, 'NOVA ITABERABA', 'SC', '89818000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4473, 'NOVA TRENTO', 'SC', '88270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4474, 'NOVA VENEZA', 'SC', '88865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4475, 'NOVO HORIZONTE', 'SC', '89998000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4476, 'ORLEANS', 'SC', '88870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4478, 'OURO', 'SC', '89663000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4479, 'OURO VERDE', 'SC', '89834000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4480, 'PAIAL', 'SC', '89765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4481, 'PAINEL', 'SC', '88543000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4482, 'PALHOCA', 'SC', '88130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4483, 'PALMA SOLA', 'SC', '89985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4484, 'PALMEIRA', 'SC', '88545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4485, 'PALMITOS', 'SC', '89887000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4609, 'ANTONIO PRADO', 'RS', '95250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4610, 'ARAMBARE', 'RS', '96178000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4611, 'ARARICA', 'RS', '93880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4612, 'ARATIBA', 'RS', '99770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4613, 'ARROIO DO MEIO', 'RS', '95940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (200, 'FLORESTA DO ARAGUAIA', 'PA', '68543000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (202, 'GOIANESIA DO PARA', 'PA', '68639000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (203, 'GURUPA', 'PA', '68300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (204, 'IGARAPE-ACU', 'PA', '68725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (205, 'IGARAPE-MIRI', 'PA', '68430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (56, 'BUJARI', 'AC', '69923000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (57, 'CAPIXABA', 'AC', '69922000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (58, 'CRUZEIRO DO SUL', 'AC', '69980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (59, 'EPITACIOLANDIA', 'AC', '69934000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (60, 'FEIJO', 'AC', '69960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (61, 'JORDAO', 'AC', '69975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (62, 'MANCIO LIMA', 'AC', '69990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (63, 'MANOEL URBANO', 'AC', '69950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (64, 'MARECHAL THAUMATURGO', 'AC', '69983000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (65, 'PLACIDO DE CASTRO', 'AC', '69928000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (67, 'RIO BRANCO', 'AC', '69900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (68, 'RODRIGUES ALVES', 'AC', '69985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (69, 'SANTA ROSA DO PURUS', 'AC', '69955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (70, 'SENADOR GUIOMARD', 'AC', '69925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (71, 'SENA MADUREIRA', 'AC', '69940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (72, 'TARAUACA', 'AC', '69970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (73, 'XAPURI', 'AC', '69930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (74, 'PORTO ACRE', 'AC', '69921000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (75, 'ALVARAES', 'AM', '69475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (76, 'AMATURA', 'AM', '69620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (77, 'ANAMA', 'AM', '69445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (78, 'ANORI', 'AM', '69440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (79, 'APUI', 'AM', '69265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (81, 'AUTAZES', 'AM', '69240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (82, 'BARCELOS', 'AM', '69700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (83, 'BARREIRINHA', 'AM', '69160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (84, 'BENJAMIN CONSTANT', 'AM', '69630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (85, 'BERURI', 'AM', '69430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (86, 'BOA VISTA DO RAMOS', 'AM', '69195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (87, 'BOCA DO ACRE', 'AM', '69850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (88, 'BORBA', 'AM', '69200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (89, 'CAAPIRANGA', 'AM', '69410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (91, 'CARAUARI', 'AM', '69500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (92, 'CAREIRO', 'AM', '69250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (93, 'CAREIRO DA VARZEA', 'AM', '69255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (94, 'COARI', 'AM', '69460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (95, 'CODAJAS', 'AM', '69450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (98, 'FONTE BOA', 'AM', '69670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (99, 'GUAJARA', 'AM', '69895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (100, 'HUMAITA', 'AM', '69800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (101, 'IPIXUNA', 'AM', '69890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (102, 'IRANDUBA', 'AM', '69405000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (103, 'ITACOATIARA', 'AM', '69100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (105, 'ITAPIRANGA', 'AM', '69120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (106, 'JAPURA', 'AM', '69495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (107, 'JURUA', 'AM', '69520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (108, 'JUTAI', 'AM', '69660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (109, 'LABREA', 'AM', '69830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (110, 'MANACAPURU', 'AM', '69400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (111, 'MANAQUIRI', 'AM', '69435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (113, 'MANICORE', 'AM', '69280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (114, 'MARAA', 'AM', '69490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (115, 'MAUES', 'AM', '69190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (116, 'NHAMUNDA', 'AM', '69140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (117, 'NOVA OLINDA DO NORTE', 'AM', '69230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (118, 'NOVO AIRAO', 'AM', '69730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (119, 'NOVO ARIPUANA', 'AM', '69260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (120, 'PARINTINS', 'AM', '69150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (121, 'PAUINI', 'AM', '69860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (122, 'PRESIDENTE FIGUEIREDO', 'AM', '69735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (123, 'RIO PRETO DA EVA', 'AM', '69115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (124, 'SANTA ISABEL DO RIO NEGRO', 'AM', '69740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (126, 'SAO GABRIEL DA CACHOEIRA', 'AM', '69750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (127, 'SAO PAULO DE OLIVENCA', 'AM', '69600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (128, 'SAO SEBASTIAO DO UATUMA', 'AM', '69135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (129, 'SILVES', 'AM', '69110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (130, 'TABATINGA', 'AM', '69640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (131, 'TAPAUA', 'AM', '69480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (132, 'TEFE', 'AM', '69470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (133, 'TONANTINS', 'AM', '69685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (134, 'UARINI', 'AM', '69485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (135, 'URUCARA', 'AM', '69130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (136, 'URUCURITUBA', 'AM', '69180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (170, 'BELEM', 'PA', '66000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (171, 'BELTERRA', 'PA', '68143000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (172, 'BENEVIDES', 'PA', '68795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1, 'ALTA FLORESTA D''OESTE', 'RO', '78994000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2, 'ARIQUEMES', 'RO', '78930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4, 'CACOAL', 'RO', '78975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5, 'CEREJEIRAS', 'RO', '78997000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (138, 'ALTO ALEGRE', 'RR', '69350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (139, 'BOA VISTA', 'RR', '69300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (140, 'BONFIM', 'RR', '69380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (141, 'CANTA', 'RR', '69390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (142, 'CARACARAI', 'RR', '69360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (6, 'COLORADO DO OESTE', 'RO', '78996000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (7, 'CORUMBIARA', 'RO', '78966000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (8, 'COSTA MARQUES', 'RO', '78971000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (9, 'ESPIGAO D''OESTE', 'RO', '78983000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (11, 'JARU', 'RO', '78940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (12, 'JI-PARANA', 'RO', '78960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (13, 'MACHADINHO D''OESTE', 'RO', '78948000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (14, 'NOVA BRASILANDIA D''OESTE', 'RO', '78974000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (15, 'OURO PRETO DO OESTE', 'RO', '78950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (16, 'PIMENTA BUENO', 'RO', '78984000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (17, 'PORTO VELHO', 'RO', '78900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (18, 'PRESIDENTE MEDICI', 'RO', '78968000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (19, 'RIO CRESPO', 'RO', '78945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (20, 'ROLIM DE MOURA', 'RO', '78987000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (21, 'SANTA LUZIA D''OESTE', 'RO', '78993000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (22, 'VILHENA', 'RO', '78995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (24, 'NOVA MAMORE', 'RO', '78939000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (25, 'ALVORADA D''OESTE', 'RO', '78969000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (26, 'ALTO ALEGRE DOS PARECIS', 'RO', '78994000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (206, 'INHANGAPI', 'PA', '68770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (207, 'IPIXUNA DO PARA', 'PA', '68637000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (208, 'IRITUIA', 'PA', '68655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (209, 'ITAITUBA', 'PA', '68180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (210, 'ITUPIRANGA', 'PA', '68580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (27, 'ALTO PARAISO', 'RO', '78956000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (28, 'BURITIS', 'RO', '78967000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (29, 'NOVO HORIZONTE D''OESTE', 'RO', '78991000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (30, 'CACAULANDIA', 'RO', '78944000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (31, 'CAMPO NOVO DE RONDONIA', 'RO', '78967000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (32, 'CANDEIAS DO JAMARI', 'RO', '78938000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (33, 'CASTANHEIRAS', 'RO', '78992000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (35, 'CUJUBIM', 'RO', '78945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5268, 'ADELANDIA', 'GO', '76155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5269, 'AGUA FRIA DE GOIAS', 'GO', '73780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5133, 'SONORA', 'MS', '79415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5134, 'TACURU', 'MS', '79975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5135, 'TAQUARUSSU', 'MS', '79765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5136, 'TERENOS', 'MS', '79190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5137, 'TRES LAGOAS', 'MS', '79600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5138, 'VICENTINA', 'MS', '79710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5139, 'ACORIZAL', 'MT', '78480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5141, 'ALTA FLORESTA', 'MT', '78580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5142, 'ALTO ARAGUAIA', 'MT', '78780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5143, 'ALTO BOA VISTA', 'MT', '78665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5144, 'ALTO GARCAS', 'MT', '78770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5145, 'ALTO PARAGUAI', 'MT', '78410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5146, 'ALTO TAQUARI', 'MT', '78785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5147, 'APIACAS', 'MT', '78595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5148, 'ARAGUAIANA', 'MT', '78685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5149, 'ARAGUAINHA', 'MT', '78615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5150, 'ARAPUTANGA', 'MT', '78260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5151, 'ARENAPOLIS', 'MT', '78420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5152, 'ARIPUANA', 'MT', '78325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5154, 'BARRA DO BUGRES', 'MT', '78390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5155, 'BARRA DO GARCAS', 'MT', '78600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5156, 'BRASNORTE', 'MT', '78350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5157, 'CACERES', 'MT', '78200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5158, 'CAMPINAPOLIS', 'MT', '78630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5159, 'CAMPO NOVO DO PARECIS', 'MT', '78360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5160, 'CAMPO VERDE', 'MT', '78840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5161, 'CAMPOS DE JULIO', 'MT', '78307000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5162, 'CANA BRAVA DO NORTE', 'MT', '78658000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5163, 'CANARANA', 'MT', '78640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5164, 'CARLINDA', 'MT', '78587000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5165, 'CASTANHEIRA', 'MT', '78345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5166, 'CHAPADA DOS GUIMARAES', 'MT', '78195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5167, 'CLAUDIA', 'MT', '78540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5169, 'COLIDER', 'MT', '78500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5170, 'COMODORO', 'MT', '78310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5171, 'CONFRESA', 'MT', '78652000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5172, 'COTRIGUACU', 'MT', '78330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5173, 'CUIABA', 'MT', '78000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5174, 'DENISE', 'MT', '78380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5175, 'DIAMANTINO', 'MT', '78400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5176, 'DOM AQUINO', 'MT', '78830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5177, 'FELIZ NATAL', 'MT', '78885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5178, 'FIGUEIROPOLIS D''OESTE', 'MT', '78290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5330, 'COLINAS DO SUL', 'GO', '73740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5331, 'CORREGO DO OURO', 'GO', '76145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5332, 'CORUMBA DE GOIAS', 'GO', '72960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5334, 'CRISTALINA', 'GO', '73850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5335, 'CRISTIANOPOLIS', 'GO', '75230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5336, 'CRIXAS', 'GO', '76510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5337, 'CROMINIA', 'GO', '75635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5338, 'CUMARI', 'GO', '75760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5339, 'DAMIANOPOLIS', 'GO', '73980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5340, 'DAMOLANDIA', 'GO', '75420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5341, 'DAVINOPOLIS', 'GO', '75730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5342, 'DIORAMA', 'GO', '76260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5343, 'DOVERLANDIA', 'GO', '75855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5344, 'EDEALINA', 'GO', '75945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5345, 'EDEIA', 'GO', '75940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5346, 'ESTRELA DO NORTE', 'GO', '76485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5348, 'FAZENDA NOVA', 'GO', '76220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5349, 'FIRMINOPOLIS', 'GO', '76105000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5350, 'FLORES DE GOIAS', 'GO', '73890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5351, 'FORMOSA', 'GO', '73800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5352, 'FORMOSO', 'GO', '76470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5353, 'DIVINOPOLIS DE GOIAS', 'GO', '73865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5354, 'GOIANAPOLIS', 'GO', '75170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5355, 'GOIANDIRA', 'GO', '75740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5356, 'GOIANESIA', 'GO', '76380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5357, 'GOIANIA', 'GO', '74000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5358, 'GOIANIRA', 'GO', '75370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5359, 'GOIAS', 'GO', '76600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5361, 'GOUVELANDIA', 'GO', '75865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5454, 'QUIRINOPOLIS', 'GO', '75860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5455, 'RIALMA', 'GO', '76310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5456, 'RIANAPOLIS', 'GO', '76315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5457, 'RIO QUENTE', 'GO', '75695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5362, 'GUAPO', 'GO', '75350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5363, 'GUARAITA', 'GO', '76690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5364, 'GUARANI DE GOIAS', 'GO', '73910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5365, 'GUARINOS', 'GO', '76385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5366, 'HEITORAI', 'GO', '76670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5367, 'HIDROLANDIA', 'GO', '75340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5368, 'HIDROLINA', 'GO', '76375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5370, 'INACIOLANDIA', 'GO', '75550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5371, 'INDIARA', 'GO', '75955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5372, 'INHUMAS', 'GO', '75400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5437, 'PANAMA', 'GO', '75580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5438, 'PARANAIGUARA', 'GO', '75880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5439, 'PARAUNA', 'GO', '75980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5440, 'PEROLANDIA', 'GO', '75823000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5441, 'PETROLINA DE GOIAS', 'GO', '75480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5442, 'PILAR DE GOIAS', 'GO', '76370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5443, 'PIRACANJUBA', 'GO', '75640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5444, 'PIRANHAS', 'GO', '76230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5445, 'PIRENOPOLIS', 'GO', '72980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5228, 'POXOREO', 'MT', '78800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5229, 'PRIMAVERA DO LESTE', 'MT', '78850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5230, 'QUERENCIA', 'MT', '78643000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5231, 'SAO JOSE DOS QUATRO MARCOS', 'MT', '78285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5232, 'RESERVA DO CABACAL', 'MT', '78265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5233, 'RIBEIRAO CASCALHEIRA', 'MT', '78675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5234, 'RIBEIRAOZINHO', 'MT', '78613000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (455, 'ALTAMIRA DO MARANHAO', 'MA', '65310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (456, 'ALTO ALEGRE DO MARANHAO', 'MA', '65413000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (457, 'ALTO ALEGRE DO PINDARE', 'MA', '65398000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (593, 'PINHEIRO', 'MA', '65200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (594, 'PIO XII', 'MA', '65707000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (595, 'PIRAPEMAS', 'MA', '65460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (596, 'POCAO DE PEDRAS', 'MA', '65740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (597, 'PORTO FRANCO', 'MA', '65970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (598, 'PORTO RICO DO MARANHAO', 'MA', '65263000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (599, 'PRESIDENTE DUTRA', 'MA', '65760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (601, 'PRESIDENTE MEDICE', 'MA', '65279000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (602, 'PRESIDENTE SARNEY', 'MA', '65204000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (603, 'PRESIDENTE VARGAS', 'MA', '65455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (604, 'PRIMEIRA CRUZ', 'MA', '65190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (605, 'RAPOSA', 'MA', '65138000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (606, 'RIACHAO', 'MA', '65990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (607, 'RIBAMAR FIQUENE', 'MA', '65938000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (608, 'ROSARIO', 'MA', '65100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (609, 'SAMBAIBA', 'MA', '65830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (610, 'SANTA FILOMENA DO MARANHAO', 'MA', '65768000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (611, 'SANTA HELENA', 'MA', '65208000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (612, 'SANTA INES', 'MA', '65300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (613, 'SANTA LUZIA', 'MA', '65390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (614, 'SANTA LUZIA DO PARUA', 'MA', '65272000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (483, 'BOM JARDIM', 'MA', '65380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (484, 'BOM JESUS DAS SELVAS', 'MA', '65395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (485, 'BOM LUGAR', 'MA', '65704000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (486, 'BREJO', 'MA', '65520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (487, 'BREJO DE AREIA', 'MA', '65315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (488, 'BURITI', 'MA', '65515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (489, 'BURITI BRAVO', 'MA', '65685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (471, 'BACURI', 'MA', '65270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (472, 'BACURITUBA', 'MA', '65233000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (473, 'BALSAS', 'MA', '65800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (474, 'BARAO DE GRAJAU', 'MA', '65660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (475, 'BARRA DO CORDA', 'MA', '65950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (476, 'BARREIRINHAS', 'MA', '65590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (477, 'BELAGUA', 'MA', '65535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (337, 'BREJINHO DE NAZARE', 'TO', '77560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5383, 'ITARUMA', 'GO', '75810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5384, 'ITAUCU', 'GO', '75450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5385, 'ITUMBIARA', 'GO', '75500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5213, 'NOVO HORIZONTE DO NORTE', 'MT', '78570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5214, 'NOVO SAO JOAQUIM', 'MT', '78625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5215, 'PARANAITA', 'MT', '78590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5216, 'PARANATINGA', 'MT', '78870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5217, 'PEDRA PRETA', 'MT', '78795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5218, 'PEIXOTO DE AZEVEDO', 'MT', '78530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5219, 'PLANALTO DA SERRA', 'MT', '78855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5220, 'POCONE', 'MT', '78175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5221, 'PONTAL DO ARAGUAIA', 'MT', '78698000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5222, 'PONTE BRANCA', 'MT', '78610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5223, 'PONTES E LACERDA', 'MT', '78250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5225, 'PORTO DOS GAUCHOS', 'MT', '78560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5226, 'PORTO ESPERIDIAO', 'MT', '78240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5227, 'PORTO ESTRELA', 'MT', '78398000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5386, 'IVOLANDIA', 'GO', '76130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5387, 'JANDAIA', 'GO', '75950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5388, 'JARAGUA', 'GO', '76330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5389, 'JATAI', 'GO', '75800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5390, 'JAUPACI', 'GO', '76210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5391, 'JESUPOLIS', 'GO', '75495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5392, 'JOVIANIA', 'GO', '75610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5393, 'JUSSARA', 'GO', '76270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5394, 'LEOPOLDO DE BULHOES', 'GO', '75190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5203, 'NOSSA SENHORA DO LIVRAMENTO', 'MT', '78170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5204, 'NOVA BANDEIRANTES', 'MT', '78565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5205, 'NOVA LACERDA', 'MT', '78243000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5207, 'NOVA CANAA DO NORTE', 'MT', '78515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5208, 'NOVA MUTUM', 'MT', '78450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5082, 'CARACOL', 'MS', '79270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (424, 'SANDOLANDIA', 'TO', '77478000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (425, 'SANTA FE DO ARAGUAIA', 'TO', '77848000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (173, 'BOM JESUS DO TOCANTINS', 'PA', '68525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (174, 'BONITO', 'PA', '68645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (175, 'BRAGANCA', 'PA', '68600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (176, 'BRASIL NOVO', 'PA', '68148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (177, 'BREJO GRANDE DO ARAGUAIA', 'PA', '68521000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (179, 'BREVES', 'PA', '68800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (180, 'BUJARU', 'PA', '68670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (181, 'CACHOEIRA DO PIRIA', 'PA', '68617000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (182, 'CACHOEIRA DO ARARI', 'PA', '68840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (183, 'CAMETA', 'PA', '68400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (184, 'CANAA DOS CARAJAS', 'PA', '68537000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (185, 'CAPANEMA', 'PA', '68700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (186, 'CAPITAO POCO', 'PA', '68650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (187, 'CASTANHAL', 'PA', '68740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (188, 'CHAVES', 'PA', '68880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (315, 'ALVORADA', 'TO', '77480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (316, 'ANANAS', 'TO', '77890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (318, 'APARECIDA DO RIO NEGRO', 'TO', '77620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (319, 'ARAGOMINAS', 'TO', '77845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (320, 'ARAGUACEMA', 'TO', '77690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (321, 'ARAGUACU', 'TO', '77475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (322, 'ARAGUAINA', 'TO', '77800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (323, 'ARAGUANA', 'TO', '77855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (324, 'ARAGUATINS', 'TO', '77950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (325, 'ARAPOEMA', 'TO', '77780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (327, 'AUGUSTINOPOLIS', 'TO', '77960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (328, 'AURORA DO TOCANTINS', 'TO', '77325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (329, 'AXIXA DO TOCANTINS', 'TO', '77930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (331, 'BANDEIRANTES DO TOCANTINS', 'TO', '77783000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (332, 'BARRA DO OURO', 'TO', '77765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (333, 'BARROLANDIA', 'TO', '77665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (334, 'BERNARDO SAYAO', 'TO', '77755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (335, 'BOM JESUS DO TOCANTINS', 'TO', '77714000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (336, 'BRASILANDIA DO TOCANTINS', 'TO', '77735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (211, 'JACAREACANGA', 'PA', '68195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (212, 'JACUNDA', 'PA', '68590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (213, 'JURUTI', 'PA', '68170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (214, 'LIMOEIRO DO AJURU', 'PA', '68415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (215, 'MAE DO RIO', 'PA', '68675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (216, 'MAGALHAES BARATA', 'PA', '68722000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (217, 'MARABA', 'PA', '68500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (218, 'MARACANA', 'PA', '68710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (220, 'MARITUBA', 'PA', '67200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (221, 'MEDICILANDIA', 'PA', '68145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (222, 'MELGACO', 'PA', '68490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (223, 'MOCAJUBA', 'PA', '68420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4763, 'GLORINHA', 'RS', '94380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4764, 'GRAMADO', 'RS', '95670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4765, 'GRAMADO DOS LOUREIROS', 'RS', '99605000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4766, 'GRAMADO XAVIER', 'RS', '96875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4902, 'PORTO XAVIER', 'RS', '98995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4903, 'POUSO NOVO', 'RS', '95945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4904, 'PRESIDENTE LUCENA', 'RS', '93945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4905, 'PROGRESSO', 'RS', '95925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4906, 'PROTASIO ALVES', 'RS', '95345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4907, 'PUTINGA', 'RS', '95975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4908, 'QUARAI', 'RS', '97560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4910, 'QUINZE DE NOVEMBRO', 'RS', '98230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4911, 'REDENTORA', 'RS', '98550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4912, 'RELVADO', 'RS', '95965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4913, 'RESTINGA SECA', 'RS', '97200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4914, 'RIO DOS INDIOS', 'RS', '99610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4915, 'RIO GRANDE', 'RS', '96200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4916, 'RIO PARDO', 'RS', '96640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5062, 'AGUA CLARA', 'MS', '79680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5063, 'ALCINOPOLIS', 'MS', '79530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5064, 'AMAMBAI', 'MS', '79990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5065, 'ANASTACIO', 'MS', '79210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5066, 'ANAURILANDIA', 'MS', '79770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5068, 'ANTONIO JOAO', 'MS', '79910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5069, 'APARECIDA DO TABOADO', 'MS', '79570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5070, 'AQUIDAUANA', 'MS', '79200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5071, 'ARAL MOREIRA', 'MS', '79930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5072, 'BANDEIRANTES', 'MS', '79430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5073, 'BATAGUASSU', 'MS', '79780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5074, 'BATAIPORA', 'MS', '79760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5075, 'BELA VISTA', 'MS', '79260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4935, 'SANTA MARIA DO HERVAL', 'RS', '93995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4936, 'SANTANA DA BOA VISTA', 'RS', '96590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4937, 'SANTANA DO LIVRAMENTO', 'RS', '97570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4938, 'SANTA ROSA', 'RS', '98900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4939, 'SANTA TEREZA', 'RS', '95715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4941, 'SANTIAGO', 'RS', '97700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4942, 'SANTO ANGELO', 'RS', '98800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4943, 'SANTO ANTONIO DO PALMA', 'RS', '99265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (189, 'COLARES', 'PA', '68785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (190, 'CONCEICAO DO ARAGUAIA', 'PA', '68540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (191, 'CONCORDIA DO PARA', 'PA', '68685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (192, 'CUMARU DO NORTE', 'PA', '68398000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (193, 'CURIONOPOLIS', 'PA', '68523000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (194, 'CURRALINHO', 'PA', '68815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (195, 'CURUA', 'PA', '68210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (196, 'CURUCA', 'PA', '68750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (197, 'DOM ELISEU', 'PA', '68633000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (198, 'ELDORADO DOS CARAJAS', 'PA', '68524000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (199, 'FARO', 'PA', '68280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5471, 'SANTO ANTONIO DA BARRA', 'GO', '75935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5472, 'SANTO ANTONIO DE GOIAS', 'GO', '75375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5473, 'SANTO ANTONIO DO DESCOBERTO', 'GO', '72900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5474, 'SAO DOMINGOS', 'GO', '73860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5475, 'SAO FRANCISCO DE GOIAS', 'GO', '75490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5476, 'SAO JOAO D''ALIANCA', 'GO', '73760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5477, 'SAO JOAO DA PARAUNA', 'GO', '75985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5478, 'SAO LUIS DE MONTES BELOS', 'GO', '76100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5479, 'SAO LUIZ DO NORTE', 'GO', '76365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5480, 'SAO MIGUEL DO ARAGUAIA', 'GO', '76590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5481, 'SAO MIGUEL DO PASSA QUATRO', 'GO', '75185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5482, 'SAO PATRICIO', 'GO', '76343000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5483, 'SAO SIMAO', 'GO', '75890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5484, 'SENADOR CANEDO', 'GO', '75250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5485, 'SERRANOPOLIS', 'GO', '75820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5486, 'SILVANIA', 'GO', '75180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5488, 'SITIO D''ABADIA', 'GO', '73990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5489, 'TAQUARAL DE GOIAS', 'GO', '76640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5490, 'TERESINA DE GOIAS', 'GO', '73795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5491, 'TEREZOPOLIS DE GOIAS', 'GO', '75175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5492, 'TRES RANCHOS', 'GO', '75720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5493, 'TRINDADE', 'GO', '75380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5494, 'TROMBAS', 'GO', '76460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5495, 'TURVANIA', 'GO', '76110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5497, 'UIRAPURU', 'GO', '76525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5498, 'URUACU', 'GO', '76400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5499, 'URUANA', 'GO', '76335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5500, 'URUTAI', 'GO', '75790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5501, 'VALPARAISO DE GOIAS', 'GO', '72870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5504, 'VICENTINOPOLIS', 'GO', '75555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5505, 'VILA BOA', 'GO', '73825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5506, 'VILA PROPICIO', 'GO', '72990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5507, 'BRASILIA', 'DF', '70000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5278, 'AMERICANO DO BRASIL', 'GO', '76165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5279, 'AMORINOPOLIS', 'GO', '76140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5281, 'ANHANGUERA', 'GO', '75770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5282, 'ANICUNS', 'GO', '76170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5283, 'APARECIDA DE GOIANIA', 'GO', '74900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5284, 'APARECIDA DO RIO DOCE', 'GO', '75827000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5285, 'APORE', 'GO', '75825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5286, 'ARACU', 'GO', '75410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5287, 'ARAGARCAS', 'GO', '76240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5288, 'ARAGOIANIA', 'GO', '75360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5289, 'ARAGUAPAZ', 'GO', '76720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5290, 'ARENOPOLIS', 'GO', '76235000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5291, 'ARUANA', 'GO', '76710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5292, 'AURILANDIA', 'GO', '76120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5293, 'AVELINOPOLIS', 'GO', '75395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5295, 'BARRO ALTO', 'GO', '76390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5296, 'BELA VISTA DE GOIAS', 'GO', '75240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5297, 'BOM JARDIM DE GOIAS', 'GO', '76245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5298, 'BOM JESUS DE GOIAS', 'GO', '75570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5299, 'BONFINOPOLIS', 'GO', '75195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5300, 'BONOPOLIS', 'GO', '76555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5301, 'BRAZABRANTES', 'GO', '75440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5302, 'BRITANIA', 'GO', '76280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5303, 'BURITI ALEGRE', 'GO', '75660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5304, 'BURITI DE GOIAS', 'GO', '76152000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5305, 'BURITINOPOLIS', 'GO', '73975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5306, 'CABECEIRAS', 'GO', '73870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5308, 'CACHOEIRA DE GOIAS', 'GO', '76125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5309, 'CACHOEIRA DOURADA', 'GO', '75560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5310, 'CACU', 'GO', '75813000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5311, 'CAIAPONIA', 'GO', '75850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5312, 'CALDAS NOVAS', 'GO', '75690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5313, 'CALDAZINHA', 'GO', '75245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5314, 'CAMPESTRE DE GOIAS', 'GO', '75385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5315, 'CAMPINACU', 'GO', '76440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5316, 'CAMPINORTE', 'GO', '76410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5317, 'CAMPO ALEGRE DE GOIAS', 'GO', '75795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5318, 'CAMPOS BELOS', 'GO', '73840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5319, 'CAMPOS VERDES', 'GO', '76515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5320, 'CARMO DO RIO VERDE', 'GO', '76340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5321, 'CASTELANDIA', 'GO', '75925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5323, 'CATURAI', 'GO', '75430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5324, 'CAVALCANTE', 'GO', '73790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5325, 'CERES', 'GO', '76300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5326, 'CEZARINA', 'GO', '76195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5327, 'CHAPADAO DO CEU', 'GO', '75828000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5328, 'CIDADE OCIDENTAL', 'GO', '72880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5329, 'COCALZINHO DE GOIAS', 'GO', '72975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (137, 'AMAJARI', 'RR', '69343000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5421, 'NOVA CRIXAS', 'GO', '76520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5422, 'NOVA GLORIA', 'GO', '76305000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5423, 'NOVA IGUACU DE GOIAS', 'GO', '76495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5424, 'NOVA ROMA', 'GO', '73820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5426, 'NOVO BRASIL', 'GO', '76285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5427, 'NOVO GAMA', 'GO', '72860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5428, 'NOVO PLANALTO', 'GO', '76580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5429, 'ORIZONA', 'GO', '75280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5430, 'OURO VERDE DE GOIAS', 'GO', '75165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5431, 'OUVIDOR', 'GO', '75715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5432, 'PADRE BERNARDO', 'GO', '73700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5433, 'PALESTINA DE GOIAS', 'GO', '75845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5434, 'PALMEIRAS DE GOIAS', 'GO', '76190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5435, 'PALMELO', 'GO', '75210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5436, 'PALMINOPOLIS', 'GO', '75990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (36, 'GOVERNADOR JORGE TEIXEIRA', 'RO', '78946000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (38, 'MINISTRO ANDREAZZA', 'RO', '78981000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (39, 'MIRANTE DA SERRA', 'RO', '78949000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (40, 'MONTE NEGRO', 'RO', '78965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (41, 'NOVA UNIAO', 'RO', '78953000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (42, 'PARECIS', 'RO', '78989000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (43, 'PIMENTEIRAS DO OESTE', 'RO', '78998000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (44, 'PRIMAVERA DE RONDONIA', 'RO', '78988000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (45, 'SAO FELIPE D''OESTE', 'RO', '78986000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (46, 'SAO FRANCISCO DO GUAPORE', 'RO', '78973000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (47, 'SERINGUEIRAS', 'RO', '78990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (48, 'TEIXEIROPOLIS', 'RO', '78954000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (50, 'URUPA', 'RO', '78955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (51, 'VALE DO ANARI', 'RO', '78948000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (52, 'VALE DO PARAISO', 'RO', '78959000');
+COMMIT;
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (53, 'ACRELANDIA', 'AC', '69945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (54, 'ASSIS BRASIL', 'AC', '69935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (55, 'BRASILEIA', 'AC', '69932000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5458, 'RIO VERDE', 'GO', '75900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5459, 'RUBIATABA', 'GO', '76350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5460, 'SANCLERLANDIA', 'GO', '76160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5461, 'SANTA BARBARA DE GOIAS', 'GO', '75390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5462, 'SANTA CRUZ DE GOIAS', 'GO', '75220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5463, 'SANTA FE DE GOIAS', 'GO', '76265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5465, 'SANTA ISABEL', 'GO', '76320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5466, 'SANTA RITA DO ARAGUAIA', 'GO', '75840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5467, 'SANTA RITA DO NOVO DESTINO', 'GO', '76395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5468, 'SANTA ROSA DE GOIAS', 'GO', '75455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5469, 'SANTA TEREZA DE GOIAS', 'GO', '76480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5448, 'PONTALINA', 'GO', '75620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5449, 'PORANGATU', 'GO', '76550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5450, 'PORTEIRAO', 'GO', '75603000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5451, 'PORTELANDIA', 'GO', '75835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5452, 'POSSE', 'GO', '73900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5453, 'PROFESSOR JAMIL', 'GO', '75645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5395, 'LUZIANIA', 'GO', '72800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5396, 'MAIRIPOTABA', 'GO', '75630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5397, 'MAMBAI', 'GO', '73970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5275, 'ALTO PARAISO DE GOIAS', 'GO', '73770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5277, 'AMARALINA', 'GO', '76493000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5398, 'MARA ROSA', 'GO', '76490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5399, 'MARZAGAO', 'GO', '75670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5400, 'MATRINCHA', 'GO', '76730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5401, 'MAURILANDIA', 'GO', '75930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5402, 'MIMOSO DE GOIAS', 'GO', '73730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5403, 'MINACU', 'GO', '76450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5405, 'MOIPORA', 'GO', '76135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5406, 'MONTE ALEGRE DE GOIAS', 'GO', '73830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5407, 'MONTES CLAROS DE GOIAS', 'GO', '76255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5408, 'MONTIVIDIU', 'GO', '75915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5409, 'MONTIVIDIU DO NORTE', 'GO', '76465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5410, 'MORRINHOS', 'GO', '75650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5411, 'MORRO AGUDO DE GOIAS', 'GO', '76355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5412, 'MOSSAMEDES', 'GO', '76150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5413, 'MOZARLANDIA', 'GO', '76700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5414, 'MUNDO NOVO', 'GO', '76530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5415, 'MUTUNOPOLIS', 'GO', '76540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5416, 'NAZARIO', 'GO', '76180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5417, 'NEROPOLIS', 'GO', '75460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5418, 'NIQUELANDIA', 'GO', '76420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5419, 'NOVA AMERICA', 'GO', '76345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5264, 'NOVA MONTE VERDE', 'MT', '78593000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5265, 'ABADIA DE GOIAS', 'GO', '75345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5266, 'ABADIANIA', 'GO', '72940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5267, 'ACREUNA', 'GO', '75960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4944, 'SANTO ANTONIO DA PATRULHA', 'RS', '95500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4945, 'SANTO ANTONIO DAS MISSOES', 'RS', '97870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4946, 'SANTO ANTONIO DO PLANALTO', 'RS', '99525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4947, 'SANTO AUGUSTO', 'RS', '98590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4948, 'SANTO CRISTO', 'RS', '98960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5076, 'BODOQUENA', 'MS', '79390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5077, 'BONITO', 'MS', '79290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5078, 'BRASILANDIA', 'MS', '79670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5079, 'CAARAPO', 'MS', '79940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5080, 'CAMAPUA', 'MS', '79420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5081, 'CAMPO GRANDE', 'MS', '79000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4929, 'SALVADOR DO SUL', 'RS', '95750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4931, 'SANTA BARBARA DO SUL', 'RS', '98240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4932, 'SANTA CLARA DO SUL', 'RS', '95915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4933, 'SANTA CRUZ DO SUL', 'RS', '96800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4934, 'SANTA MARIA', 'RS', '97000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4831, 'MINAS DO LEAO', 'RS', '96755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4832, 'MIRAGUAI', 'RS', '98540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4833, 'MONTAURI', 'RS', '99255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4834, 'MONTE ALEGRE DOS CAMPOS', 'RS', '95236000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4835, 'MONTE BELO DO SUL', 'RS', '95718000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4836, 'MONTENEGRO', 'RS', '95780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4837, 'MORMACO', 'RS', '99315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4838, 'MORRINHOS DO SUL', 'RS', '95577000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4709, 'CRUZEIRO DO SUL', 'RS', '95930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4711, 'DERRUBADAS', 'RS', '98528000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4712, 'DEZESSEIS DE NOVEMBRO', 'RS', '97845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4714, 'DOIS IRMAOS', 'RS', '93950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4839, 'MORRO REDONDO', 'RS', '96150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4840, 'MORRO REUTER', 'RS', '93990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4841, 'MOSTARDAS', 'RS', '96270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4842, 'MUCUM', 'RS', '95970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4843, 'MUITOS CAPOES', 'RS', '95230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4844, 'MULITERNO', 'RS', '99990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4846, 'NICOLAU VERGUEIRO', 'RS', '99175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4847, 'NONOAI', 'RS', '99600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4848, 'NOVA ALVORADA', 'RS', '95985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4849, 'NOVA ARACA', 'RS', '95350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4850, 'NOVA BASSANO', 'RS', '95340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4851, 'NOVA BOA VISTA', 'RS', '99580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4852, 'NOVA BRESCIA', 'RS', '95950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4853, 'NOVA CANDELARIA', 'RS', '98919000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4697, 'COLORADO', 'RS', '99460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4698, 'CONDOR', 'RS', '98290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4699, 'CONSTANTINA', 'RS', '99680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4700, 'COQUEIROS DO SUL', 'RS', '99528000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4701, 'CORONEL BARROS', 'RS', '98735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4562, 'SIDEROPOLIS', 'SC', '88860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4563, 'SOMBRIO', 'SC', '88960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4564, 'SUL BRASIL', 'SC', '89855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4565, 'TAIO', 'SC', '89190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4566, 'TANGARA', 'SC', '89642000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4567, 'TIGRINHOS', 'SC', '89875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4568, 'TIJUCAS', 'SC', '88200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4569, 'TIMBE DO SUL', 'SC', '88940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4570, 'TIMBO', 'SC', '89120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4571, 'TIMBO GRANDE', 'SC', '89545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (615, 'SANTA QUITERIA DO MARANHAO', 'MA', '65540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (616, 'SANTA RITA', 'MA', '65105000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (617, 'SANTANA DO MARANHAO', 'MA', '65555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (618, 'SANTO AMARO DO MARANHAO', 'MA', '65195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (619, 'SANTO ANTONIO DOS LOPES', 'MA', '65730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (620, 'SAO BENEDITO DO RIO PRETO', 'MA', '65440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (621, 'SAO BENTO', 'MA', '65235000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (622, 'SAO BERNARDO', 'MA', '65550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (623, 'SAO DOMINGOS DO AZEITAO', 'MA', '65888000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (625, 'SAO FELIX DE BALSAS', 'MA', '65890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (626, 'SAO FRANCISCO DO BREJAO', 'MA', '65929000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (627, 'SAO FRANCISCO DO MARANHAO', 'MA', '65650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (628, 'SAO JOAO BATISTA', 'MA', '65225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (629, 'SAO JOAO DO CARU', 'MA', '65385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (630, 'SAO JOAO DO PARAISO', 'MA', '65973000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (631, 'SAO JOAO DO SOTER', 'MA', '65615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (632, 'SAO JOAO DOS PATOS', 'MA', '65665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (633, 'SAO JOSE DE RIBAMAR', 'MA', '65110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (634, 'SAO JOSE DOS BASILIOS', 'MA', '65762000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (635, 'SAO LUIS', 'MA', '65000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (636, 'SAO LUIS GONZAGA DO MARANHAO', 'MA', '65708000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (637, 'SAO MATEUS DO MARANHAO', 'MA', '65470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (638, 'SAO PEDRO DA AGUA BRANCA', 'MA', '65920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (639, 'SAO PEDRO DOS CRENTES', 'MA', '65978000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (641, 'SAO RAIMUNDO DO DOCA BEZERRA', 'MA', '65753000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (642, 'SAO ROBERTO', 'MA', '65758000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (643, 'SAO VICENTE FERRER', 'MA', '65220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (644, 'SATUBINHA', 'MA', '65709000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5083, 'CASSILANDIA', 'MS', '79540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5084, 'CHAPADAO DO SUL', 'MS', '79560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5085, 'CORGUINHO', 'MS', '79460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5086, 'CORONEL SAPUCAIA', 'MS', '79995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5087, 'CORUMBA', 'MS', '79300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5088, 'COSTA RICA', 'MS', '79550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5089, 'COXIM', 'MS', '79400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5090, 'DEODAPOLIS', 'MS', '79790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5091, 'DOIS IRMAOS DO BURITI', 'MS', '79215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5092, 'DOURADINA', 'MS', '79880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5093, 'DOURADOS', 'MS', '79800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5094, 'ELDORADO', 'MS', '79970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5096, 'GLORIA DE DOURADOS', 'MS', '79730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5097, 'GUIA LOPES DA LAGUNA', 'MS', '79230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5098, 'IGUATEMI', 'MS', '79960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5099, 'INOCENCIA', 'MS', '79580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5100, 'ITAPORA', 'MS', '79890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5101, 'ITAQUIRAI', 'MS', '79965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5102, 'IVINHEMA', 'MS', '79740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5103, 'JAPORA', 'MS', '79985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5104, 'JARAGUARI', 'MS', '79440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5105, 'JARDIM', 'MS', '79240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5106, 'JATEI', 'MS', '79720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5107, 'JUTI', 'MS', '79955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5108, 'LADARIO', 'MS', '79370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5110, 'MARACAJU', 'MS', '79150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5111, 'MIRANDA', 'MS', '79380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5112, 'MUNDO NOVO', 'MS', '79980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5113, 'NAVIRAI', 'MS', '79950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (665, 'VITORINO FREIRE', 'MA', '65320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (666, 'ZE DOCA', 'MA', '65365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (667, 'ACAUA', 'PI', '64748000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (668, 'AGRICOLANDIA', 'PI', '64440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (669, 'AGUA BRANCA', 'PI', '64460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (670, 'ALAGOINHA DO PIAUI', 'PI', '64655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (672, 'ALTO LONGA', 'PI', '64360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (673, 'ALTOS', 'PI', '64290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (674, 'ALVORADA DO GURGUEIA', 'PI', '64923000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (675, 'AMARANTE', 'PI', '64400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (676, 'ANGICAL DO PIAUI', 'PI', '64410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (677, 'ANISIO DE ABREU', 'PI', '64780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (678, 'ANTONIO ALMEIDA', 'PI', '64855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (679, 'AROAZES', 'PI', '64310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (680, 'ARRAIAL', 'PI', '64480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (681, 'ASSUNCAO DO PIAUI', 'PI', '64333000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (682, 'AVELINO LOPES', 'PI', '64965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (683, 'BAIXA GRANDE DO RIBEIRO', 'PI', '64868000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (684, 'BARRA D''ALCANTARA', 'PI', '64528000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (685, 'BARRAS', 'PI', '64100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (687, 'BARRO DURO', 'PI', '64455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (688, 'BATALHA', 'PI', '64190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (689, 'BELA VISTA DO PIAUI', 'PI', '64705000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (690, 'BELEM DO PIAUI', 'PI', '64678000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (691, 'BENEDITINOS', 'PI', '64380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (692, 'BERTOLINIA', 'PI', '64870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (693, 'BETANIA DO PIAUI', 'PI', '64753000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (564, 'MATOES', 'MA', '65645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (565, 'MATOES DO NORTE', 'MA', '65468000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (566, 'MILAGRES DO MARANHAO', 'MA', '65545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (567, 'MIRADOR', 'MA', '65850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (568, 'MIRANDA DO NORTE', 'MA', '65495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (694, 'BOA HORA', 'PI', '64108000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (695, 'BOCAINA', 'PI', '64630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (696, 'BOM JESUS', 'PI', '64900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (698, 'BONFIM DO PIAUI', 'PI', '64775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (569, 'MIRINZAL', 'MA', '65265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (570, 'MONCAO', 'MA', '65360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (571, 'MONTES ALTOS', 'MA', '65936000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (572, 'MORROS', 'MA', '65160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (573, 'NINA RODRIGUES', 'MA', '65450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (574, 'NOVA COLINAS', 'MA', '65808000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (575, 'NOVA IORQUE', 'MA', '65880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (576, 'NOVA OLINDA DO MARANHAO', 'MA', '65274000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (577, 'OLHO D''AGUA DAS CUNHAS', 'MA', '65706000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (578, 'OLINDA NOVA DO MARANHAO', 'MA', '65223000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (579, 'PACO DO LUMIAR', 'MA', '65130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (580, 'PALMEIRANDIA', 'MA', '65238000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (581, 'PARAIBANO', 'MA', '65670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (582, 'PARNARAMA', 'MA', '65640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (583, 'PASSAGEM FRANCA', 'MA', '65680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4718, 'DOM PEDRO DE ALCANTARA', 'RS', '95568000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4719, 'DOM PEDRITO', 'RS', '96450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4720, 'DONA FRANCISCA', 'RS', '97280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4721, 'DOUTOR MAURICIO CARDOSO', 'RS', '98925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4722, 'DOUTOR RICARDO', 'RS', '95967000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4723, 'ELDORADO DO SUL', 'RS', '92990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4724, 'ENCANTADO', 'RS', '95960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4725, 'ENCRUZILHADA DO SUL', 'RS', '96610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4726, 'ENGENHO VELHO', 'RS', '99698000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4727, 'ENTRE IJUIS', 'RS', '98855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4729, 'EREBANGO', 'RS', '99920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4730, 'ERECHIM', 'RS', '99700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4731, 'ERNESTINA', 'RS', '99140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4732, 'HERVAL', 'RS', '96310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4733, 'ERVAL GRANDE', 'RS', '99750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4734, 'ERVAL SECO', 'RS', '98390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4735, 'ESMERALDA', 'RS', '95380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4736, 'ESPERANCA DO SUL', 'RS', '98635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4737, 'ESPUMOSO', 'RS', '99400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4738, 'ESTACAO', 'RS', '99930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4739, 'ESTANCIA VELHA', 'RS', '93600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4740, 'ESTEIO', 'RS', '93250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4741, 'ESTRELA', 'RS', '95880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4742, 'ESTRELA VELHA', 'RS', '96990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4743, 'EUGENIO DE CASTRO', 'RS', '98860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4745, 'FARROUPILHA', 'RS', '95180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4746, 'FAXINAL DO SOTURNO', 'RS', '97220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4747, 'FAXINALZINHO', 'RS', '99655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4748, 'FAZENDA VILANOVA', 'RS', '95875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4749, 'FELIZ', 'RS', '95770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4750, 'FLORES DA CUNHA', 'RS', '95270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4751, 'FLORIANO PEIXOTO', 'RS', '99910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4752, 'FONTOURA XAVIER', 'RS', '99370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4753, 'FORMIGUEIRO', 'RS', '97210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4754, 'FORTALEZA DOS VALOS', 'RS', '98125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4755, 'FREDERICO WESTPHALEN', 'RS', '98400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4756, 'GARIBALDI', 'RS', '95720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4757, 'GARRUCHOS', 'RS', '97690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4758, 'GAURAMA', 'RS', '99830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4760, 'GENTIL', 'RS', '99160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4761, 'GETULIO VARGAS', 'RS', '99900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4762, 'GIRUA', 'RS', '98870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5028, 'TRIUNFO', 'RS', '95840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5029, 'TUCUNDUVA', 'RS', '98930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5030, 'TUNAS', 'RS', '99330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5031, 'TUPANCI DO SUL', 'RS', '99878000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5032, 'TUPANCIRETA', 'RS', '98170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5033, 'TUPANDI', 'RS', '95775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5035, 'TURUCU', 'RS', '96148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5036, 'UBIRETAMA', 'RS', '98898000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5037, 'UNIAO DA SERRA', 'RS', '99215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5038, 'UNISTALDA', 'RS', '97755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5039, 'URUGUAIANA', 'RS', '97500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5040, 'VACARIA', 'RS', '95200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5041, 'VALE VERDE', 'RS', '95833000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5042, 'VALE DO SOL', 'RS', '96878000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5043, 'VALE REAL', 'RS', '95778000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5044, 'VANINI', 'RS', '99290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5209, 'NOVA OLIMPIA', 'MT', '78370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5210, 'NOVA UBIRATA', 'MT', '78888000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5211, 'NOVA XAVANTINA', 'MT', '78690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5045, 'VENANCIO AIRES', 'RS', '95800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5046, 'VERA CRUZ', 'RS', '96880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5047, 'VERANOPOLIS', 'RS', '95330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5048, 'VESPASIANO CORREA', 'RS', '95972000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5049, 'VIADUTOS', 'RS', '99820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5050, 'VIAMAO', 'RS', '94400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5051, 'VICENTE DUTRA', 'RS', '98450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5052, 'VICTOR GRAEFF', 'RS', '99350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5053, 'VILA FLORES', 'RS', '95334000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5054, 'VILA LANGARO', 'RS', '99955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5055, 'VILA MARIA', 'RS', '99155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5056, 'VILA NOVA DO SUL', 'RS', '97385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5058, 'VISTA ALEGRE DO PRATA', 'RS', '95325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5059, 'VISTA GAUCHA', 'RS', '98535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5060, 'VITORIA DAS MISSOES', 'RS', '98850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5061, 'XANGRI-LA', 'RS', '95588000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5194, 'LAMBARI D''OESTE', 'MT', '78278000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5195, 'LUCAS DO RIO VERDE', 'MT', '78455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5196, 'LUCIARA', 'MT', '78660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5197, 'VILA BELA DA SANTISSIMA TRINDADE', 'MT', '78245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5198, 'MARCELANDIA', 'MT', '78535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5199, 'MATUPA', 'MT', '78525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5200, 'MIRASSOL D''OESTE', 'MT', '78280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5201, 'NOBRES', 'MT', '78460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5202, 'NORTELANDIA', 'MT', '78430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4950, 'SAO BORJA', 'RS', '97670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4951, 'SAO DOMINGOS DO SUL', 'RS', '99270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4952, 'SAO FRANCISCO DE ASSIS', 'RS', '97610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4953, 'SAO FRANCISCO DE PAULA', 'RS', '95400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4954, 'SAO GABRIEL', 'RS', '97300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4955, 'SAO JERONIMO', 'RS', '96700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4956, 'SAO JOAO DA URTIGA', 'RS', '99855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4957, 'SAO JOAO DO POLESINE', 'RS', '97230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4652, 'CAIBATE', 'RS', '97930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4653, 'CAICARA', 'RS', '98440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4654, 'CAMAQUA', 'RS', '96180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4655, 'CAMARGO', 'RS', '99165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4656, 'CAMBARA DO SUL', 'RS', '95480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4657, 'CAMPESTRE DA SERRA', 'RS', '95255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4658, 'CAMPINA DAS MISSOES', 'RS', '98975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4660, 'CAMPO BOM', 'RS', '93700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4661, 'CAMPO NOVO', 'RS', '98570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4662, 'CAMPOS BORGES', 'RS', '99435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4663, 'CANDELARIA', 'RS', '96930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4814, 'LINDOLFO COLLOR', 'RS', '93940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4815, 'LINHA NOVA', 'RS', '95768000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4816, 'MACHADINHO', 'RS', '99880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4817, 'MACAMBARA', 'RS', '97645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4818, 'MAMPITUBA', 'RS', '95572000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4819, 'MANOEL VIANA', 'RS', '97640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4820, 'MAQUINE', 'RS', '95530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4821, 'MARATA', 'RS', '95793000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4822, 'MARAU', 'RS', '99150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4823, 'MARCELINO RAMOS', 'RS', '99800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4825, 'MARIANO MORO', 'RS', '99790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4826, 'MARQUES DE SOUZA', 'RS', '95923000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4827, 'MATA', 'RS', '97410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4828, 'MATO CASTELHANO', 'RS', '99180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4829, 'MATO LEITAO', 'RS', '95835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4830, 'MAXIMILIANO DE ALMEIDA', 'RS', '99890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4640, 'BOM PROGRESSO', 'RS', '98575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4641, 'BOM RETIRO DO SUL', 'RS', '95870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4642, 'BOQUEIRAO DO LEAO', 'RS', '95920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4643, 'BOSSOROCA', 'RS', '97850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4644, 'BRAGA', 'RS', '98560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4645, 'BROCHIER', 'RS', '95790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4551, 'SAO JOSE DO CERRITO', 'SC', '88570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4552, 'SAO LOURENCO DO OESTE', 'SC', '89990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4554, 'SAO MARTINHO', 'SC', '88765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4418, 'IPORA DO OESTE', 'SC', '89899000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4419, 'IPUACU', 'SC', '89832000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4420, 'IPUMIRIM', 'SC', '89790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4421, 'IRACEMINHA', 'SC', '89891000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4422, 'IRANI', 'SC', '89680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4423, 'IRATI', 'SC', '89856000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4424, 'IRINEOPOLIS', 'SC', '89440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4425, 'ITA', 'SC', '89760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4426, 'ITAIOPOLIS', 'SC', '89340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4427, 'ITAJAI', 'SC', '88300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4428, 'ITAPEMA', 'SC', '88220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4429, 'ITAPIRANGA', 'SC', '89896000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4431, 'ITUPORANGA', 'SC', '88400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4432, 'JABORA', 'SC', '89677000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4433, 'JACINTO MACHADO', 'SC', '88950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4555, 'SAO MIGUEL DA BOA VISTA', 'SC', '89879000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4556, 'SAO MIGUEL D''OESTE', 'SC', '89900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4557, 'SAO PEDRO DE ALCANTARA', 'SC', '88125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4558, 'SAUDADES', 'SC', '89868000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4559, 'SCHROEDER', 'SC', '89275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4560, 'SEARA', 'SC', '89770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4561, 'SERRA ALTA', 'SC', '89871000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4411, 'ILHOTA', 'SC', '88320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4412, 'IMARUI', 'SC', '88770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4414, 'IMBUIA', 'SC', '88440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4415, 'INDAIAL', 'SC', '89130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4416, 'IOMERE', 'SC', '89558000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4417, 'IPIRA', 'SC', '89669000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4277, 'TERRA RICA', 'PR', '87890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4278, 'TERRA ROXA', 'PR', '85990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4279, 'TIBAGI', 'PR', '84300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4280, 'TIJUCAS DO SUL', 'PR', '83190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4281, 'TOLEDO', 'PR', '85900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4282, 'TOMAZINA', 'PR', '84935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4284, 'TUNAS DO PARANA', 'PR', '83480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4285, 'TUNEIRAS DO OESTE', 'PR', '87450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4287, 'TURVO', 'PR', '85150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4288, 'UBIRATA', 'PR', '85440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4289, 'UMUARAMA', 'PR', '87500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4290, 'UNIAO DA VITORIA', 'PR', '84600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4291, 'UNIFLOR', 'PR', '87640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4293, 'WENCESLAU BRAZ', 'PR', '84950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4294, 'VENTANIA', 'PR', '84345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4295, 'VERA CRUZ DO OESTE', 'PR', '85845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4296, 'VERE', 'PR', '85585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4297, 'VILA ALTA', 'PR', '87528000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5237, 'SANTO AFONSO', 'MT', '78425000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5238, 'SAO JOSE DO POVO', 'MT', '78773000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5239, 'SAO JOSE DO RIO CLARO', 'MT', '78435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5240, 'SAO JOSE DO XINGU', 'MT', '78663000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5241, 'SAO PEDRO DA CIPA', 'MT', '78835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5242, 'RONDONOPOLIS', 'MT', '78700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5243, 'ROSARIO DO OESTE', 'MT', '78470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5244, 'SALTO DO CEU', 'MT', '78270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5245, 'SANTA TEREZINHA', 'MT', '78650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5246, 'SANTO ANTONIO DO LEVERGER', 'MT', '78180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5247, 'SAO FELIX DO ARAGUAIA', 'MT', '78670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5248, 'SAPEZAL', 'MT', '78365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5250, 'SORRISO', 'MT', '78890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5251, 'TABAPORA', 'MT', '78563000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5252, 'TANGARA DA SERRA', 'MT', '78300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5253, 'TAPURAH', 'MT', '78555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5254, 'TERRA NOVA DO NORTE', 'MT', '78505000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5255, 'TESOURO', 'MT', '78775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5256, 'TORIXOREU', 'MT', '78695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5257, 'UNIAO DO SUL', 'MT', '78543000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5258, 'VARZEA GRANDE', 'MT', '78110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5259, 'VERA', 'MT', '78880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5260, 'VILA RICA', 'MT', '78645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5261, 'NOVA GUARITA', 'MT', '78508000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5263, 'NOVA MARINGA', 'MT', '78445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5270, 'AGUA LIMPA', 'GO', '75665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5271, 'AGUA LINDAS DE GOIAS', 'GO', '72910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5272, 'ALEXANIA', 'GO', '72920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5273, 'ALOANDIA', 'GO', '75615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5274, 'ALTO HORIZONTE', 'GO', '76560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5114, 'NIOAQUE', 'MS', '79220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5115, 'NOVA ALVORADA DO SUL', 'MS', '79140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5116, 'NOVA ANDRADINA', 'MS', '79750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5117, 'NOVO HORIZONTE DO SUL', 'MS', '79745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5118, 'PARANAIBA', 'MS', '79500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5119, 'PARANHOS', 'MS', '79925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5120, 'PEDRO GOMES', 'MS', '79410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5121, 'PONTA PORA', 'MS', '79900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5123, 'RIBAS DO RIO PARDO', 'MS', '79180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5124, 'RIO BRILHANTE', 'MS', '79130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5125, 'RIO NEGRO', 'MS', '79470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5126, 'RIO VERDE DE MATO GROSSO', 'MS', '79480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5127, 'ROCHEDO', 'MS', '79450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5128, 'SANTA RITA DO PARDO', 'MS', '79690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5129, 'SAO GABRIEL DO OESTE', 'MS', '79490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5130, 'SETE QUEDAS', 'MS', '79935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5131, 'SELVIRIA', 'MS', '79590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5132, 'SIDROLANDIA', 'MS', '79170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4992, 'SENADOR SALGADO FILHO', 'RS', '98895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4993, 'SENTINELA DO SUL', 'RS', '96765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4994, 'SERAFINA CORREA', 'RS', '99250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4995, 'SERIO', 'RS', '95918000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4997, 'SERTAO SANTANA', 'RS', '92850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4998, 'SETE DE SETEMBRO', 'RS', '97960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4999, 'SEVERIANO DE ALMEIDA', 'RS', '99810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5000, 'SILVEIRA MARTINS', 'RS', '97195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5001, 'SINIMBU', 'RS', '96890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5002, 'SOBRADINHO', 'RS', '96900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5003, 'SOLEDADE', 'RS', '99300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5004, 'TABAI', 'RS', '95863000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5005, 'TAPEJARA', 'RS', '99950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5006, 'TAPERA', 'RS', '99490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5007, 'TAPES', 'RS', '96760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5008, 'TAQUARA', 'RS', '95600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5010, 'TAQUARUCU DO SUL', 'RS', '98410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5011, 'TAVARES', 'RS', '96290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5012, 'TENENTE PORTELA', 'RS', '98500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3935, 'BELA VISTA DO CAROBA', 'PR', '85745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3936, 'BELA VISTA DO PARAISO', 'PR', '86130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3937, 'BITURUNA', 'PR', '84640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3938, 'BOA ESPERANCA', 'PR', '87390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3939, 'BOA ESPERANCA DO IGUACU', 'PR', '85680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3940, 'BOA VENTURA DE SAO ROQUE', 'PR', '85225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3941, 'BOA VISTA DA APARECIDA', 'PR', '85780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3942, 'BOCAIUVA DO SUL', 'PR', '83450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3943, 'BOM JESUS DO SUL', 'PR', '85708000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3944, 'BOM SUCESSO', 'PR', '86940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3946, 'BORRAZOPOLIS', 'PR', '86925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3947, 'BRAGANEY', 'PR', '85430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4572, 'TRES BARRAS', 'SC', '89490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4573, 'TREVISO', 'SC', '88862000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4574, 'TREZE DE MAIO', 'SC', '88710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4575, 'TREZE TILIAS', 'SC', '89650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4577, 'TUBARAO', 'SC', '88700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4578, 'TUNAPOLIS', 'SC', '89898000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4579, 'TURVO', 'SC', '88930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4580, 'UNIAO DO OESTE', 'SC', '89845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4581, 'URUBICI', 'SC', '88650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4582, 'URUPEMA', 'SC', '88625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4583, 'URUSSANGA', 'SC', '88840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4584, 'VARGEAO', 'SC', '89690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4585, 'VARGEM', 'SC', '89638000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4586, 'VARGEM BONITA', 'SC', '89675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4587, 'VIDAL RAMOS', 'SC', '88443000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4958, 'SAO JORGE', 'RS', '95365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4959, 'SAO JOSE DAS MISSOES', 'RS', '98325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5013, 'TERRA DE AREIA', 'RS', '95535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5014, 'TEUTONIA', 'RS', '95890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5015, 'TIRADENTES DO SUL', 'RS', '98680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5016, 'TOROPI', 'RS', '97418000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5017, 'TORRES', 'RS', '95560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5018, 'TRAMANDAI', 'RS', '95590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5019, 'TRAVESSEIRO', 'RS', '95948000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5020, 'TRES ARROIOS', 'RS', '99725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5021, 'TRES CACHOEIRAS', 'RS', '95580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5179, 'GAUCHA DO NORTE', 'MT', '78875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5180, 'GENERAL CARNEIRO', 'MT', '78620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5181, 'GLORIA D''OESTE', 'MT', '78293000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5182, 'GUARANTA DO NORTE', 'MT', '78520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5183, 'GUIRATINGA', 'MT', '78760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5184, 'INDIAVAI', 'MT', '78295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5185, 'ITAUBA', 'MT', '78510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5186, 'ITIQUIRA', 'MT', '78790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5187, 'JACIARA', 'MT', '78820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5188, 'JANGADA', 'MT', '78490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5189, 'JAURU', 'MT', '78255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5190, 'JUARA', 'MT', '78575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5191, 'JUINA', 'MT', '78320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5193, 'JUSCIMEIRA', 'MT', '78810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5373, 'IPAMERI', 'GO', '75780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5374, 'IPORA', 'GO', '76200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5375, 'ISRAELANDIA', 'GO', '76205000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5376, 'ITABERAI', 'GO', '76630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5377, 'ITAGUARI', 'GO', '76650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5378, 'ITAGUARU', 'GO', '76660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5379, 'ITAJA', 'GO', '75815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5380, 'ITAPACI', 'GO', '76360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5381, 'ITAPIRAPUA', 'GO', '76290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5382, 'ITAPURANGA', 'GO', '76680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4190, 'QUATIGUA', 'PR', '86450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4192, 'QUATRO PONTES', 'PR', '85940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4193, 'QUEDAS DO IGUACU', 'PR', '85460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4194, 'QUERENCIA DO NORTE', 'PR', '87930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4195, 'QUINTA DO SOL', 'PR', '87265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4196, 'QUITANDINHA', 'PR', '83840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4197, 'RAMILANDIA', 'PR', '85888000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4198, 'RANCHO ALEGRE', 'PR', '86290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4199, 'RANCHO ALEGRE D''OESTE', 'PR', '87395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4200, 'REALEZA', 'PR', '85770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4321, 'ARMAZEM', 'SC', '88740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4323, 'ARVOREDO', 'SC', '89778000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4324, 'ASCURRA', 'SC', '89138000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4325, 'ATALANTA', 'SC', '88410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4326, 'AURORA', 'SC', '89186000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4328, 'BALNEARIO CAMBORIU', 'SC', '88330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4329, 'BALNEARIO BARRA DO SUL', 'SC', '89247000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4330, 'BALNEARIO GAIVOTA', 'SC', '88955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4331, 'BANDEIRANTE', 'SC', '89905000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4527, 'SALTO VELOSO', 'SC', '89595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4528, 'SANGAO', 'SC', '88717000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4529, 'SANTA CECILIA', 'SC', '89540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4530, 'SANTA HELENA', 'SC', '89915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4531, 'SANTA ROSA DE LIMA', 'SC', '88763000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4532, 'SANTA ROSA DO SUL', 'SC', '88965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4533, 'SANTA TEREZINHA', 'SC', '89199000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4534, 'SANTA TEREZINHA DO PROGRESSO', 'SC', '89983000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4535, 'SANTIAGO DO SUL', 'SC', '89854000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4537, 'SAO BERNARDINO', 'SC', '89982000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4538, 'SAO BENTO DO SUL', 'SC', '89290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4539, 'SAO BONIFACIO', 'SC', '88485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4540, 'SAO CARLOS', 'SC', '89885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4541, 'SAO CRISTOVAO DO SUL', 'SC', '89533000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4542, 'SAO DOMINGOS', 'SC', '89835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4358, 'CAMPOS NOVOS', 'SC', '89620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4359, 'CANELINHA', 'SC', '88230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4360, 'CANOINHAS', 'SC', '89460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4543, 'SAO FRANCISCO DO SUL', 'SC', '89240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4544, 'SAO JOAO DO OESTE', 'SC', '89897000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4545, 'SAO JOAO BATISTA', 'SC', '88240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4546, 'SAO JOAO DO ITAPERIU', 'SC', '88395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4547, 'SAO JOAO DO SUL', 'SC', '88970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4548, 'SAO JOAQUIM', 'SC', '88600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4549, 'SAO JOSE', 'SC', '88100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4361, 'CAPINZAL', 'SC', '89665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4362, 'CAPIVARI DE BAIXO', 'SC', '88745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4363, 'CATANDUVAS', 'SC', '89670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4364, 'CAXAMBU DO SUL', 'SC', '89880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4365, 'CELSO RAMOS', 'SC', '88598000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4366, 'CERRO NEGRO', 'SC', '88585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4367, 'CHAPADAO DO LAGEADO', 'SC', '88407000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4368, 'CHAPECO', 'SC', '89800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4369, 'COCAL DO SUL', 'SC', '88845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4348, 'BRUNOPOLIS', 'SC', '89634000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4349, 'BRUSQUE', 'SC', '88350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4350, 'CACADOR', 'SC', '89500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4351, 'CAIBI', 'SC', '89888000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4352, 'CALMON', 'SC', '89430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4258, 'SAO PEDRO DO PARANA', 'PR', '87955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4259, 'SAO SEBASTIAO DA AMOREIRA', 'PR', '86240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4260, 'SAO TOME', 'PR', '87220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4261, 'SAPOPEMA', 'PR', '84290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4262, 'SARANDI', 'PR', '87110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4263, 'SAUDADE DO IGUACU', 'PR', '85568000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4139, 'NOVA OLIMPIA', 'PR', '87490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4140, 'NOVA SANTA BARBARA', 'PR', '86250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4141, 'NOVA SANTA ROSA', 'PR', '85930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4142, 'NOVA PRATA DO IGUACU', 'PR', '85685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4143, 'NOVA TEBAS', 'PR', '85250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4144, 'NOVO ITACOLOMI', 'PR', '86895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4145, 'ORTIGUEIRA', 'PR', '84350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4146, 'OURIZONA', 'PR', '87170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4264, 'SENGES', 'PR', '84220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4266, 'SERTANEJA', 'PR', '86340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4960, 'SAO JOSE DO HERVAL', 'RS', '99380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4961, 'SAO JOSE DO HORTENCIO', 'RS', '95755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4962, 'SAO JOSE DO INHACORA', 'RS', '98958000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4963, 'SAO JOSE DO NORTE', 'RS', '96225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4964, 'SAO JOSE DO OURO', 'RS', '99870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4966, 'SAO LEOPOLDO', 'RS', '93000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4967, 'SAO LOURENCO DO SUL', 'RS', '96170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4968, 'SAO LUIZ GONZAGA', 'RS', '97800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4969, 'SAO MARCOS', 'RS', '95190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4970, 'SAO MARTINHO', 'RS', '98690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4971, 'SAO MARTINHO DA SERRA', 'RS', '97190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4972, 'SAO MIGUEL DAS MISSOES', 'RS', '98865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4973, 'SAO NICOLAU', 'RS', '97880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4974, 'SAO PAULO DAS MISSOES', 'RS', '97980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4975, 'SAO PEDRO DA SERRA', 'RS', '95758000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4976, 'SAO PEDRO DO BUTIA', 'RS', '97920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4977, 'SAO PEDRO DO SUL', 'RS', '97400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4978, 'SAO SEBASTIAO DO CAI', 'RS', '95760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4979, 'SAO SEPE', 'RS', '97340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4980, 'SAO VALENTIM', 'RS', '99640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4987, 'SARANDI', 'RS', '99560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4988, 'SEBERI', 'RS', '98380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4989, 'SEDE NOVA', 'RS', '98675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4991, 'SELBACH', 'RS', '99450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4715, 'DOIS IRMAOS DAS MISSOES', 'RS', '98385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4716, 'DOIS LAJEADOS', 'RS', '99220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4717, 'DOM FELICIANO', 'RS', '96190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3721, 'PRESIDENTE EPITACIO', 'SP', '19470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3723, 'PRESIDENTE VENCESLAU', 'SP', '19400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3724, 'PROMISSAO', 'SP', '16370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3725, 'QUADRA', 'SP', '18255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3726, 'QUATA', 'SP', '19780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3727, 'QUEIROZ', 'SP', '17590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3728, 'QUELUZ', 'SP', '12800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3729, 'QUINTANA', 'SP', '17670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3730, 'RAFARD', 'SP', '13370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3731, 'RANCHARIA', 'SP', '19600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3732, 'REDENCAO DA SERRA', 'SP', '12170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3733, 'REGENTE FEIJO', 'SP', '19570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3734, 'REGINOPOLIS', 'SP', '17190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3735, 'REGISTRO', 'SP', '11900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3736, 'RESTINGA', 'SP', '14430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3737, 'RIBEIRA', 'SP', '18380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4614, 'ARROIO DO SAL', 'RS', '95585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4615, 'ARROIO DOS RATOS', 'RS', '96740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4616, 'ARROIO DO TIGRE', 'RS', '96950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4617, 'ARROIO GRANDE', 'RS', '96330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4618, 'ARVOREZINHA', 'RS', '95995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4619, 'AUGUSTO PESTANA', 'RS', '98740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4620, 'AUREA', 'RS', '99835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4621, 'BAGE', 'RS', '96400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4622, 'BALNEARIO PINHAL', 'RS', '95599000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4623, 'BARAO', 'RS', '95730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4624, 'BARAO DE COTEGIPE', 'RS', '99740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4809, 'LAGOA VERMELHA', 'RS', '95300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4810, 'LAJEADO', 'RS', '95900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4811, 'LAJEADO DO BUGRE', 'RS', '98320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4813, 'LIBERATO SALZANO', 'RS', '99690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4646, 'BUTIA', 'RS', '96750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4647, 'CACAPAVA DO SUL', 'RS', '96570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4648, 'CACEQUI', 'RS', '97450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4649, 'CACHOEIRA DO SUL', 'RS', '96500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4650, 'CACHOEIRINHA', 'RS', '94900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4651, 'CACIQUE DOBLE', 'RS', '99860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4588, 'VIDEIRA', 'SC', '89560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4589, 'VITOR MEIRELES', 'SC', '89148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4590, 'WITMARSUM', 'SC', '89157000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4592, 'XAVANTINA', 'SC', '89780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4593, 'XAXIM', 'SC', '89825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4594, 'ZORTEA', 'SC', '89633000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4595, 'AGUA SANTA', 'RS', '99965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4596, 'AGUDO', 'RS', '96540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4597, 'AJURICABA', 'RS', '98750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4598, 'ALECRIM', 'RS', '98950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4599, 'ALEGRETE', 'RS', '97540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4600, 'ALEGRIA', 'RS', '98905000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4601, 'ALPESTRE', 'RS', '98480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4602, 'ALTO ALEGRE', 'RS', '99430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4603, 'ALTO FELIZ', 'RS', '95773000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4605, 'AMARAL FERRADOR', 'RS', '96635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4606, 'AMETISTA DO SUL', 'RS', '98465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4607, 'ANDRE DA ROCHA', 'RS', '95310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4608, 'ANTA GORDA', 'RS', '95980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4767, 'GRAVATAI', 'RS', '94000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4768, 'GUABIJU', 'RS', '95355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4769, 'GUAIBA', 'RS', '92500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4770, 'GUAPORE', 'RS', '99200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4771, 'GUARANI DAS MISSOES', 'RS', '97950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4772, 'HARMONIA', 'RS', '95785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4773, 'HERVEIRAS', 'RS', '96888000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4774, 'HORIZONTINA', 'RS', '98920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4776, 'HUMAITA', 'RS', '98670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4777, 'IBARAMA', 'RS', '96925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4778, 'IBIACA', 'RS', '99940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4779, 'IBIRAIARAS', 'RS', '95305000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4780, 'IBIRAPUITA', 'RS', '99320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4781, 'IBIRUBA', 'RS', '98200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4782, 'IGREJINHA', 'RS', '95650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4783, 'IJUI', 'RS', '98700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4784, 'ILOPOLIS', 'RS', '95990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4785, 'IMBE', 'RS', '95625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4786, 'IMIGRANTE', 'RS', '95885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4787, 'INDEPENDENCIA', 'RS', '98915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4788, 'INHACORA', 'RS', '98765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4790, 'IPIRANGA DO SUL', 'RS', '99925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4791, 'IRAI', 'RS', '98460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4792, 'ITAARA', 'RS', '97185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4793, 'ITACURUBI', 'RS', '97685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4794, 'ITAPUCA', 'RS', '95997000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4795, 'ITAQUI', 'RS', '97650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4796, 'ITATIBA DO SUL', 'RS', '99760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4797, 'IVORA', 'RS', '98160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4798, 'IVOTI', 'RS', '93900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4799, 'JABOTICABA', 'RS', '98350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4800, 'JACUTINGA', 'RS', '99730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4802, 'JAGUARI', 'RS', '97760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4803, 'JAQUIRANA', 'RS', '95420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4804, 'JARI', 'RS', '98175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4805, 'JOIA', 'RS', '98180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4806, 'JULIO DE CASTILHOS', 'RS', '98130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4807, 'LAGOAO', 'RS', '99340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4808, 'LAGOA DOS TRES CANTOS', 'RS', '99495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4917, 'RIOZINHO', 'RS', '95695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4918, 'ROCA SALES', 'RS', '95735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4919, 'RODEIO BONITO', 'RS', '98360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4920, 'ROLANTE', 'RS', '95690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4921, 'RONDA ALTA', 'RS', '99670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4923, 'ROQUE GONZALES', 'RS', '97970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4924, 'ROSARIO DO SUL', 'RS', '97590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4925, 'SAGRADA FAMILIA', 'RS', '98330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4926, 'SALDANHA MARINHO', 'RS', '98250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4927, 'SALTO DO JACUI', 'RS', '99440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4928, 'SALVADOR DAS MISSOES', 'RS', '97940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4664, 'CANDIDO GODOI', 'RS', '98970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4665, 'CANDIOTA', 'RS', '96495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4666, 'CANELA', 'RS', '95680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4667, 'CANGUCU', 'RS', '96600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4668, 'CANOAS', 'RS', '92000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4669, 'CAPAO DA CANOA', 'RS', '95555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4670, 'CAPAO DO LEAO', 'RS', '96160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4673, 'CAPITAO', 'RS', '95935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4674, 'CARAZINHO', 'RS', '99500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4675, 'CARAA', 'RS', '95515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4676, 'CARLOS BARBOSA', 'RS', '95185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4677, 'CARLOS GOMES', 'RS', '99825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4678, 'CASCA', 'RS', '99260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4679, 'CASEIROS', 'RS', '95315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4680, 'CATUIPE', 'RS', '98770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4682, 'CENTENARIO', 'RS', '99838000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4683, 'CERRITO', 'RS', '96395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4684, 'CERRO BRANCO', 'RS', '96535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4685, 'CERRO GRANDE', 'RS', '98340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4686, 'CERRO GRANDE DO SUL', 'RS', '96770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4891, 'PIRAPO', 'RS', '97885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4892, 'PIRATINI', 'RS', '96490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4893, 'PLANALTO', 'RS', '98470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4894, 'POCO DAS ANTAS', 'RS', '95740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4895, 'PONTAO', 'RS', '99190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4896, 'PONTE PRETA', 'RS', '99735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4897, 'PORTAO', 'RS', '93180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4898, 'PORTO ALEGRE', 'RS', '90000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4899, 'PORTO LUCENA', 'RS', '98980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4901, 'PORTO VERA CRUZ', 'RS', '98985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5023, 'TRES DE MAIO', 'RS', '98910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5024, 'TRES FORQUILHAS', 'RS', '95575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5025, 'TRES PALMEIRAS', 'RS', '99675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5026, 'TRES PASSOS', 'RS', '98600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5027, 'TRINDADE DO SUL', 'RS', '99615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3656, 'PANORAMA', 'SP', '17980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3657, 'PARAGUACU PAULISTA', 'SP', '19700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3658, 'PARAIBUNA', 'SP', '12260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3659, 'PARAISO', 'SP', '15825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3660, 'PARANAPANEMA', 'SP', '18720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3661, 'PARANAPUA', 'SP', '15745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3662, 'PARAPUA', 'SP', '17730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3663, 'PARDINHO', 'SP', '18640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3665, 'PARISI', 'SP', '15525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3666, 'PATROCINIO PAULISTA', 'SP', '14415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3667, 'PAULICEIA', 'SP', '17990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3668, 'PAULINIA', 'SP', '13140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3669, 'PAULISTANIA', 'SP', '17150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3670, 'PAULO DE FARIA', 'SP', '15490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3671, 'PEDERNEIRAS', 'SP', '17280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3672, 'PEDRA BELA', 'SP', '12990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3673, 'PEDRANOPOLIS', 'SP', '15630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3674, 'PEDREGULHO', 'SP', '14470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3773, 'SANTA CLARA D''OESTE', 'SP', '15785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3774, 'SANTA CRUZ DA CONCEICAO', 'SP', '13625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3775, 'SANTA CRUZ DA ESPERANCA', 'SP', '14250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3776, 'SANTA CRUZ DAS PALMEIRAS', 'SP', '13650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3778, 'SANTA ERNESTINA', 'SP', '15970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3765, 'SALTO', 'SP', '13320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3766, 'SALTO DE PIRAPORA', 'SP', '18160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3767, 'SALTO GRANDE', 'SP', '19920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3768, 'SANDOVALINA', 'SP', '19250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3769, 'SANTA ADELIA', 'SP', '15950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3770, 'SANTA ALBERTINA', 'SP', '15750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3524, 'ITARIRI', 'SP', '11760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3525, 'ITATIBA', 'SP', '13250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3526, 'ITATINGA', 'SP', '18690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3527, 'ITIRAPINA', 'SP', '13530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3528, 'ITIRAPUA', 'SP', '14420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3529, 'ITOBI', 'SP', '13715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3530, 'ITU', 'SP', '13300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3531, 'ITUPEVA', 'SP', '13295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3532, 'ITUVERAVA', 'SP', '14500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3534, 'JABOTICABAL', 'SP', '14870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3535, 'JACAREI', 'SP', '12300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3536, 'JACI', 'SP', '15155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3537, 'JACUPIRANGA', 'SP', '11940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3538, 'JAGUARIUNA', 'SP', '13820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3539, 'JALES', 'SP', '15700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3540, 'JAMBEIRO', 'SP', '12270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3541, 'JANDIRA', 'SP', '06600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3542, 'JARDINOPOLIS', 'SP', '14680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3543, 'JARINU', 'SP', '13240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3544, 'JAU', 'SP', '17200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3545, 'JERIQUARA', 'SP', '14450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3546, 'JOANOPOLIS', 'SP', '12980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3548, 'JOSE BONIFACIO', 'SP', '15200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3549, 'JULIO MESQUITA', 'SP', '17550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3550, 'JUMIRIM', 'SP', '18535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3551, 'JUNDIAI', 'SP', '13200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3552, 'JUNQUEIROPOLIS', 'SP', '17890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3553, 'JUQUIA', 'SP', '11800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3561, 'LIMEIRA', 'SP', '13480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3619, 'NARANDIBA', 'SP', '19220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3620, 'NATIVIDADE DA SERRA', 'SP', '12180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3621, 'NAZARE PAULISTA', 'SP', '12960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3622, 'NEVES PAULISTA', 'SP', '15120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3623, 'NHANDEARA', 'SP', '15190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3624, 'NIPOA', 'SP', '15240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3625, 'NOVA ALIANCA', 'SP', '15210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3626, 'NOVA CAMPINA', 'SP', '18435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3627, 'NOVA CANAA PAULISTA', 'SP', '15773000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3628, 'NOVA CASTILHO', 'SP', '15313000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3630, 'NOVA GRANADA', 'SP', '15440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3631, 'NOVA GUATAPORANGA', 'SP', '17950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3632, 'NOVA INDEPENDENCIA', 'SP', '16940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3633, 'NOVAIS', 'SP', '15885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3634, 'NOVA LUZITANIA', 'SP', '15340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3635, 'NOVA ODESSA', 'SP', '13460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3636, 'NOVO HORIZONTE', 'SP', '14960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3637, 'NUPORANGA', 'SP', '14670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3638, 'OCAUCU', 'SP', '17540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3639, 'OLEO', 'SP', '18790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3640, 'OLIMPIA', 'SP', '15400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3641, 'ONDA VERDE', 'SP', '15450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3956, 'CAMPINA DA LAGOA', 'PR', '87345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3958, 'CAMPINA GRANDE DO SUL', 'PR', '83430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3959, 'CAMPO BONITO', 'PR', '85450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3960, 'CAMPO DO TENENTE', 'PR', '83870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3961, 'CAMPO LARGO', 'PR', '83600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3962, 'CAMPO MAGRO', 'PR', '83535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3963, 'CAMPO MOURAO', 'PR', '87300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3964, 'CANDIDO DE ABREU', 'PR', '84470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3965, 'CANDOI', 'PR', '85140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3966, 'CANTAGALO', 'PR', '85160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3967, 'CAPANEMA', 'PR', '85760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3968, 'CAPITAO LEONIDAS MARQUES', 'PR', '85790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3969, 'CARAMBEI', 'PR', '84145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3970, 'CARLOPOLIS', 'PR', '86420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3971, 'CASCAVEL', 'PR', '85800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3788, 'SANTA RITA DO PASSA QUATRO', 'SP', '13670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3948, 'BRASILANDIA DO SUL', 'PR', '87595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3949, 'CAFEARA', 'PR', '86640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3950, 'CAFELANDIA', 'PR', '85415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3951, 'CAFEZAL DO SUL', 'PR', '87565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3952, 'CALIFORNIA', 'PR', '86820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3953, 'CAMBARA', 'PR', '86390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3954, 'CAMBE', 'PR', '86180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3955, 'CAMBIRA', 'PR', '86890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4059, 'ITAMBARACA', 'PR', '86375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4060, 'ITAMBE', 'PR', '87175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4061, 'ITAPEJARA D''OESTE', 'PR', '85580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4062, 'ITAPERUCU', 'PR', '83560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4064, 'IVAI', 'PR', '84460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4065, 'IVAIPORA', 'PR', '86870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4066, 'IVATE', 'PR', '87525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4067, 'IVATUBA', 'PR', '87130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4068, 'JABOTI', 'PR', '84930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4069, 'JACAREZINHO', 'PR', '86400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4070, 'JAGUAPITA', 'PR', '86610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4071, 'JAGUARIAIVA', 'PR', '84200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4072, 'JANDAIA DO SUL', 'PR', '86900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4073, 'JANIOPOLIS', 'PR', '87380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4074, 'JAPIRA', 'PR', '84920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3803, 'SAO CAETANO DO SUL', 'SP', '09500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3804, 'SAO CARLOS', 'SP', '13560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3805, 'SAO FRANCISCO', 'SP', '15710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3807, 'SAO JOAO DAS DUAS PONTES', 'SP', '15640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3808, 'SAO JOAO DE IRACEMA', 'SP', '15315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3809, 'SAO JOAO DO PAU D''ALHO', 'SP', '17970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3810, 'SAO JOAQUIM DA BARRA', 'SP', '14600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3811, 'SAO JOSE DA BELA VISTA', 'SP', '14440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3812, 'SAO JOSE DO BARREIRO', 'SP', '12830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3813, 'SAO JOSE DO RIO PARDO', 'SP', '13720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3814, 'SAO JOSE DO RIO PRETO', 'SP', '15000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3815, 'SAO JOSE DOS CAMPOS', 'SP', '12200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3816, 'SAO LOURENCO DA SERRA', 'SP', '06890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3817, 'SAO LUIS DO PARAITINGA', 'SP', '12140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3818, 'SAO MANUEL', 'SP', '18650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3819, 'SAO MIGUEL ARCANJO', 'SP', '18230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3820, 'SAO PAULO', 'SP', '01000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3821, 'SAO PEDRO', 'SP', '13520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3822, 'SAO PEDRO DO TURVO', 'SP', '18940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3824, 'SAO SEBASTIAO', 'SP', '11600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3825, 'SAO SEBASTIAO DA GRAMA', 'SP', '13790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3826, 'SAO SIMAO', 'SP', '14200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3827, 'SAO VICENTE', 'SP', '11300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3828, 'SARAPUI', 'SP', '18225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3829, 'SARUTAIA', 'SP', '18840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3830, 'SEBASTIANOPOLIS DO SUL', 'SP', '15180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3831, 'SERRA AZUL', 'SP', '14230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3832, 'SERRANA', 'SP', '14150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3833, 'SERRA NEGRA', 'SP', '13930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3834, 'SERTAOZINHO', 'SP', '14160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3835, 'SETE BARRAS', 'SP', '11910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3837, 'SILVEIRAS', 'SP', '12690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3838, 'SOCORRO', 'SP', '13960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3839, 'SOROCABA', 'SP', '18000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3840, 'SUD MENUCCI', 'SP', '15360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3847, 'TACIBA', 'SP', '19590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3848, 'TAGUAI', 'SP', '18890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3850, 'TAIUVA', 'SP', '14720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3851, 'TAMBAU', 'SP', '13710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3503, 'IRACEMAPOLIS', 'SP', '13495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3504, 'IRAPUA', 'SP', '14990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3505, 'IRAPURU', 'SP', '17880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3506, 'ITABERA', 'SP', '18440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3507, 'ITAI', 'SP', '18730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3508, 'ITAJOBI', 'SP', '15840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3509, 'ITAJU', 'SP', '17260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3510, 'ITANHAEM', 'SP', '11740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3511, 'ITAOCA', 'SP', '18360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3512, 'ITAPECERICA DA SERRA', 'SP', '06850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3514, 'ITAPEVA', 'SP', '18400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3515, 'ITAPEVI', 'SP', '06650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3516, 'ITAPIRA', 'SP', '13970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3517, 'ITAPIRAPUA PAULISTA', 'SP', '18385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3518, 'ITAPOLIS', 'SP', '14900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3519, 'ITAPORANGA', 'SP', '18480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3520, 'ITAPUI', 'SP', '17230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3521, 'ITAPURA', 'SP', '15390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3522, 'ITAQUAQUECETUBA', 'SP', '08570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3523, 'ITARARE', 'SP', '18460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3271, 'ALUMINIO', 'SP', '18125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3272, 'ALVARES FLORENCE', 'SP', '15540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3273, 'ALVARES MACHADO', 'SP', '19160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3275, 'ALVINLANDIA', 'SP', '17430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3276, 'AMERICANA', 'SP', '13465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3277, 'AMERICO BRASILIENSE', 'SP', '14820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3278, 'AMERICO DE CAMPOS', 'SP', '15550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3279, 'AMPARO', 'SP', '13900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3280, 'ANALANDIA', 'SP', '13550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3281, 'ANDRADINA', 'SP', '16900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3282, 'ANGATUBA', 'SP', '18240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3283, 'ANHEMBI', 'SP', '18620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3284, 'ANHUMAS', 'SP', '19580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3285, 'APARECIDA', 'SP', '12570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3286, 'APARECIDA D''OESTE', 'SP', '15735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3287, 'APIAI', 'SP', '18320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3288, 'ARACARIGUAMA', 'SP', '18147000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3289, 'ARACATUBA', 'SP', '16000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3291, 'ARAMINA', 'SP', '14550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3411, 'DIRCE REIS', 'SP', '15715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3412, 'DIVINOLANDIA', 'SP', '13780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3413, 'DOBRADA', 'SP', '15980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3414, 'DOIS CORREGOS', 'SP', '17300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3415, 'DOLCINOPOLIS', 'SP', '15740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3292, 'ARANDU', 'SP', '18710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3125, 'ITARANA', 'ES', '29620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3126, 'IUNA', 'ES', '29390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3127, 'JAGUARE', 'ES', '29950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3128, 'JERONIMO MONTEIRO', 'ES', '29550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3129, 'JOAO NEIVA', 'ES', '29680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3124, 'ITAPEMIRIM', 'ES', '29330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3130, 'LARANJA DA TERRA', 'ES', '29615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3131, 'LINHARES', 'ES', '29900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3133, 'MARATAIZES', 'ES', '29345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3134, 'MARECHAL FLORIANO', 'ES', '29255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3135, 'MARILANDIA', 'ES', '29725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3136, 'MIMOSO DO SUL', 'ES', '29400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3137, 'MONTANHA', 'ES', '29890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3138, 'MUCURICI', 'ES', '29880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3139, 'MUNIZ FREIRE', 'ES', '29380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3140, 'MUQUI', 'ES', '29480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3141, 'NOVA VENECIA', 'ES', '29830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3142, 'PANCAS', 'ES', '29750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3143, 'PEDRO CANARIO', 'ES', '29970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3144, 'PINHEIROS', 'ES', '29980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3145, 'PIUMA', 'ES', '29285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3146, 'PONTO BELO', 'ES', '29885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3148, 'RIO BANANAL', 'ES', '29920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3149, 'RIO NOVO DO SUL', 'ES', '29290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3150, 'SANTA LEOPOLDINA', 'ES', '29640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3151, 'SANTA MARIA DE JETIBA', 'ES', '29645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3152, 'SANTA TERESA', 'ES', '29650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3153, 'SAO DOMINGOS DO NORTE', 'ES', '29745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3154, 'SAO GABRIEL DA PALHA', 'ES', '29780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3155, 'SAO JOSE DO CALCADO', 'ES', '29470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3156, 'SAO MATEUS', 'ES', '29930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3157, 'SAO ROQUE DO CANAA', 'ES', '29665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3159, 'SOORETAMA', 'ES', '29927000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3160, 'VARGEM ALTA', 'ES', '29295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3161, 'VENDA NOVA DO IMIGRANTE', 'ES', '29375000');
+COMMIT;
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3162, 'VIANA', 'ES', '29135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3164, 'VILA VALERIO', 'ES', '29785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3166, 'VITORIA', 'ES', '29000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3167, 'ANGRA DOS REIS', 'RJ', '23900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3168, 'APERIBE', 'RJ', '28495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2774, 'OURO FINO', 'MG', '37570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2775, 'OURO PRETO', 'MG', '35400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2776, 'OURO VERDE DE MINAS', 'MG', '39855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3065, 'URUCANIA', 'MG', '35380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3066, 'URUCUIA', 'MG', '39315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3067, 'VARGEM ALEGRE', 'MG', '35199000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3068, 'VARGEM BONITA', 'MG', '37922000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3069, 'VARGEM GRANDE DO RIO PARDO', 'MG', '39535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3070, 'VARGINHA', 'MG', '37000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3072, 'VARZEA DA PALMA', 'MG', '39260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3073, 'VARZELANDIA', 'MG', '39450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3074, 'VAZANTE', 'MG', '38780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3075, 'VERDELANDIA', 'MG', '39458000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3076, 'VEREDINHA', 'MG', '39663000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3077, 'VERISSIMO', 'MG', '38150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3078, 'VERMELHO NOVO', 'MG', '35359000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3079, 'VESPASIANO', 'MG', '33200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3080, 'VICOSA', 'MG', '36570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3081, 'VIEIRAS', 'MG', '36895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3082, 'MATHIAS LOBATO', 'MG', '35110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3083, 'VIRGEM DA LAPA', 'MG', '39630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3084, 'VIRGINIA', 'MG', '37465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2924, 'SANTANA DO RIACHO', 'MG', '35845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2925, 'SANTANA DOS MONTES', 'MG', '36430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2926, 'SANTA RITA DE CALDAS', 'MG', '37775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2927, 'SANTA RITA DE JACUTINGA', 'MG', '36135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2928, 'SANTA RITA DE MINAS', 'MG', '35326000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2929, 'SANTA RITA DO IBITIPOCA', 'MG', '36235000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2930, 'SANTA RITA DO ITUETO', 'MG', '35225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2931, 'SANTA RITA DO SAPUCAI', 'MG', '37540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2932, 'SANTA ROSA DA SERRA', 'MG', '38805000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2933, 'SANTA VITORIA', 'MG', '38320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2934, 'SANTO ANTONIO DO AMPARO', 'MG', '37262000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2935, 'SANTO ANTONIO DO AVENTUREIRO', 'MG', '36670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2936, 'SANTO ANTONIO DO GRAMA', 'MG', '35388000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2937, 'SANTO ANTONIO DO ITAMBE', 'MG', '39160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2939, 'SANTO ANTONIO DO MONTE', 'MG', '35560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3086, 'VIRGOLANDIA', 'MG', '39715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3087, 'VISCONDE DO RIO BRANCO', 'MG', '36520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3088, 'VOLTA GRANDE', 'MG', '36720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3089, 'WENCESLAU BRAZ', 'MG', '37512000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3090, 'AFONSO CLAUDIO', 'ES', '29600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3091, 'AGUIA BRANCA', 'ES', '29795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3092, 'AGUA DOCE DO NORTE', 'ES', '29820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3093, 'ALEGRE', 'ES', '29500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3094, 'ALFREDO CHAVES', 'ES', '29240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3095, 'ALTO RIO NOVO', 'ES', '29760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2919, 'SANTANA DO DESERTO', 'MG', '36620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2920, 'SANTANA DO GARAMBEU', 'MG', '36146000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2921, 'SANTANA DO JACARE', 'MG', '37278000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2922, 'SANTANA DO MANHUACU', 'MG', '36940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2843, 'POMPEU', 'MG', '35640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2844, 'PONTE NOVA', 'MG', '35430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2845, 'PONTO CHIQUE', 'MG', '39328000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2846, 'PONTO DOS VOLANTES', 'MG', '39615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2847, 'PORTEIRINHA', 'MG', '39520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2848, 'PORTO FIRME', 'MG', '36576000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2849, 'POTE', 'MG', '39827000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2850, 'POUSO ALEGRE', 'MG', '37550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2851, 'POUSO ALTO', 'MG', '37468000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2852, 'PRADOS', 'MG', '36320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2707, 'MATEUS LEME', 'MG', '35670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2708, 'MATIAS BARBOSA', 'MG', '36120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2709, 'MATIAS CARDOSO', 'MG', '39478000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2710, 'MATIPO', 'MG', '35367000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2711, 'MATO VERDE', 'MG', '39527000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2713, 'MATUTINA', 'MG', '38870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2714, 'MEDEIROS', 'MG', '38930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2715, 'MEDINA', 'MG', '39620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2716, 'MENDES PIMENTEL', 'MG', '35270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2717, 'MERCES', 'MG', '36190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2718, 'MESQUITA', 'MG', '35166000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2719, 'MINAS NOVAS', 'MG', '39650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2720, 'MINDURI', 'MG', '37447000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2721, 'MIRABELA', 'MG', '39420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2722, 'MIRADOURO', 'MG', '36893000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2723, 'MIRAI', 'MG', '36790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2724, 'MIRAVANIA', 'MG', '39465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2725, 'MOEDA', 'MG', '35470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2727, 'MONJOLOS', 'MG', '39215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2728, 'MONSENHOR PAULO', 'MG', '37405000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2729, 'MONTALVANIA', 'MG', '39495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2730, 'MONTE ALEGRE DE MINAS', 'MG', '38420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2731, 'MONTE AZUL', 'MG', '39500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2701, 'MARLIERIA', 'MG', '35185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2702, 'MARMELOPOLIS', 'MG', '37516000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2703, 'MARTINHO CAMPOS', 'MG', '35606000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2704, 'MARTINS SOARES', 'MG', '36972000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2705, 'MATA VERDE', 'MG', '39915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4687, 'CERRO LARGO', 'RS', '97900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4688, 'CHAPADA', 'RS', '99530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4689, 'CHARQUEADAS', 'RS', '96745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4690, 'CHARRUA', 'RS', '99960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4691, 'CHIAPETA', 'RS', '98760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4692, 'CHUI', 'RS', '96255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4694, 'CIDREIRA', 'RS', '95595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4695, 'CIRIACO', 'RS', '99970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4696, 'COLINAS', 'RS', '95895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4703, 'COTIPORA', 'RS', '95335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4704, 'COXILHA', 'RS', '99145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4705, 'CRISSIUMAL', 'RS', '98640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4706, 'CRISTAL', 'RS', '96195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4707, 'CRISTAL DO SUL', 'RS', '98368000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4708, 'CRUZ ALTA', 'RS', '98000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4434, 'JAGUARUNA', 'SC', '88715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4435, 'JARAGUA DO SUL', 'SC', '89250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4436, 'JARDINOPOLIS', 'SC', '89848000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4438, 'JOINVILLE', 'SC', '89200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4439, 'JOSE BOITEUX', 'SC', '89145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4440, 'JUPIA', 'SC', '89839000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4441, 'LACERDOPOLIS', 'SC', '89660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4442, 'LAGES', 'SC', '88500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4443, 'LAGUNA', 'SC', '88790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4444, 'LAJEADO GRANDE', 'SC', '89828000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4445, 'LAURENTINO', 'SC', '89170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4446, 'LAURO MULLER', 'SC', '88880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4447, 'LEBON REGIS', 'SC', '89515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4448, 'LEOBERTO LEAL', 'SC', '88445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4449, 'LINDOIA DO SUL', 'SC', '89735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4451, 'LUIZ ALVES', 'SC', '89115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4347, 'BRACO DO TROMBUDO', 'SC', '89178000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4104, 'MANOEL RIBAS', 'PR', '85260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4105, 'MARECHAL CANDIDO RONDON', 'PR', '85960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4106, 'MARIA HELENA', 'PR', '87480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4107, 'MARIALVA', 'PR', '86990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4108, 'MARILANDIA DO SUL', 'PR', '86825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4109, 'MARILENA', 'PR', '87960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4110, 'MARILUZ', 'PR', '87470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4111, 'MARINGA', 'PR', '87000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4112, 'MARIOPOLIS', 'PR', '85525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4113, 'MARIPA', 'PR', '85955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4114, 'MARMELEIRO', 'PR', '85615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4115, 'MARQUINHO', 'PR', '85168000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4116, 'MARUMBI', 'PR', '86910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4118, 'MATINHOS', 'PR', '83260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4119, 'MATO RICO', 'PR', '85240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4120, 'MAUA DA SERRA', 'PR', '86828000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4121, 'MEDIANEIRA', 'PR', '85884000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4122, 'MERCEDES', 'PR', '85998000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4123, 'MIRADOR', 'PR', '87840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4124, 'MIRASELVA', 'PR', '86615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4125, 'MISSAL', 'PR', '85890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4126, 'MOREIRA SALES', 'PR', '87370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4127, 'MORRETES', 'PR', '83350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4128, 'MUNHOZ DE MELO', 'PR', '86760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4129, 'NOSSA SENHORA DAS GRACAS', 'PR', '86680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4130, 'NOVA ALIANCA DO IVAI', 'PR', '87790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4132, 'NOVA AURORA', 'PR', '85410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3858, 'TAQUARIVAI', 'SP', '18425000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3859, 'TARABAI', 'SP', '19210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3860, 'TARUMA', 'SP', '19820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3861, 'TATUI', 'SP', '18270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3862, 'TAUBATE', 'SP', '12000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3863, 'TEJUPA', 'SP', '18830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3864, 'TEODORO SAMPAIO', 'SP', '19280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3865, 'TERRA ROXA', 'SP', '14745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3866, 'TIETE', 'SP', '18530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3867, 'TIMBURI', 'SP', '18860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3868, 'TORRE DE PEDRA', 'SP', '18265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3869, 'TORRINHA', 'SP', '17360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3870, 'TRABIJU', 'SP', '14935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3871, 'TREMEMBE', 'SP', '12120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3873, 'TUIUTI', 'SP', '12930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3874, 'TUPA', 'SP', '17600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3875, 'TUPI PAULISTA', 'SP', '17930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3876, 'TURIUBA', 'SP', '15280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3877, 'TURMALINA', 'SP', '15755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3878, 'UBARANA', 'SP', '15225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3879, 'UBATUBA', 'SP', '11680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3880, 'UBIRAJARA', 'SP', '17440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3881, 'UCHOA', 'SP', '15890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3882, 'UNIAO PAULISTA', 'SP', '15250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3883, 'URANIA', 'SP', '15760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3884, 'URU', 'SP', '16650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3885, 'URUPES', 'SP', '15850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3886, 'VALENTIM GENTIL', 'SP', '15520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3887, 'VALINHOS', 'SP', '13270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3889, 'VARGEM', 'SP', '12935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3852, 'TANABI', 'SP', '15170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3586, 'MARTINOPOLIS', 'SP', '19500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3587, 'MATAO', 'SP', '15990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3589, 'MENDONCA', 'SP', '15220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3590, 'MERIDIANO', 'SP', '15625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3591, 'MESOPOLIS', 'SP', '15748000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3592, 'MIGUELOPOLIS', 'SP', '14530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3593, 'MINEIROS DO TIETE', 'SP', '17320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3594, 'MIRACATU', 'SP', '11850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3595, 'MIRA ESTRELA', 'SP', '15580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3596, 'MIRANDOPOLIS', 'SP', '16800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3598, 'MIRASSOL', 'SP', '15130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3599, 'MIRASSOLANDIA', 'SP', '15145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3600, 'MOCOCA', 'SP', '13730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3601, 'MOGI DAS CRUZES', 'SP', '08700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3602, 'MOGI GUACU', 'SP', '13840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3603, 'MOGI MIRIM', 'SP', '13800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3604, 'MOMBUCA', 'SP', '13380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3605, 'MONCOES', 'SP', '15275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3606, 'MONGAGUA', 'SP', '11730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3607, 'MONTE ALEGRE DO SUL', 'SP', '13910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3608, 'MONTE ALTO', 'SP', '15910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3609, 'MONTE APRAZIVEL', 'SP', '15150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3610, 'MONTE AZUL PAULISTA', 'SP', '14730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3611, 'MONTE CASTELO', 'SP', '17960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3612, 'MONTEIRO LOBATO', 'SP', '12250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3613, 'MONTE MOR', 'SP', '13190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3615, 'MORUNGABA', 'SP', '13260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3616, 'MOTUCA', 'SP', '14835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3617, 'MURUTINGA DO SUL', 'SP', '16950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3618, 'NANTES', 'SP', '19645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4267, 'SERTANOPOLIS', 'PR', '86170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4268, 'SIQUEIRA CAMPOS', 'PR', '84940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4269, 'SULINA', 'PR', '85565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4270, 'TAMARANA', 'PR', '86125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4271, 'TAMBOARA', 'PR', '87760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4272, 'TAPEJARA', 'PR', '87430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4273, 'TAPIRA', 'PR', '87830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4274, 'TEIXEIRA SOARES', 'PR', '84530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4275, 'TELEMACO BORBA', 'PR', '84260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4276, 'TERRA BOA', 'PR', '87240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4133, 'NOVA CANTU', 'PR', '87330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4134, 'NOVA ESPERANCA', 'PR', '87600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4135, 'NOVA ESPERANCA DO SUDOESTE', 'PR', '85635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4136, 'NOVA FATIMA', 'PR', '86310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4138, 'NOVA LONDRINA', 'PR', '87970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3998, 'DIAMANTE DO NORTE', 'PR', '87990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3999, 'DIAMANTE DO SUL', 'PR', '85408000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4000, 'DIAMANTE D''OESTE', 'PR', '85896000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4001, 'DOIS VIZINHOS', 'PR', '85660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4002, 'DOURADINA', 'PR', '87485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4003, 'DOUTOR CAMARGO', 'PR', '87155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4004, 'ENEAS MARQUES', 'PR', '85630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4005, 'ENGENHEIRO BELTRAO', 'PR', '87270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4006, 'ESPERANCA NOVA', 'PR', '87545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4007, 'ENTRE RIOS DO OESTE', 'PR', '85988000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4008, 'ESPIGAO ALTO DO IGUACU', 'PR', '85465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4009, 'FAROL', 'PR', '87325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4010, 'FAXINAL', 'PR', '86840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4012, 'FENIX', 'PR', '86950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4013, 'FERNANDES PINHEIRO', 'PR', '84535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4014, 'FIGUEIRA', 'PR', '84285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4015, 'FLORAI', 'PR', '87185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4016, 'FLOR DA SERRA DO SUL', 'PR', '85618000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4017, 'FLORESTA', 'PR', '87120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4018, 'FLORESTOPOLIS', 'PR', '86165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4019, 'FLORIDA', 'PR', '86780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4020, 'FORMOSA DO OESTE', 'PR', '85830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4021, 'FOZ DO IGUACU', 'PR', '85850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4022, 'FRANCISCO ALVES', 'PR', '87570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4023, 'FRANCISCO BELTRAO', 'PR', '85600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4024, 'FOZ DO JORDAO', 'PR', '85145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4025, 'GENERAL CARNEIRO', 'PR', '84660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4027, 'GOIOERE', 'PR', '87360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4028, 'GOIOXIM', 'PR', '85162000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4029, 'GRANDES RIOS', 'PR', '86845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4030, 'GUAIRA', 'PR', '85980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4031, 'GUAIRACA', 'PR', '87880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4032, 'GUAMIRANGA', 'PR', '84435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4033, 'GUAPIRAMA', 'PR', '86465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4034, 'GUAPOREMA', 'PR', '87810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4035, 'GUARACI', 'PR', '86620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4036, 'GUARANIACU', 'PR', '85400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4037, 'GUARAPUAVA', 'PR', '85000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4038, 'GUARAQUECABA', 'PR', '83390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4040, 'HONORIO SERPA', 'PR', '85548000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4042, 'IBEMA', 'PR', '85478000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4043, 'IBIPORA', 'PR', '86200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4044, 'ICARAIMA', 'PR', '87530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4201, 'REBOUCAS', 'PR', '84550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4203, 'RESERVA', 'PR', '84320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4204, 'RESERVA DO IGUACU', 'PR', '85195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4205, 'RIBEIRAO CLARO', 'PR', '86410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4207, 'RIO AZUL', 'PR', '84560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4208, 'RIO BOM', 'PR', '86830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4209, 'RIO BONITO DO IGUACU', 'PR', '85340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4210, 'RIO BRANCO DO IVAI', 'PR', '86848000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4211, 'RIO BRANCO DO SUL', 'PR', '83540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4212, 'RIO NEGRO', 'PR', '83880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4213, 'ROLANDIA', 'PR', '86600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4214, 'RONCADOR', 'PR', '87320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4215, 'RONDON', 'PR', '87800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4216, 'ROSARIO DO IVAI', 'PR', '86850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4217, 'SABAUDIA', 'PR', '86720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4218, 'SALGADO FILHO', 'PR', '85620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4219, 'SALTO DO ITARARE', 'PR', '84945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4220, 'SALTO DO LONTRA', 'PR', '85670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4221, 'SANTA AMELIA', 'PR', '86370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4223, 'SANTA CRUZ DE MONTE CASTELO', 'PR', '87920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4224, 'SANTA FE', 'PR', '86770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4225, 'SANTA HELENA', 'PR', '85892000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4226, 'SANTA INES', 'PR', '86660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4353, 'CAMBORIU', 'SC', '88340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4354, 'CAPAO ALTO', 'SC', '88548000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4355, 'CAMPO ALEGRE', 'SC', '89294000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4356, 'CAMPO BELO DO SUL', 'SC', '88580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4357, 'CAMPO ERE', 'SC', '89980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4227, 'SANTA ISABEL DO IVAI', 'PR', '87910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4228, 'SANTA IZABEL DO OESTE', 'PR', '85650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4229, 'SANTA LUCIA', 'PR', '85795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4230, 'SANTA MARIA DO OESTE', 'PR', '85230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4231, 'SANTA MARIANA', 'PR', '86350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4232, 'SANTA MONICA', 'PR', '87915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4234, 'SANTA TEREZA DO OESTE', 'PR', '85825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4332, 'BARRA BONITA', 'SC', '89909000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4333, 'BARRA VELHA', 'SC', '88390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4334, 'BELA VISTA DO TOLDO', 'SC', '89478000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4335, 'BELMONTE', 'SC', '89925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4336, 'BENEDITO NOVO', 'SC', '89124000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4337, 'BIGUACU', 'SC', '88160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4338, 'BLUMENAU', 'SC', '89000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4339, 'BOCAINA DO SUL', 'SC', '88538000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4340, 'BOMBINHAS', 'SC', '88215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4341, 'BOM JARDIM DA SERRA', 'SC', '88640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4342, 'BOM JESUS', 'SC', '89824000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4343, 'BOM JESUS DO OESTE', 'SC', '89873000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4344, 'BOM RETIRO', 'SC', '88680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4345, 'BOTUVERA', 'SC', '88370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2769, 'OLIVEIRA FORTES', 'MG', '36250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2770, 'ONCA DE PITANGUI', 'MG', '35655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2771, 'ORATORIOS', 'MG', '35439000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2772, 'ORIZANIA', 'MG', '36828000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3350, 'BURITAMA', 'SP', '15290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3675, 'PEDREIRA', 'SP', '13920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3676, 'PEDRINHAS PAULISTA', 'SP', '19865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3677, 'PEDRO DE TOLEDO', 'SP', '11790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3678, 'PENAPOLIS', 'SP', '16300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3679, 'PEREIRA BARRETO', 'SP', '15370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3681, 'PERUIBE', 'SP', '11750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3682, 'PIACATU', 'SP', '16230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3683, 'PIEDADE', 'SP', '18170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3684, 'PILAR DO SUL', 'SP', '18185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3685, 'PINDAMONHANGABA', 'SP', '12400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3686, 'PINDORAMA', 'SP', '15830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3687, 'PINHALZINHO', 'SP', '12995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3688, 'PIQUEROBI', 'SP', '19410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3689, 'PIQUETE', 'SP', '12620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3690, 'PIRACAIA', 'SP', '12970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3691, 'PIRACICABA', 'SP', '13400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3692, 'PIRAJU', 'SP', '18800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3693, 'PIRAJUI', 'SP', '16600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3695, 'PIRAPORA DO BOM JESUS', 'SP', '06550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3696, 'PIRAPOZINHO', 'SP', '19200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3697, 'PIRACUNUNGA', 'SP', '13630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3698, 'PIRATININGA', 'SP', '17490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3699, 'PITANGUEIRAS', 'SP', '14750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3493, 'INDAIATUBA', 'SP', '13330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3494, 'INDIANA', 'SP', '19560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3495, 'INDIAPORA', 'SP', '15690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3496, 'INUBIA PAULISTA', 'SP', '17760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3497, 'IPAUSSU', 'SP', '18950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3498, 'IPERO', 'SP', '18560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3499, 'IPEUNA', 'SP', '13537000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3501, 'IPORANGA', 'SP', '18330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3502, 'IPUA', 'SP', '14610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3890, 'VARGEM GRANDE DO SUL', 'SP', '13880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3891, 'VARGEM GRANDE PAULISTA', 'SP', '06730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3892, 'VARZEA PAULISTA', 'SP', '13220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3893, 'VERA CRUZ', 'SP', '17560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3894, 'VINHEDO', 'SP', '13280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3895, 'VIRADOURO', 'SP', '14740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3897, 'VITORIA BRASIL', 'SP', '15705000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3898, 'VOTORANTIM', 'SP', '18110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3899, 'VOTUPORANGA', 'SP', '15500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3739, 'RIBEIRAO BRANCO', 'SP', '18430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3740, 'RIBEIRAO CORRENTE', 'SP', '14445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3741, 'RIBEIRAO DO SUL', 'SP', '19930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3743, 'RIBEIRAO GRANDE', 'SP', '18315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3744, 'RIBEIRAO PIRES', 'SP', '09400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3745, 'RIBEIRAO PRETO', 'SP', '14000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3746, 'RIVERSUL', 'SP', '18470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3747, 'RIFAINA', 'SP', '14490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3748, 'RINCAO', 'SP', '14830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3749, 'RINOPOLIS', 'SP', '17740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3750, 'RIO CLARO', 'SP', '13500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3751, 'RIO DAS PEDRAS', 'SP', '13390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3753, 'RIOLANDIA', 'SP', '15495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3754, 'ROSANA', 'SP', '19273000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3755, 'ROSEIRA', 'SP', '12580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3756, 'RUBIACEA', 'SP', '16750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3757, 'RUBINEIA', 'SP', '15790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3758, 'SABINO', 'SP', '16440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3759, 'SAGRES', 'SP', '17710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3760, 'SALES', 'SP', '14980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3761, 'SALES OLIVEIRA', 'SP', '14660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3762, 'SALESOPOLIS', 'SP', '08970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3763, 'SALMOURAO', 'SP', '17720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3764, 'SALTINHO', 'SP', '13440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3918, 'ANTONIO OLINTO', 'PR', '83980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3919, 'APUCARANA', 'PR', '86800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3920, 'ARAPONGAS', 'PR', '86700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3922, 'ARAPUA', 'PR', '86884000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3923, 'ARARUNA', 'PR', '87260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3924, 'ARAUCARIA', 'PR', '83700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3925, 'ARIRANHA DO IVAI', 'PR', '86880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3926, 'ASSAI', 'PR', '86220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3927, 'ASSIS CHATEAUBRIAND', 'PR', '85935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3928, 'ASTORGA', 'PR', '86730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3929, 'ATALAIA', 'PR', '87630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3930, 'BALSA NOVA', 'PR', '83650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3931, 'BANDEIRANTES', 'PR', '86360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3932, 'BARBOSA FERRAZ', 'PR', '86960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3933, 'BARRACAO', 'PR', '85700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3934, 'BARRA DO JACARE', 'PR', '86385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4083, 'JUSSARA', 'PR', '87230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4084, 'KALORE', 'PR', '86920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4982, 'SAO VALERIO DO SUL', 'RS', '98595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4983, 'SAO VENDELINO', 'RS', '95795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4984, 'SAO VICENTE DO SUL', 'RS', '97420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4985, 'SAPIRANGA', 'RS', '93800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4986, 'SAPUCAIA DO SUL', 'RS', '93200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4854, 'NOVA ESPERANCA DO SUL', 'RS', '97770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4855, 'NOVA HARTZ', 'RS', '93890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4856, 'NOVA PADUA', 'RS', '95275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4857, 'NOVA PALMA', 'RS', '97250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4859, 'NOVA PRATA', 'RS', '95320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4861, 'NOVA ROMA DO SUL', 'RS', '95260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4862, 'NOVA SANTA RITA', 'RS', '92480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4863, 'NOVO CABRAIS', 'RS', '96545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4864, 'NOVO HAMBURGO', 'RS', '93300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4865, 'NOVO MACHADO', 'RS', '98955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4866, 'NOVO TIRADENTES', 'RS', '98370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4868, 'OSORIO', 'RS', '95520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4869, 'PAIM FILHO', 'RS', '99850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4870, 'PALMARES DO SUL', 'RS', '95540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4871, 'PALMEIRA DAS MISSOES', 'RS', '98300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4873, 'PANAMBI', 'RS', '98280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4874, 'PANTANO GRANDE', 'RS', '96690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4875, 'PARAI', 'RS', '95360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4876, 'PARAISO DO SUL', 'RS', '96530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4877, 'PARECI NOVO', 'RS', '95783000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4878, 'PAROBE', 'RS', '95630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4879, 'PASSA SETE', 'RS', '96908000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4880, 'PASSO DO SOBRADO', 'RS', '96685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4881, 'PASSO FUNDO', 'RS', '99000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4882, 'PAVERAMA', 'RS', '95865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4883, 'PEDRO OSORIO', 'RS', '96360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4884, 'PEJUCARA', 'RS', '98270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4885, 'PELOTAS', 'RS', '96000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4887, 'PINHAL', 'RS', '98345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4888, 'PINHAL GRANDE', 'RS', '98150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4889, 'PINHEIRINHO DO VALE', 'RS', '98435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4890, 'PINHEIRO MACHADO', 'RS', '96470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2706, 'MATERLANDIA', 'MG', '39755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2564, 'GUIMARANIA', 'MG', '38730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2565, 'GUIRICEMA', 'MG', '36525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2566, 'GURINHATA', 'MG', '38310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2567, 'HELIODORA', 'MG', '37484000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2568, 'IAPU', 'MG', '35190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2569, 'IBERTIOGA', 'MG', '36225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2570, 'IBIA', 'MG', '38950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2571, 'IBIAI', 'MG', '39350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2572, 'IBIRACATU', 'MG', '39455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2573, 'IBIRACI', 'MG', '37990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2574, 'IBIRITE', 'MG', '32400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2575, 'IBITIURA DE MINAS', 'MG', '37790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2576, 'IBITURUNA', 'MG', '37223000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2578, 'IGARAPE', 'MG', '32900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2579, 'IGARATINGA', 'MG', '35695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2580, 'IGUATAMA', 'MG', '38910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2581, 'IJACI', 'MG', '37205000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2582, 'ILICINEA', 'MG', '37175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2583, 'IMBE DE MINAS', 'MG', '35323000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2585, 'INDAIABIRA', 'MG', '39536000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2586, 'INDIANOPOLIS', 'MG', '38490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2587, 'INGAI', 'MG', '37215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2588, 'INHAPIM', 'MG', '35330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2589, 'INHAUMA', 'MG', '35710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2590, 'INIMUTABA', 'MG', '35796000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2591, 'IPABA', 'MG', '35198000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2594, 'IPIACU', 'MG', '38350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2595, 'IPUIUNA', 'MG', '37559000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2596, 'IRAI DE MINAS', 'MG', '38510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2597, 'ITABIRA', 'MG', '35900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2598, 'ITABIRINHA DE MANTENA', 'MG', '35280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2599, 'ITABIRITO', 'MG', '35450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2601, 'ITACARAMBI', 'MG', '39470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2602, 'ITAGUARA', 'MG', '35514000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2603, 'ITAIPE', 'MG', '39815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2604, 'ITAJUBA', 'MG', '37500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2787, 'PARA DE MINAS', 'MG', '35660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2788, 'PARAGUACU', 'MG', '37120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2789, 'PARAISOPOLIS', 'MG', '37660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2790, 'PARAOPEBA', 'MG', '35774000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2791, 'PASSABEM', 'MG', '35810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2792, 'PASSA QUATRO', 'MG', '37460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2793, 'PASSA TEMPO', 'MG', '35537000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2794, 'PASSA VINTE', 'MG', '37330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2795, 'PASSOS', 'MG', '37900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2797, 'PATOS DE MINAS', 'MG', '38700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2798, 'PATROCINIO', 'MG', '38740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2605, 'ITAMARANDIBA', 'MG', '39670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2606, 'ITAMARATI DE MINAS', 'MG', '36788000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2607, 'ITAMBACURI', 'MG', '39830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2608, 'ITAMBE DO MATO DENTRO', 'MG', '35820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2609, 'ITAMOGI', 'MG', '37955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2610, 'ITAMONTE', 'MG', '37466000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2611, 'ITANHANDU', 'MG', '37464000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2612, 'ITANHOMI', 'MG', '35120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2613, 'ITAOBIM', 'MG', '39625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2800, 'PAULA CANDIDO', 'MG', '36544000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2801, 'PAULISTAS', 'MG', '39765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2802, 'PAVAO', 'MG', '39814000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2803, 'PECANHA', 'MG', '39700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2804, 'PEDRA AZUL', 'MG', '39970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2805, 'PEDRA BONITA', 'MG', '35364000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2777, 'PADRE CARVALHO', 'MG', '39573000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2778, 'PADRE PARAISO', 'MG', '39818000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2779, 'PAINEIRAS', 'MG', '35622000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2780, 'PAINS', 'MG', '35582000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2781, 'PAI PEDRO', 'MG', '39517000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2782, 'PAIVA', 'MG', '36195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2902, 'SANTA BARBARA DO MONTE VERDE', 'MG', '36132000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2903, 'SANTA BARBARA DO TUGURIO', 'MG', '36215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2904, 'SANTA CRUZ DE MINAS', 'MG', '36328000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2905, 'SANTA CRUZ DE SALINAS', 'MG', '39563000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2907, 'SANTA EFIGENIA DE MINAS', 'MG', '39725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2908, 'SANTA FE DE MINAS', 'MG', '39295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2909, 'SANTA HELENA DE MINAS', 'MG', '39874000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2910, 'SANTA JULIANA', 'MG', '38175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2911, 'SANTA LUZIA', 'MG', '33000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2912, 'SANTA MARGARIDA', 'MG', '36910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2913, 'SANTA MARIA DE ITABIRA', 'MG', '35910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2914, 'SANTA MARIA DO SALTO', 'MG', '39928000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2915, 'SANTA MARIA DO SUACUI', 'MG', '39780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2916, 'SANTANA DA VARGEM', 'MG', '37195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2917, 'SANTANA DE CATAGUASES', 'MG', '36795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2918, 'SANTANA DE PIRAPAMA', 'MG', '35785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2660, 'LADAINHA', 'MG', '39825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2661, 'LAGAMAR', 'MG', '38785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2662, 'LAGOA DA PRATA', 'MG', '35590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2664, 'LAGOA DOURADA', 'MG', '36345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2665, 'LAGOA FORMOSA', 'MG', '38720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2666, 'LAGOA GRANDE', 'MG', '38755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2667, 'LAGOA SANTA', 'MG', '33400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2668, 'LAJINHA', 'MG', '36980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2669, 'LAMBARI', 'MG', '37480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2670, 'LAMIM', 'MG', '36455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2671, 'LARANJAL', 'MG', '36760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2672, 'LASSANCE', 'MG', '39250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2673, 'LAVRAS', 'MG', '37200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2674, 'LEANDRO FERREIRA', 'MG', '35657000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2675, 'LEME DO PRADO', 'MG', '39655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2676, 'LEOPOLDINA', 'MG', '36700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2677, 'LIBERDADE', 'MG', '37350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2679, 'LIMEIRA DO OESTE', 'MG', '38295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2680, 'LONTRA', 'MG', '39437000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2681, 'LUIZBURGO', 'MG', '36923000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2682, 'LUISLANDIA', 'MG', '39336000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2683, 'LUMINARIAS', 'MG', '37240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2684, 'LUZ', 'MG', '35595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2685, 'MACHACALIS', 'MG', '39873000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2686, 'MACHADO', 'MG', '37750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2687, 'MADRE DE DEUS DE MINAS', 'MG', '37305000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2688, 'MALACACHETA', 'MG', '39690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2689, 'MAMONAS', 'MG', '39516000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2690, 'MANGA', 'MG', '39460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2691, 'MANHUACU', 'MG', '36900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2692, 'MANHUMIRIM', 'MG', '36970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2694, 'MARAVILHAS', 'MG', '35666000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2695, 'MAR DE ESPANHA', 'MG', '36640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2696, 'MARIA DA FE', 'MG', '37517000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2697, 'MARIANA', 'MG', '35420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2698, 'MARILAC', 'MG', '35115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2699, 'MARIO CAMPOS', 'MG', '32470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2700, 'MARIPA DE MINAS', 'MG', '36608000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2442, 'COQUEIRAL', 'MG', '37235000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2443, 'CORACAO DE JESUS', 'MG', '39340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2444, 'CORDISBURGO', 'MG', '35780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2445, 'CORDISLANDIA', 'MG', '37498000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2446, 'CORINTO', 'MG', '39200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2448, 'COROMANDEL', 'MG', '38550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2449, 'CORONEL FABRICIANO', 'MG', '35170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2450, 'CORONEL MURTA', 'MG', '39635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2451, 'CORONEL PACHECO', 'MG', '36155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2452, 'CORONEL XAVIER CHAVES', 'MG', '36330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2453, 'CORREGO DANTA', 'MG', '38990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2454, 'CORREGO DO BOM JESUS', 'MG', '37605000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2456, 'CORREGO NOVO', 'MG', '35345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2457, 'COUTO DE MAGALHAES DE MINAS', 'MG', '39188000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2458, 'CRISOLITA', 'MG', '39885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2459, 'CRISTAIS', 'MG', '37275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2460, 'CRISTALIA', 'MG', '39598000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2463, 'CRUCILANDIA', 'MG', '35520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2464, 'CRUZEIRO DA FORTALEZA', 'MG', '38735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2465, 'CRUZILIA', 'MG', '37445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2466, 'CUPARAQUE', 'MG', '35246000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2467, 'CURRAL DE DENTRO', 'MG', '39998000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2468, 'CURVELO', 'MG', '35790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2469, 'DATAS', 'MG', '39130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2471, 'DELFINOPOLIS', 'MG', '37910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2472, 'DELTA', 'MG', '38108000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2473, 'DESCOBERTO', 'MG', '36690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2474, 'DESTERRO DE ENTRE RIOS', 'MG', '35494000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2475, 'DESTERRO DO MELO', 'MG', '36210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2476, 'DIAMANTINA', 'MG', '39100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2477, 'DIOGO DE VASCONCELOS', 'MG', '35437000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2478, 'DIONISIO', 'MG', '35984000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2479, 'DIVINESIA', 'MG', '36546000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2480, 'DIVINO', 'MG', '36820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2481, 'DIVINO DAS LARANJEIRAS', 'MG', '35265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2482, 'DIVINOLANDIA DE MINAS', 'MG', '39735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2483, 'DIVINOPOLIS', 'MG', '35500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2484, 'DIVISA ALEGRE', 'MG', '39995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2486, 'DIVISOPOLIS', 'MG', '39912000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2487, 'DOM BOSCO', 'MG', '38654000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2488, 'DOM CAVATI', 'MG', '35148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2489, 'DOM JOAQUIM', 'MG', '35865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2806, 'PEDRA DO ANTA', 'MG', '36585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2807, 'PEDRA DO INDAIA', 'MG', '35565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2808, 'PEDRA DOURADA', 'MG', '36847000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2809, 'PEDRALVA', 'MG', '37520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2810, 'PEDRAS DE MARIA DA CRUZ', 'MG', '39492000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2811, 'PEDRINOPOLIS', 'MG', '38178000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2812, 'PEDRO LEOPOLDO', 'MG', '33600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2813, 'PEDRO TEIXEIRA', 'MG', '36148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2814, 'PEQUERI', 'MG', '36610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2816, 'PERDIGAO', 'MG', '35515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2050, 'LAPAO', 'BA', '44905000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2051, 'LAURO DE FREITAS', 'BA', '42700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2052, 'LENCOIS', 'BA', '46960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2053, 'LICINIO DE ALMEIDA', 'BA', '46330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2333, 'BRUMADINHO', 'MG', '35460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2334, 'BUENO BRANDAO', 'MG', '37578000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2335, 'BUENOPOLIS', 'MG', '39230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2337, 'BURITIS', 'MG', '38660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2338, 'BURITIZEIRO', 'MG', '39280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2339, 'CABECEIRA GRANDE', 'MG', '38625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2340, 'CABO VERDE', 'MG', '37880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2341, 'CACHOEIRA DA PRATA', 'MG', '35765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2342, 'CACHOEIRA DE MINAS', 'MG', '37545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2343, 'CACHOEIRA DOURADA', 'MG', '38370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2344, 'CAETANOPOLIS', 'MG', '35770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3562, 'LINDOIA', 'SP', '13950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3563, 'LINS', 'SP', '16400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3564, 'LORENA', 'SP', '12600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3565, 'LOURDES', 'SP', '15285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3566, 'LOUVEIRA', 'SP', '13290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3293, 'ARAPEI', 'SP', '12870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3295, 'ARARAS', 'SP', '13600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3296, 'ARCO-IRIS', 'SP', '17630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3297, 'AREALVA', 'SP', '17160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3298, 'AREIAS', 'SP', '12820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3299, 'AREIOPOLIS', 'SP', '18670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3300, 'ARIRANHA', 'SP', '15960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3301, 'ARTUR NOGUEIRA', 'SP', '13160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3302, 'ARUJA', 'SP', '07400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3303, 'ASPASIA', 'SP', '15763000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3304, 'ASSIS', 'SP', '19800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3305, 'ATIBAIA', 'SP', '12940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3306, 'AURIFLAMA', 'SP', '15350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3307, 'AVAI', 'SP', '16680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3309, 'AVARE', 'SP', '18700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3310, 'BADY BASSITT', 'SP', '15115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3311, 'BALBINOS', 'SP', '16640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3312, 'BALSAMO', 'SP', '15140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3313, 'BANANAL', 'SP', '12850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3314, 'BARAO DE ANTONINA', 'SP', '18490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3315, 'BARBOSA', 'SP', '16350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3316, 'BARIRI', 'SP', '17250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3317, 'BARRA BONITA', 'SP', '17340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3318, 'BARRA DO CHAPEU', 'SP', '18325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3319, 'BARRA DO TURVO', 'SP', '11955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3320, 'BARRETOS', 'SP', '14780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3321, 'BARRINHA', 'SP', '14860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3323, 'BASTOS', 'SP', '17690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3324, 'BATATAIS', 'SP', '14300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3325, 'BAURU', 'SP', '17000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3326, 'BEBEDOURO', 'SP', '14700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3327, 'BENTO DE ABREU', 'SP', '16790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3328, 'BERNARDINO DE CAMPOS', 'SP', '18960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3329, 'BERTIOGA', 'SP', '11250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3330, 'BILAC', 'SP', '16210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3331, 'BIRIGUI', 'SP', '16200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3332, 'BIRITIBA-MIRIM', 'SP', '08940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3333, 'BOA ESPERANCA DO SUL', 'SP', '14930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3334, 'BOCAINA', 'SP', '17240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3335, 'BOFETE', 'SP', '18590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3338, 'BOM SUCESSO DE ITARARE', 'SP', '18475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3339, 'BORA', 'SP', '19740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3340, 'BORACEIA', 'SP', '17270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3341, 'BORBOREMA', 'SP', '14955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3342, 'BOREBI', 'SP', '18675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3344, 'BRAGANCA PAULISTA', 'SP', '12900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3345, 'BRAUNA', 'SP', '16290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3346, 'BREJO ALEGRE', 'SP', '16265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3347, 'BRODOSQUI', 'SP', '14340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3348, 'BROTAS', 'SP', '17380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3349, 'BURI', 'SP', '18290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4298, 'DOUTOR ULYSSES', 'PR', '83590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4299, 'VIRMOND', 'PR', '85390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4300, 'VITORINO', 'PR', '85520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4301, 'XAMBRE', 'PR', '87535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4302, 'ABDON BATISTA', 'SC', '89636000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4304, 'AGROLANDIA', 'SC', '88420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4305, 'AGRONOMICA', 'SC', '89188000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4306, 'AGUA DOCE', 'SC', '89654000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4307, 'AGUAS DE CHAPECO', 'SC', '89883000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4308, 'AGUAS FRIAS', 'SC', '89843000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4309, 'AGUAS MORNAS', 'SC', '88150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4310, 'ALFREDO WAGNER', 'SC', '88450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4311, 'ALTO BELA VISTA', 'SC', '89730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4312, 'ANCHIETA', 'SC', '89970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4313, 'ANGELINA', 'SC', '88460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4314, 'ANITA GARIBALDI', 'SC', '88590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4315, 'ANITAPOLIS', 'SC', '88475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4316, 'ANTONIO CARLOS', 'SC', '88180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4317, 'APIUNA', 'SC', '89135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4319, 'ARAQUARI', 'SC', '89245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4320, 'ARARANGUA', 'SC', '88900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4486, 'PAPANDUVA', 'SC', '89370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4487, 'PARAISO', 'SC', '89906000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4488, 'PASSO DE TORRES', 'SC', '88980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4489, 'PASSOS MAIA', 'SC', '89687000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4490, 'PAULO LOPES', 'SC', '88490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4491, 'PEDRAS GRANDES', 'SC', '88720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4492, 'PENHA', 'SC', '88385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4493, 'PERITIBA', 'SC', '89750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4494, 'PETROLANDIA', 'SC', '88430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4496, 'PINHALZINHO', 'SC', '89870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4497, 'PINHEIRO PRETO', 'SC', '89570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4498, 'PIRATUBA', 'SC', '89667000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4499, 'PLANALTO ALEGRE', 'SC', '89882000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4500, 'POMERODE', 'SC', '89107000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4501, 'PONTE ALTA', 'SC', '88550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4502, 'PONTE ALTA DO NORTE', 'SC', '89535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4503, 'PONTE SERRADA', 'SC', '89683000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4504, 'PORTO BELO', 'SC', '88210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4505, 'PORTO UNIAO', 'SC', '89400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4506, 'POUSO REDONDO', 'SC', '89172000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4507, 'PRAIA GRANDE', 'SC', '88990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4508, 'PRESIDENTE CASTELO BRANCO', 'SC', '89745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4510, 'PRESIDENTE NEREU', 'SC', '89184000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4511, 'PRINCESA', 'SC', '89935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4512, 'QUILOMBO', 'SC', '89850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4513, 'RANCHO QUEIMADO', 'SC', '88470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4514, 'RIO DAS ANTAS', 'SC', '89550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4515, 'RIO DO CAMPO', 'SC', '89198000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4516, 'RIO DO OESTE', 'SC', '89180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4517, 'RIO DOS CEDROS', 'SC', '89121000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4518, 'RIO DO SUL', 'SC', '89160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4519, 'RIO FORTUNA', 'SC', '88760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4520, 'RIO NEGRINHO', 'SC', '89295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4521, 'RIO RUFINO', 'SC', '88658000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4522, 'RIQUEZA', 'SC', '89895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4523, 'RODEIO', 'SC', '89136000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4524, 'ROMELANDIA', 'SC', '89908000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4526, 'SALTINHO', 'SC', '89981000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4625, 'BARAO DO TRIUNFO', 'RS', '96735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4626, 'BARRACAO', 'RS', '95370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4627, 'BARRA DO GUARITA', 'RS', '98530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4628, 'BARRA DO QUARAI', 'RS', '97538000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4629, 'BARRA DO RIBEIRO', 'RS', '96790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4630, 'BARRA DO RIO AZUL', 'RS', '99795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4631, 'BARRA FUNDA', 'RS', '99585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4632, 'BARROS CASSAL', 'RS', '99360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4633, 'BENJAMIN CONSTANT DO SUL', 'RS', '99650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4634, 'BENTO GONCALVES', 'RS', '95700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4635, 'BOA VISTA DAS MISSOES', 'RS', '98335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4637, 'BOA VISTA DO SUL', 'RS', '95727000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4638, 'BOM JESUS', 'RS', '95290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4639, 'BOM PRINCIPIO', 'RS', '95765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4370, 'CONCORDIA', 'SC', '89700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4371, 'CORDILHEIRA ALTA', 'SC', '89819000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4372, 'CORONEL FREITAS', 'SC', '89840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4373, 'CORONEL MARTINS', 'SC', '89837000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4374, 'CORUPA', 'SC', '89280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4375, 'CORREIA PINTO', 'SC', '88535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4376, 'CRICIUMA', 'SC', '88800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4377, 'CUNHA PORA', 'SC', '89890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4378, 'CUNHATAI', 'SC', '89886000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4379, 'CURITIBANOS', 'SC', '89520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4380, 'DESCANSO', 'SC', '89910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4381, 'DIONISIO CERQUEIRA', 'SC', '89950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4383, 'DOUTOR PEDRINHO', 'SC', '89126000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4384, 'ENTRE RIOS', 'SC', '89862000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4385, 'ERMO', 'SC', '88935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4386, 'ERVAL VELHO', 'SC', '89613000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4387, 'FAXINAL DOS GUEDES', 'SC', '89694000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4388, 'FLOR DO SERTAO', 'SC', '89878000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4389, 'FLORIANOPOLIS', 'SC', '88000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4390, 'FORMOSA DO SUL', 'SC', '89859000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4391, 'FORQUILHINHA', 'SC', '88850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4392, 'FRAIBURGO', 'SC', '89580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4393, 'FREI ROGERIO', 'SC', '89530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4394, 'GALVAO', 'SC', '89838000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4395, 'GAROPABA', 'SC', '88495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4397, 'GASPAR', 'SC', '89110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4398, 'GOVERNADOR CELSO RAMOS', 'SC', '88190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4399, 'GRAO PARA', 'SC', '88890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4400, 'GRAVATAL', 'SC', '88735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4401, 'GUABIRUBA', 'SC', '88360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4402, 'GUARACIABA', 'SC', '89920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4403, 'GUARAMIRIM', 'SC', '89270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4404, 'GUARUJA DO SUL', 'SC', '89940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2817, 'PERDIZES', 'MG', '38170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2818, 'PERDOES', 'MG', '37260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2819, 'PERIQUITO', 'MG', '35156000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2820, 'PESCADOR', 'MG', '35114000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2821, 'PIAU', 'MG', '36157000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2822, 'PIEDADE DE CARATINGA', 'MG', '35325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2823, 'PIEDADE DE PONTE NOVA', 'MG', '35382000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2824, 'PIEDADE DO RIO GRANDE', 'MG', '36227000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2641, 'JEQUITAI', 'MG', '39370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2642, 'JEQUITIBA', 'MG', '35767000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2643, 'JEQUITINHONHA', 'MG', '39960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2645, 'JOAIMA', 'MG', '39890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2646, 'JOANESIA', 'MG', '35168000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2647, 'JOAO MONLEVADE', 'MG', '35930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2648, 'JOAO PINHEIRO', 'MG', '38770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2649, 'JOAQUIM FELICIO', 'MG', '39240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2650, 'JORDANIA', 'MG', '39920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2651, 'JOSE GONCALVES DE MINAS', 'MG', '39642000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2652, 'JOSE RAYDAN', 'MG', '39775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2653, 'JOSENOPOLIS', 'MG', '39575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2654, 'NOVA UNIAO', 'MG', '34990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2655, 'JUATUBA', 'MG', '35675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2656, 'JUIZ DE FORA', 'MG', '36000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2826, 'PIMENTA', 'MG', '35585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2827, 'PINGO D''AGUA', 'MG', '35348000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2828, 'PINTOPOLIS', 'MG', '39317000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2829, 'PIRACEMA', 'MG', '35536000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3558, 'LAVRINHAS', 'SP', '12760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3559, 'LEME', 'SP', '13610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3560, 'LENCOIS PAULISTA', 'SP', '18680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3416, 'DOURADO', 'SP', '13590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3417, 'DRACENA', 'SP', '17900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3418, 'DUARTINA', 'SP', '17470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3419, 'DUMONT', 'SP', '14120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3420, 'ECHAPORA', 'SP', '19830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3421, 'ELDORADO', 'SP', '11960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3422, 'ELIAS FAUSTO', 'SP', '13350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3423, 'ELISIARIO', 'SP', '15823000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3425, 'EMBU', 'SP', '06800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3426, 'EMBU-GUACU', 'SP', '06900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3427, 'EMILIANOPOLIS', 'SP', '19350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3428, 'ENGENHEIRO COELHO', 'SP', '13165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3429, 'ESPIRITO SANTO DO PINHAL', 'SP', '13990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3430, 'ESPIRITO SANTO DO TURVO', 'SP', '18935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3431, 'ESTRELA D''OESTE', 'SP', '15650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3432, 'ESTRELA DO NORTE', 'SP', '19230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3433, 'EUCLIDES DA CUNHA PAULISTA', 'SP', '19275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3434, 'FARTURA', 'SP', '18870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3435, 'FERNANDOPOLIS', 'SP', '15600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3436, 'FERNANDO PRESTES', 'SP', '15940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3438, 'FERRAZ DE VASCONCELOS', 'SP', '08500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3439, 'FLORA RICA', 'SP', '17870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3440, 'FLOREAL', 'SP', '15320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3441, 'FLORIDA PAULISTA', 'SP', '17830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3442, 'FLORINIA', 'SP', '19870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3443, 'FRANCA', 'SP', '14400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3444, 'FRANCISCO MORATO', 'SP', '07900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3445, 'FRANCO DA ROCHA', 'SP', '07800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3446, 'GABRIEL MONTEIRO', 'SP', '16220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3447, 'GALIA', 'SP', '17450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3448, 'GARCA', 'SP', '17400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3449, 'GASTAO VIDIGAL', 'SP', '15330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3451, 'GENERAL SALGADO', 'SP', '15300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3452, 'GETULINA', 'SP', '16450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3453, 'GLICERIO', 'SP', '16270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3454, 'GUAICARA', 'SP', '16430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3455, 'GUAIMBE', 'SP', '16480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3456, 'GUAIRA', 'SP', '14790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3457, 'GUAPIACU', 'SP', '15110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3458, 'GUAPIARA', 'SP', '18310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3459, 'GUARA', 'SP', '14580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3460, 'GUARACAI', 'SP', '16980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3461, 'GUARACI', 'SP', '15420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3462, 'GUARANI D''OESTE', 'SP', '15680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3463, 'GUARANTA', 'SP', '16570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3464, 'GUARARAPES', 'SP', '16700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3643, 'ORINDIUVA', 'SP', '15480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3644, 'ORLANDIA', 'SP', '14620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3645, 'OSASCO', 'SP', '06000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3646, 'OSCAR BRESSANE', 'SP', '19770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3647, 'OSVALDO CRUZ', 'SP', '17700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3649, 'OUROESTE', 'SP', '15685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3784, 'SANTA MERCEDES', 'SP', '17940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3785, 'SANTANA DA PONTE PENSA', 'SP', '15765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3786, 'SANTANA DE PARNAIBA', 'SP', '06500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3651, 'PACAEMBU', 'SP', '17860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3652, 'PALESTINA', 'SP', '15470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3653, 'PALMARES PAULISTA', 'SP', '15828000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3654, 'PALMEIRA D''OESTE', 'SP', '15720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3655, 'PALMITAL', 'SP', '19970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2155, 'SALVADOR', 'BA', '40000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2156, 'SANTA BARBARA', 'BA', '44150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2157, 'SANTA BRIGIDA', 'BA', '48570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2158, 'SANTA CRUZ CABRALIA', 'BA', '45807000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2160, 'SANTA INES', 'BA', '45320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2282, 'ARCOS', 'MG', '35588000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2161, 'SANTALUZ', 'BA', '48880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2134, 'PRESIDENTE JANIO QUADROS', 'BA', '46250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2135, 'PRESIDENTE TANCREDO NEVES', 'BA', '45416000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2136, 'QUEIMADAS', 'BA', '48860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2137, 'QUIJINGUE', 'BA', '48830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2138, 'QUIXABEIRA', 'BA', '44713000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1997, 'ITABUNA', 'BA', '45600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2139, 'RAFAEL JAMBEIRO', 'BA', '44520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1998, 'ITACARE', 'BA', '45530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1999, 'ITAETE', 'BA', '46790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2000, 'ITAGI', 'BA', '45230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2001, 'ITAGIBA', 'BA', '45585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2002, 'ITAGIMIRIM', 'BA', '45850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2004, 'ITAJU DO COLONIA', 'BA', '45730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2005, 'ITAJUIPE', 'BA', '45630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2006, 'ITAMARAJU', 'BA', '45836000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2007, 'ITAMARI', 'BA', '45455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2008, 'ITAMBE', 'BA', '45140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2009, 'ITANAGRA', 'BA', '48290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2010, 'ITANHEM', 'BA', '45970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2011, 'ITAPARICA', 'BA', '44460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2012, 'ITAPE', 'BA', '45750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2013, 'ITAPEBI', 'BA', '45855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2014, 'ITAPETINGA', 'BA', '45700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2015, 'ITAPICURU', 'BA', '48475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2016, 'ITAPITANGA', 'BA', '45645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2017, 'ITAQUARA', 'BA', '45340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2019, 'ITATIM', 'BA', '46875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2020, 'ITIRUCU', 'BA', '45350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2021, 'ITIUBA', 'BA', '48850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2022, 'ITORORO', 'BA', '45710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2023, 'ITUACU', 'BA', '46640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2024, 'ITUBERA', 'BA', '45435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2025, 'IUIU', 'BA', '46438000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2026, 'JABORANDI', 'BA', '47655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2027, 'JACARACI', 'BA', '46310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2028, 'JACOBINA', 'BA', '44700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2029, 'JAGUAQUARA', 'BA', '45345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2030, 'JAGUARARI', 'BA', '48960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2031, 'JAGUARIPE', 'BA', '44480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2033, 'JEQUIE', 'BA', '45200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2034, 'JEREMOABO', 'BA', '48540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2035, 'JIQUIRICA', 'BA', '45470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2036, 'JITAUNA', 'BA', '45225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2037, 'JOAO DOURADO', 'BA', '44920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2038, 'JUAZEIRO', 'BA', '48900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2039, 'JUCURUCU', 'BA', '45834000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2040, 'JUSSARA', 'BA', '44925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2041, 'JUSSARI', 'BA', '45610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2042, 'JUSSIAPE', 'BA', '46670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2043, 'LAFAIETE COUTINHO', 'BA', '45215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2044, 'LAGOA REAL', 'BA', '46425000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2046, 'LAJEDAO', 'BA', '45950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2047, 'LAJEDINHO', 'BA', '46825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2048, 'LAJEDO DO TABOCAL', 'BA', '45365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2221, 'URANDI', 'BA', '46350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2222, 'URUCUCA', 'BA', '45680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2223, 'UTINGA', 'BA', '46810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2224, 'VALENCA', 'BA', '45400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2225, 'VALENTE', 'BA', '48890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2226, 'VARZEA DA ROCA', 'BA', '44635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2227, 'VARZEA DO POCO', 'BA', '44715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2228, 'VARZEA NOVA', 'BA', '44690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2230, 'VERA CRUZ', 'BA', '44470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2231, 'VEREDA', 'BA', '45955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2232, 'VITORIA DA CONQUISTA', 'BA', '45000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2233, 'WAGNER', 'BA', '46970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2234, 'WANDERLEY', 'BA', '47940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2235, 'WENCESLAU GUIMARAES', 'BA', '45460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2236, 'XIQUE-XIQUE', 'BA', '47400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2237, 'ABADIA DOS DOURADOS', 'MG', '38540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2238, 'ABAETE', 'MG', '35620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2239, 'ABRE CAMPO', 'MG', '35365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2240, 'ACAIACA', 'MG', '35438000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2241, 'ACUCENA', 'MG', '35150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2242, 'AGUA BOA', 'MG', '39790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2243, 'AGUA COMPRIDA', 'MG', '38110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2244, 'AGUANIL', 'MG', '37273000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2245, 'AGUAS FORMOSAS', 'MG', '39880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2246, 'AGUAS VERMELHAS', 'MG', '39990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4405, 'GUATAMBU', 'SC', '89817000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4406, 'HERVAL D''OESTE', 'SC', '89610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4407, 'IBIAM', 'SC', '89652000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4408, 'IBICARE', 'SC', '89640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4147, 'OURO VERDE DO OESTE', 'PR', '85933000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4148, 'PAICANDU', 'PR', '87140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4149, 'PALMAS', 'PR', '85555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4150, 'PALMEIRA', 'PR', '84130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4151, 'PALMITAL', 'PR', '85270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4153, 'PARAISO DO NORTE', 'PR', '87780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4154, 'PARANACITY', 'PR', '87660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4155, 'PARANAGUA', 'PR', '83200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4156, 'PARANAPOEMA', 'PR', '87680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4157, 'PARANAVAI', 'PR', '87700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4158, 'PATO BRAGADO', 'PR', '85948000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4159, 'PATO BRANCO', 'PR', '85500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4160, 'PAULA FREITAS', 'PR', '84630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4161, 'PAULO FRONTIN', 'PR', '84635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4162, 'PEABIRU', 'PR', '87250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4163, 'PEROBAL', 'PR', '87538000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4165, 'PEROLA D''OESTE', 'PR', '85740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4166, 'PIEN', 'PR', '83860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4167, 'PINHAIS', 'PR', '83320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4168, 'PINHALAO', 'PR', '84925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4169, 'PINHAL DE SAO BENTO', 'PR', '85727000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4170, 'PINHAO', 'PR', '85170000');
+COMMIT;
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4171, 'PIRAI DO SUL', 'PR', '84240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4172, 'PIRAQUARA', 'PR', '83300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4173, 'PITANGA', 'PR', '85200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4174, 'PITANGUEIRAS', 'PR', '86613000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4175, 'PLANALTINA DO PARANA', 'PR', '87860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4176, 'PLANALTO', 'PR', '85750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4178, 'PONTAL DO PARANA', 'PR', '83255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4179, 'PORECATU', 'PR', '86160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4180, 'PORTO AMAZONAS', 'PR', '84140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4181, 'PORTO BARREIRO', 'PR', '85345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4182, 'PORTO RICO', 'PR', '87950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4183, 'PORTO VITORIA', 'PR', '84610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4184, 'PRADO FERREIRA', 'PR', '86618000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4185, 'PRANCHITA', 'PR', '85730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4186, 'PRESIDENTE CASTELO BRANCO', 'PR', '87180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4187, 'PRIMEIRO DE MAIO', 'PR', '86140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4188, 'PRUDENTOPOLIS', 'PR', '84400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4189, 'QUARTO CENTENARIO', 'PR', '87365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3096, 'ANCHIETA', 'ES', '29230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3097, 'APIACA', 'ES', '29450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3099, 'ATILIO VIVACQUA', 'ES', '29490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3100, 'BAIXO GUANDU', 'ES', '29730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3101, 'BARRA DE SAO FRANCISCO', 'ES', '29800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3102, 'BOA ESPERANCA', 'ES', '29845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3103, 'BOM JESUS DO NORTE', 'ES', '29460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3104, 'BREJETUBA', 'ES', '29630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3105, 'CACHOEIRO DE ITAPEMIRIM', 'ES', '29300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3106, 'CARIACICA', 'ES', '29140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3107, 'CASTELO', 'ES', '29360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3108, 'COLATINA', 'ES', '29700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3109, 'CONCEICAO DA BARRA', 'ES', '29960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3110, 'CONCEICAO DO CASTELO', 'ES', '29370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3112, 'DOMINGOS MARTINS', 'ES', '29260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3113, 'DORES DO RIO PRETO', 'ES', '29580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3114, 'ECOPORANGA', 'ES', '29850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3115, 'FUNDAO', 'ES', '29185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3116, 'GUACUI', 'ES', '29560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3117, 'GUARAPARI', 'ES', '29200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3118, 'IBATIBA', 'ES', '29395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3119, 'IBIRACU', 'ES', '29670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3120, 'IBITIRAMA', 'ES', '29540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3121, 'ICONHA', 'ES', '29280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3122, 'IRUPI', 'ES', '29398000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3123, 'ITAGUACU', 'ES', '29690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2984, 'SAO LOURENCO', 'MG', '37470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2985, 'SAO MIGUEL DO ANTA', 'MG', '36590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2986, 'SAO PEDRO DA UNIAO', 'MG', '37855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2988, 'SAO PEDRO DO SUACUI', 'MG', '39784000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2989, 'SAO ROMAO', 'MG', '39290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2990, 'SAO ROQUE DE MINAS', 'MG', '37928000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2991, 'SAO SEBASTIAO DA BELA VISTA', 'MG', '37567000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2992, 'SAO SEBASTIAO DA VARGEM ALEGRE', 'MG', '36793000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2993, 'SAO SEBASTIAO DO ANTA', 'MG', '35334000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2975, 'SAO JOSE DA BARRA', 'MG', '37945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2976, 'SAO JOSE DA LAPA', 'MG', '33350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2977, 'SAO JOSE DA SAFIRA', 'MG', '39785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2978, 'SAO JOSE DA VARGINHA', 'MG', '35694000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2979, 'SAO JOSE DO ALEGRE', 'MG', '37510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2853, 'PRATA', 'MG', '38140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2854, 'PRATAPOLIS', 'MG', '37970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2855, 'PRATINHA', 'MG', '38960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4079, 'JESUITAS', 'PR', '85835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4080, 'JOAQUIM TAVORA', 'PR', '86455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4081, 'JUNDIAI DO SUL', 'PR', '86470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3980, 'CLEVELANDIA', 'PR', '85530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3853, 'TAPIRAI', 'SP', '18180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3854, 'TAPIRATIBA', 'SP', '13760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3855, 'TAQUARAL', 'SP', '14765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3856, 'TAQUARITINGA', 'SP', '15900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3981, 'COLOMBO', 'PR', '83400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3982, 'COLORADO', 'PR', '86690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3983, 'CONGONHINHAS', 'PR', '86320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3984, 'CONSELHEIRO MAIRINCK', 'PR', '86480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3985, 'CONTENDA', 'PR', '83730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3986, 'CORBELIA', 'PR', '85420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3987, 'CORNELIO PROCOPIO', 'PR', '86300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3988, 'CORONEL DOMINGOS SOARES', 'PR', '85557000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3989, 'CORONEL VIVIDA', 'PR', '85550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3990, 'CORUMBATAI DO SUL', 'PR', '86970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3991, 'CRUZEIRO DO IGUACU', 'PR', '85598000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3992, 'CRUZEIRO DO OESTE', 'PR', '87400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3993, 'CRUZEIRO DO SUL', 'PR', '87650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3995, 'CRUZMALTINA', 'PR', '86855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3996, 'CURITIBA', 'PR', '80000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3997, 'CURIUVA', 'PR', '84280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3841, 'SUMARE', 'SP', '13170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3842, 'SUZANO', 'SP', '08600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3843, 'SUZANAPOLIS', 'SP', '15380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3845, 'TABATINGA', 'SP', '14910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3846, 'TABOAO DA SERRA', 'SP', '06750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3714, 'POTIRENDABA', 'SP', '15105000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3715, 'PRACINHA', 'SP', '17790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3716, 'PRADOPOLIS', 'SP', '14850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3717, 'PRAIA GRANDE', 'SP', '11700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3719, 'PRESIDENTE ALVES', 'SP', '16670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3050, 'TRES MARIAS', 'MG', '39205000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3051, 'TRES PONTAS', 'MG', '37190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3052, 'TUMIRITINGA', 'MG', '35125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3053, 'TUPACIGUARA', 'MG', '38430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3054, 'TURMALINA', 'MG', '39660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3055, 'TURVOLANDIA', 'MG', '37496000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3056, 'UBA', 'MG', '36500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3057, 'UBAI', 'MG', '39320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3058, 'UBAPORANGA', 'MG', '35338000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3059, 'UBERABA', 'MG', '38000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3060, 'UBERLANDIA', 'MG', '38400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3061, 'UMBURATIBA', 'MG', '39878000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3063, 'UNIAO DE MINAS', 'MG', '38288000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3064, 'URUANA DE MINAS', 'MG', '38630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2898, 'SALINAS', 'MG', '39560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2899, 'SALTO DA DIVISA', 'MG', '39925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2900, 'SANTA BARBARA', 'MG', '35960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2901, 'SANTA BARBARA DO LESTE', 'MG', '35328000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3036, 'TAPIRA', 'MG', '38185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3037, 'TAPIRAI', 'MG', '38980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3038, 'TAQUARACU DE MINAS', 'MG', '33980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3039, 'TARUMIRIM', 'MG', '35140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3040, 'TEIXEIRAS', 'MG', '36580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3179, 'CACHOEIRAS DE MACACU', 'RJ', '28680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3180, 'CAMBUCI', 'RJ', '28430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3181, 'CARAPEBUS', 'RJ', '20000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3182, 'COMENDADOR LEVY GASPARIAN', 'RJ', '25870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3183, 'CAMPOS DOS GOYTACAZES', 'RJ', '28000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3184, 'CANTAGALO', 'RJ', '28500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3185, 'CARDOSO MOREIRA', 'RJ', '28180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3186, 'CARMO', 'RJ', '28640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3187, 'CASIMIRO DE ABREU', 'RJ', '28860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3188, 'CONCEICAO DE MACABU', 'RJ', '28740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3190, 'DUAS BARRAS', 'RJ', '28650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3191, 'DUQUE DE CAXIAS', 'RJ', '25000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3192, 'ENGENHEIRO PAULO DE FRONTIN', 'RJ', '26650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2940, 'SANTO ANTONIO DO RETIRO', 'MG', '39538000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2942, 'SANTO HIPOLITO', 'MG', '39210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2943, 'SANTOS DUMONT', 'MG', '36240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2944, 'SAO BENTO ABADE', 'MG', '37414000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2945, 'SAO BRAS DO SUACUI', 'MG', '35495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2946, 'SAO DOMINGOS DAS DORES', 'MG', '35335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2947, 'SAO DOMINGOS DO PRATA', 'MG', '35995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2948, 'SAO FELIX DE MINAS', 'MG', '35275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2949, 'SAO FRANCISCO', 'MG', '39300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2950, 'SAO FRANCISCO DE PAULA', 'MG', '35543000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2951, 'SAO FRANCISCO DE SALES', 'MG', '38260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2952, 'SAO FRANCISCO DO GLORIA', 'MG', '36810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2953, 'SAO GERALDO', 'MG', '36530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2954, 'SAO GERALDO DA PIEDADE', 'MG', '39723000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2955, 'SAO GERALDO DO BAIXIO', 'MG', '35258000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2956, 'SAO GONCALO DO ABAETE', 'MG', '38790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2957, 'SAO GONCALO DO PARA', 'MG', '35516000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2959, 'SAO GONCALO DO SAPUCAI', 'MG', '37490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2960, 'SAO GOTARDO', 'MG', '38800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2961, 'SAO JOAO BATISTA DO GLORIA', 'MG', '37920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2962, 'SAO JOAO DA LAGOA', 'MG', '39355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2963, 'SAO JOAO DA MATA', 'MG', '37568000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2964, 'SAO JOAO DA PONTE', 'MG', '39430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2965, 'SAO JOAO DAS MISSOES', 'MG', '39475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2966, 'SAO JOAO DEL REI', 'MG', '36300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2967, 'SAO JOAO DO MANHUACU', 'MG', '36918000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2968, 'SAO JOAO DO MANTENINHA', 'MG', '35277000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2969, 'SAO JOAO DO ORIENTE', 'MG', '35146000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2970, 'SAO JOAO DO PACUI', 'MG', '39365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2971, 'SAO JOAO DO PARAISO', 'MG', '39540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2972, 'SAO JOAO EVANGELISTA', 'MG', '39705000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2973, 'SAO JOAO NEPOMUCENO', 'MG', '36680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2974, 'SAO JOAQUIM DE BICAS', 'MG', '32920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2981, 'SAO JOSE DO GOIABAL', 'MG', '35986000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2982, 'SAO JOSE DO JACURI', 'MG', '39707000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2983, 'SAO JOSE DO MANTIMENTO', 'MG', '36990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2732, 'MONTE BELO', 'MG', '37115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2733, 'MONTE CARMELO', 'MG', '38500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2734, 'MONTE FORMOSO', 'MG', '39893000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2735, 'MONTE SANTO DE MINAS', 'MG', '37958000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2736, 'MONTES CLAROS', 'MG', '39400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2737, 'MONTE SIAO', 'MG', '37580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2738, 'MONTEZUMA', 'MG', '39547000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2739, 'MORADA NOVA DE MINAS', 'MG', '35628000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2740, 'MORRO DA GARCA', 'MG', '35798000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2741, 'MORRO DO PILAR', 'MG', '35875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2742, 'MUNHOZ', 'MG', '37620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2743, 'MURIAE', 'MG', '36880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2745, 'MUZAMBINHO', 'MG', '37890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2746, 'NACIP RAYDAN', 'MG', '39718000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2747, 'NANUQUE', 'MG', '39860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2748, 'NAQUE', 'MG', '35157000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2749, 'NATALANDIA', 'MG', '38658000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2750, 'NATERCIA', 'MG', '37524000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2751, 'NAZARENO', 'MG', '36370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2752, 'NEPOMUCENO', 'MG', '37250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2753, 'NINHEIRA', 'MG', '39553000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2754, 'NOVA BELEM', 'MG', '35298000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2755, 'NOVA ERA', 'MG', '35920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2756, 'NOVA LIMA', 'MG', '34000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2758, 'NOVA PONTE', 'MG', '38160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2759, 'NOVA PORTEIRINHA', 'MG', '39525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2760, 'NOVA RESENDE', 'MG', '37860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2761, 'NOVA SERRANA', 'MG', '35519000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2762, 'NOVO CRUZEIRO', 'MG', '39820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2763, 'NOVO ORIENTE DE MINAS', 'MG', '39817000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2764, 'NOVORIZONTE', 'MG', '39568000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2765, 'OLARIA', 'MG', '36145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2766, 'OLHOS D''AGUA', 'MG', '39398000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2783, 'PALMA', 'MG', '36750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2784, 'PALMOPOLIS', 'MG', '39945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2785, 'PAPAGAIOS', 'MG', '35669000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2786, 'PARACATU', 'MG', '38600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2768, 'OLIVEIRA', 'MG', '35540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2147, 'RIBEIRAO DO LARGO', 'BA', '45155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2148, 'RIO DE CONTAS', 'BA', '46170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2149, 'RIO DO ANTONIO', 'BA', '46220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2150, 'RIO DO PIRES', 'BA', '46550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2151, 'RIO REAL', 'BA', '48330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2152, 'RODELAS', 'BA', '48630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2153, 'RUY BARBOSA', 'BA', '46800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2154, 'SALINAS DA MARGARIDA', 'BA', '44450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1315, 'DUAS ESTRADAS', 'PB', '58265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1316, 'EMAS', 'PB', '58763000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1318, 'FAGUNDES', 'PB', '58430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1319, 'FREI MARTINHO', 'PB', '58195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1320, 'GADO BRAVO', 'PB', '58405000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1321, 'GUARABIRA', 'PB', '58200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1322, 'GURINHEM', 'PB', '58356000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1323, 'GURJAO', 'PB', '58670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1324, 'IBIARA', 'PB', '58980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1325, 'IMACULADA', 'PB', '58745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1326, 'INGA', 'PB', '58380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1327, 'ITABAIANA', 'PB', '58360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1328, 'ITAPORANGA', 'PB', '58780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1329, 'ITAPOROROCA', 'PB', '58275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1330, 'ITATUBA', 'PB', '58378000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1332, 'JERICO', 'PB', '58830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1333, 'JOAO PESSOA', 'PB', '58000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1334, 'JUAREZ TAVORA', 'PB', '58387000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1335, 'JUAZEIRINHO', 'PB', '58660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1336, 'JUNCO DO SERIDO', 'PB', '58640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1743, 'TEOTONIO VILELA', 'AL', '57265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1744, 'TRAIPU', 'AL', '57370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1745, 'UNIAO DOS PALMARES', 'AL', '57800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1746, 'VICOSA', 'AL', '57700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1747, 'AMPARO DE SAO FRANCISCO', 'SE', '49920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1748, 'AQUIDABA', 'SE', '49790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1749, 'ARACAJU', 'SE', '49000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1750, 'ARAUA', 'SE', '49220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1751, 'AREIA BRANCA', 'SE', '49580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1938, 'CURACA', 'BA', '48930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1939, 'DARIO MEIRA', 'BA', '45590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1941, 'DOM BASILIO', 'BA', '46165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1942, 'DOM MACEDO COSTA', 'BA', '44560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1943, 'ELISIO MEDRADO', 'BA', '45305000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1945, 'ENTRE RIOS', 'BA', '48180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1946, 'ESPLANADA', 'BA', '48370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1947, 'EUCLIDES DA CUNHA', 'BA', '48500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1948, 'EUNAPOLIS', 'BA', '45820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1949, 'FATIMA', 'BA', '48415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1950, 'FEIRA DA MATA', 'BA', '46446000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1951, 'FEIRA DE SANTANA', 'BA', '44000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3169, 'ARARUAMA', 'RJ', '28970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3170, 'AREAL', 'RJ', '25845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3171, 'ARMACAO DE BUZIOS', 'RJ', '28950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3172, 'ARRAIAL DO CABO', 'RJ', '28930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3173, 'BARRA DO PIRAI', 'RJ', '27000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3174, 'BARRA MANSA', 'RJ', '27300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3175, 'BELFORD ROXO', 'RJ', '26100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3177, 'BOM JESUS DO ITABAPOANA', 'RJ', '28360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3178, 'CABO FRIO', 'RJ', '28900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3351, 'BURITIZAL', 'SP', '14570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3352, 'CABRALIA PAULISTA', 'SP', '17480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3353, 'CABREUVA', 'SP', '13315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3354, 'CACAPAVA', 'SP', '12280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3355, 'CACHOEIRA PAULISTA', 'SP', '12630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3356, 'CACONDE', 'SP', '13770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3357, 'CAFELANDIA', 'SP', '16500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3358, 'CAIABU', 'SP', '19530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3359, 'CAIEIRAS', 'SP', '07700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3360, 'CAIUA', 'SP', '19450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3362, 'CAJATI', 'SP', '11950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3363, 'CAJOBI', 'SP', '15410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3364, 'CAJURU', 'SP', '14240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3365, 'CAMPINA DO MONTE ALEGRE', 'SP', '18245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3366, 'CAMPINAS', 'SP', '13000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3367, 'CAMPO LIMPO PAULISTA', 'SP', '13230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3368, 'CAMPOS DO JORDAO', 'SP', '12460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3369, 'CAMPOS NOVOS PAULISTA', 'SP', '19960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3370, 'CANANEIA', 'SP', '11990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3371, 'CANAS', 'SP', '12615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3372, 'CANDIDO MOTA', 'SP', '19880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3373, 'CANDIDO RODRIGUES', 'SP', '15930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3375, 'CAPAO BONITO', 'SP', '18300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3376, 'CAPELA DO ALTO', 'SP', '18195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3377, 'CAPIVARI', 'SP', '13360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3378, 'CARAGUATATUBA', 'SP', '11660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3379, 'CARAPICUIBA', 'SP', '06300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3380, 'CARDOSO', 'SP', '15570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3381, 'CASA BRANCA', 'SP', '13700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3472, 'GUZOLANDIA', 'SP', '15355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3473, 'HERCULANDIA', 'SP', '17650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3474, 'HOLAMBRA', 'SP', '13825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3475, 'HORTOLANDIA', 'SP', '13183000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3476, 'IACANGA', 'SP', '17180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3478, 'IARAS', 'SP', '18775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3465, 'GUARAREMA', 'SP', '08900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3466, 'GUARATINGUETA', 'SP', '12500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3467, 'GUAREI', 'SP', '18250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3468, 'GUARIBA', 'SP', '14840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3469, 'GUARUJA', 'SP', '11400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3470, 'GUARULHOS', 'SP', '07000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3471, 'GUATAPARA', 'SP', '14115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3479, 'IBATE', 'SP', '14815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3480, 'IBIRA', 'SP', '15860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3481, 'IBIRAREMA', 'SP', '19940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3482, 'IBITINGA', 'SP', '14940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3484, 'ICEM', 'SP', '15460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3485, 'IEPE', 'SP', '19640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3486, 'IGARACU DO TIETE', 'SP', '17350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3487, 'IGARAPAVA', 'SP', '14540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3488, 'IGARATA', 'SP', '12350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3489, 'IGUAPE', 'SP', '11920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3490, 'ILHABELA', 'SP', '11630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3409, 'DESCALVADO', 'SP', '13690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3410, 'DIADEMA', 'SP', '09900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3268, 'ALTAIR', 'SP', '15430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3269, 'ALTINOPOLIS', 'SP', '14350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3270, 'ALTO ALEGRE', 'SP', '16310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3492, 'ILHA SOLTEIRA', 'SP', '15385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3229, 'RIO BONITO', 'RJ', '28800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3230, 'RIO CLARO (RJ)', 'RJ', '27460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3231, 'RIO DAS FLORES', 'RJ', '27660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3232, 'RIO DAS OSTRAS', 'RJ', '28890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3233, 'RIO DE JANEIRO', 'RJ', '20000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3234, 'SANTA MARIA MADALENA', 'RJ', '28770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3235, 'SANTO ANTONIO DE PADUA', 'RJ', '28470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3236, 'SAO FRANCISCO DE ITABAPOANA', 'RJ', '28230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3237, 'SAO FIDELIS', 'RJ', '28400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3238, 'SAO GONCALO', 'RJ', '24400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3239, 'SAO JOAO DA BARRA', 'RJ', '28200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3240, 'SAO JOAO DE MERITI', 'RJ', '25500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3241, 'SAO JOSE DE UBA', 'RJ', '28455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3243, 'SAO PEDRO DA ALDEIA', 'RJ', '28940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3244, 'SAO SEBASTIAO DO ALTO', 'RJ', '28550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3245, 'SAPUCAIA', 'RJ', '25880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3246, 'SAQUAREMA', 'RJ', '28990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3247, 'SEROPEDICA', 'RJ', '23890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3248, 'SILVA JARDIM', 'RJ', '28820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3249, 'SUMIDOURO', 'RJ', '28637000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3250, 'TANGUA', 'RJ', '24890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3251, 'TERESOPOLIS', 'RJ', '25950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3252, 'TRAJANO DE MORAIS', 'RJ', '28750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3253, 'TRES RIOS', 'RJ', '25800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3254, 'VALENCA', 'RJ', '27600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3255, 'VARRE E SAI', 'RJ', '28375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3256, 'VASSOURAS', 'RJ', '27700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3257, 'VOLTA REDONDA', 'RJ', '27200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3258, 'ADAMANTINA', 'SP', '17800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3259, 'ADOLFO', 'SP', '15230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3261, 'AGUAS DA PRATA', 'SP', '13890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3262, 'AGUAS DE LINDOIA', 'SP', '13940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3263, 'AGUAS DE SANTA BARBARA', 'SP', '18770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3264, 'AGUAS DE SAO PEDRO', 'SP', '13525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3265, 'AGUDOS', 'SP', '17120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3266, 'ALAMBARI', 'SP', '18220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3267, 'ALFREDO MARCONDES', 'SP', '19180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2994, 'SAO SEBASTIAO DO MARANHAO', 'MG', '39795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2995, 'SAO SEBASTIAO DO OESTE', 'MG', '35506000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2996, 'SAO SEBASTIAO DO PARAISO', 'MG', '37950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2997, 'SAO SEBASTIAO DO RIO PRETO', 'MG', '35815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2998, 'SAO SEBASTIAO DO RIO VERDE', 'MG', '37467000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3000, 'SAO TOMAS DE AQUINO', 'MG', '37960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3001, 'SAO TOME DAS LETRAS', 'MG', '37418000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3002, 'SAO VICENTE DE MINAS', 'MG', '37370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3004, 'SARDOA', 'MG', '39728000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3005, 'SARZEDO', 'MG', '32450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3006, 'SETUBINHA', 'MG', '39688000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3042, 'TIMOTEO', 'MG', '35180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3043, 'TIRADENTES', 'MG', '36325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3044, 'TIROS', 'MG', '38880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3045, 'TOCANTINS', 'MG', '36512000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3007, 'SEM PEIXE', 'MG', '35441000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3008, 'SENADOR AMARAL', 'MG', '37615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3009, 'SENADOR CORTES', 'MG', '36650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3010, 'SENADOR FIRMINO', 'MG', '36540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3011, 'SENADOR JOSE BENTO', 'MG', '37558000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3012, 'SENADOR MODESTINO GONCALVES', 'MG', '39190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3013, 'SENHORA DE OLIVEIRA', 'MG', '36470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3014, 'SENHORA DO PORTO', 'MG', '39745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3015, 'SENHORA DOS REMEDIOS', 'MG', '36275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3017, 'SERITINGA', 'MG', '37454000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3018, 'SERRA AZUL DE MINAS', 'MG', '39165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3019, 'SERRA DA SAUDADE', 'MG', '35617000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3020, 'SERRA DOS AIMORES', 'MG', '39868000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3021, 'SERRA DO SALITRE', 'MG', '38760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3022, 'SERRANIA', 'MG', '37136000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3023, 'SERRANOPOLIS DE MINAS', 'MG', '39518000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3024, 'SERRANOS', 'MG', '37452000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3025, 'SERRO', 'MG', '39150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3026, 'SETE LAGOAS', 'MG', '35700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3027, 'SILVEIRANIA', 'MG', '36185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3028, 'SILVIANOPOLIS', 'MG', '37560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3029, 'SIMAO PEREIRA', 'MG', '36123000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3031, 'SOBRALIA', 'MG', '35145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3032, 'SOLEDADE DE MINAS', 'MG', '37478000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3033, 'TABULEIRO', 'MG', '36165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3034, 'TAIOBEIRAS', 'MG', '39550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3035, 'TAPARUBA', 'MG', '36953000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3382, 'CASSIA DOS COQUEIROS', 'SP', '14260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3383, 'CASTILHO', 'SP', '16920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3384, 'CATANDUVA', 'SP', '15800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3385, 'CATIGUA', 'SP', '15870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3386, 'CEDRAL', 'SP', '15895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2856, 'PRESIDENTE BERNARDES', 'MG', '36475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2857, 'PRESIDENTE JUSCELINO', 'MG', '35797000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2859, 'PRESIDENTE OLEGARIO', 'MG', '38750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2860, 'ALTO JEQUITIBA', 'MG', '36976000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2861, 'PRUDENTE DE MORAIS', 'MG', '35715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2862, 'QUARTEL GERAL', 'MG', '35625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2863, 'QUELUZITA', 'MG', '36424000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2864, 'RAPOSOS', 'MG', '34400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2865, 'RAUL SOARES', 'MG', '35350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2866, 'RECREIO', 'MG', '36740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2867, 'REDUTO', 'MG', '36920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2868, 'RESENDE COSTA', 'MG', '36340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2869, 'RESPLENDOR', 'MG', '35230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2870, 'RESSAQUINHA', 'MG', '36270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2871, 'RIACHINHO', 'MG', '38640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2872, 'RIACHO DOS MACHADOS', 'MG', '39529000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2873, 'RIBEIRAO DAS NEVES', 'MG', '33800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2875, 'RIO ACIMA', 'MG', '34300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2876, 'RIO CASCA', 'MG', '35370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2877, 'RIO DOCE', 'MG', '35442000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2878, 'RIO DO PRADO', 'MG', '39940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2879, 'RIO ESPERA', 'MG', '36460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2880, 'RIO MANSO', 'MG', '35525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2881, 'RIO NOVO', 'MG', '36150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2882, 'RIO PARANAIBA', 'MG', '38810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2883, 'RIO PARDO DE MINAS', 'MG', '39530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2884, 'RIO PIRACICABA', 'MG', '35940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2885, 'RIO POMBA', 'MG', '36180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2886, 'RIO PRETO', 'MG', '36130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2887, 'RIO VERMELHO', 'MG', '39170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2888, 'RITAPOLIS', 'MG', '36335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2889, 'ROCHEDO DE MINAS', 'MG', '36604000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2891, 'ROMARIA', 'MG', '38520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2892, 'ROSARIO DA LIMEIRA', 'MG', '36878000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2894, 'RUBIM', 'MG', '39950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2895, 'SABARA', 'MG', '34500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2896, 'SABINOPOLIS', 'MG', '39750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2897, 'SACRAMENTO', 'MG', '38190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3046, 'TOCOS DO MOJI', 'MG', '37563000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3047, 'TOLEDO', 'MG', '37630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3789, 'SANTA ROSA DE VITERBO', 'SP', '14270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3790, 'SANTA SALETE', 'SP', '15768000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3791, 'SANTO ANASTACIO', 'SP', '19360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3792, 'SANTO ANDRE', 'SP', '09000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3793, 'SANTO ANTONIO DA ALEGRIA', 'SP', '14390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3794, 'SANTO ANTONIO DE POSSE', 'SP', '13830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3795, 'SANTO ANTONIO DO ARACANGUA', 'SP', '16130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3796, 'SANTO ANTONIO DO JARDIM', 'SP', '13995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3797, 'SANTO ANTONIO DO PINHAL', 'SP', '12450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3798, 'SANTO EXPEDITO', 'SP', '19190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3799, 'SANTOPOLIS DO AGUAPEI', 'SP', '16240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3800, 'SANTOS', 'SP', '11000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3801, 'SAO BENTO DO SAPUCAI', 'SP', '12490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3802, 'SAO BERNARDO DO CAMPO', 'SP', '09700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3973, 'CATANDUVAS', 'PR', '85470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3974, 'CENTENARIO DO SUL', 'PR', '86630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3975, 'CERRO AZUL', 'PR', '83570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3976, 'CEU AZUL', 'PR', '85840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3977, 'CHOPINZINHO', 'PR', '85560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3978, 'CIANORTE', 'PR', '87200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3979, 'CIDADE GAUCHA', 'PR', '87820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3771, 'SANTA BARBARA D''OESTE', 'SP', '13450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3772, 'SANTA BRANCA', 'SP', '12380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3779, 'SANTA FE DO SUL', 'SP', '15775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3780, 'SANTA GERTRUDES', 'SP', '13510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3781, 'SANTA ISABEL', 'SP', '07500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3783, 'SANTA MARIA DA SERRA', 'SP', '17370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3700, 'PLANALTO', 'SP', '15260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3701, 'PLATINA', 'SP', '19990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3567, 'LUCELIA', 'SP', '17780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3568, 'LUCIANOPOLIS', 'SP', '17475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3569, 'LUIS ANTONIO', 'SP', '14210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3570, 'LUIZIANIA', 'SP', '16340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3571, 'LUPERCIO', 'SP', '17420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3572, 'LUTECIA', 'SP', '19750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3573, 'MACATUBA', 'SP', '17290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3574, 'MACAUBAL', 'SP', '15270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3575, 'MACEDONIA', 'SP', '15620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3576, 'MAGDA', 'SP', '15310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3578, 'MAIRIPORA', 'SP', '07600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3579, 'MANDURI', 'SP', '18780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3580, 'MARABA PAULISTA', 'SP', '19430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3581, 'MARACAI', 'SP', '19840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3582, 'MARAPOAMA', 'SP', '15845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3583, 'MARIAPOLIS', 'SP', '17810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3584, 'MARILIA', 'SP', '17500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1337, 'JURIPIRANGA', 'PB', '58330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1338, 'JURU', 'PB', '58750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1339, 'LAGOA', 'PB', '58835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1340, 'LAGOA DE DENTRO', 'PB', '58250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1341, 'LAGOA SECA', 'PB', '58117000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1342, 'LASTRO', 'PB', '58820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1343, 'LIVRAMENTO', 'PB', '58690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1369, 'OLIVEDOS', 'PB', '58160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1370, 'OURO VELHO', 'PB', '58560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1371, 'PARARI', 'PB', '58575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1372, 'PASSAGEM', 'PB', '58734000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1344, 'LOGRADOURO', 'PB', '58254000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1345, 'LUCENA', 'PB', '58315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1346, 'MAE D''AGUA', 'PB', '58740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1347, 'MALTA', 'PB', '58713000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1348, 'MAMANGUAPE', 'PB', '58280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1349, 'MANAIRA', 'PB', '58995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1350, 'MARCACAO', 'PB', '58294000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1351, 'MARI', 'PB', '58345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1352, 'MARIZOPOLIS', 'PB', '58819000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1354, 'MATARACA', 'PB', '58292000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1355, 'MATINHAS', 'PB', '58128000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1356, 'MATO GROSSO', 'PB', '58832000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1357, 'MATUREIA', 'PB', '58737000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1358, 'MOGEIRO', 'PB', '58375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1359, 'MONTADAS', 'PB', '58145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1360, 'MONTE HOREBE', 'PB', '58950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1361, 'MONTEIRO', 'PB', '58500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1669, 'CORURIPE', 'AL', '57230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1670, 'CRAIBAS', 'AL', '57320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1671, 'DELMIRO GOUVEIA', 'AL', '57480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1672, 'DOIS RIACHOS', 'AL', '57560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1673, 'ESTRELA DE ALAGOAS', 'AL', '57625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1675, 'FELIZ DESERTO', 'AL', '57220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1676, 'FLEXEIRAS', 'AL', '57995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1677, 'GIRAU DO PONCIANO', 'AL', '57360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1678, 'IBATEGUARA', 'AL', '57890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1679, 'IGACI', 'AL', '57620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1680, 'IGREJA NOVA', 'AL', '57280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1681, 'INHAPI', 'AL', '57545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1682, 'JACARE DOS HOMENS', 'AL', '57430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1683, 'JACUIPE', 'AL', '57960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1684, 'JAPARATINGA', 'AL', '57950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1685, 'JARAMATAIA', 'AL', '57425000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1686, 'JOAQUIM GOMES', 'AL', '57980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1688, 'JUNQUEIRO', 'AL', '57270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1690, 'LIMOEIRO DE ANADIA', 'AL', '57260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1691, 'MACEIO', 'AL', '57000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1692, 'MAJOR ISIDORO', 'AL', '57580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1693, 'MARAGOGI', 'AL', '57955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1694, 'MARAVILHA', 'AL', '57520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1695, 'MARECHAL DEODORO', 'AL', '57160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1696, 'MARIBONDO', 'AL', '57670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1697, 'MAR VERMELHO', 'AL', '57730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1698, 'MATA GRANDE', 'AL', '57540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1700, 'MESSIAS', 'AL', '57990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1701, 'MINADOR DO NEGRAO', 'AL', '57615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1702, 'MONTEIROPOLIS', 'AL', '57440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1703, 'MURICI', 'AL', '57820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1533, 'IBIMIRIM', 'PE', '56580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1534, 'IBIRAJUBA', 'PE', '55390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1535, 'IGARASSU', 'PE', '53600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1536, 'IGUARACI', 'PE', '56840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1537, 'INAJA', 'PE', '56560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1538, 'INGAZEIRA', 'PE', '56830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1539, 'IPOJUCA', 'PE', '55590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1540, 'IPUBI', 'PE', '56260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1541, 'ITACURUBA', 'PE', '56430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1542, 'ITAIBA', 'PE', '56550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1543, 'ITAMARACA', 'PE', '53900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1544, 'ITAMBE', 'PE', '55920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1546, 'ITAPISSUMA', 'PE', '53700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1547, 'ITAQUITINGA', 'PE', '55950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1548, 'JABOATAO DOS GUARARAPES', 'PE', '54000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1549, 'JAQUEIRA', 'PE', '55409000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1704, 'NOVO LINO', 'AL', '57970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1705, 'OLHO D''AGUA DAS FLORES', 'AL', '57442000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1562, 'LAJEDO', 'PE', '55385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1563, 'LIMOEIRO', 'PE', '55700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3049, 'TRES CORACOES', 'MG', '37410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2270, 'ANTONIO PRADO DE MINAS', 'MG', '36850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2090, 'MUTUIPE', 'BA', '45480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2091, 'NAZARE', 'BA', '44400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2092, 'NILO PECANHA', 'BA', '45440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2093, 'NORDESTINA', 'BA', '48870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2094, 'NOVA CANAA', 'BA', '45270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2095, 'NOVA FATIMA', 'BA', '44642000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2096, 'NOVA IBIA', 'BA', '45452000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2097, 'NOVA ITARANA', 'BA', '45390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2098, 'NOVA REDENCAO', 'BA', '46835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2099, 'NOVA SOURE', 'BA', '48460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2271, 'ARACAI', 'MG', '35777000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2272, 'ARACITABA', 'MG', '36255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2274, 'ARAGUARI', 'MG', '38440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2275, 'ARANTINA', 'MG', '37360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2276, 'ARAPONGA', 'MG', '36594000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2277, 'ARAPORA', 'MG', '38435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2278, 'ARAPUA', 'MG', '38860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2279, 'ARAUJOS', 'MG', '35603000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2280, 'ARAXA', 'MG', '38180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2281, 'ARCEBURGO', 'MG', '37820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2140, 'REMANSO', 'BA', '47200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2141, 'RETIROLANDIA', 'BA', '48750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2142, 'RIACHAO DAS NEVES', 'BA', '47970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2143, 'RIACHAO DO JACUIPE', 'BA', '44640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2145, 'RIBEIRA DO AMPARO', 'BA', '48440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2100, 'NOVA VICOSA', 'BA', '45920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2101, 'NOVO HORIZONTE', 'BA', '46730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2102, 'NOVO TRIUNFO', 'BA', '48455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2103, 'OLINDINA', 'BA', '48470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2104, 'OLIVEIRA DOS BREJINHOS', 'BA', '47530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2105, 'OURICANGAS', 'BA', '48150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2106, 'OUROLANDIA', 'BA', '44718000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2107, 'PALMAS DE MONTE ALTO', 'BA', '46460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2108, 'PALMEIRAS', 'BA', '46930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2109, 'PARAMIRIM', 'BA', '46190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2083, 'MUCUGE', 'BA', '46750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2084, 'MUCURI', 'BA', '45930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2085, 'MULUNGU DO MORRO', 'BA', '44885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2087, 'MUNIZ FERREIRA', 'BA', '44575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2088, 'MUQUEM DE SAO FRANCISCO', 'BA', '47115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1858, 'BARRA DO MENDES', 'BA', '44990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1859, 'BARRA DO ROCHA', 'BA', '45560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1860, 'BARREIRAS', 'BA', '47800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1861, 'BARRO ALTO', 'BA', '44895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1862, 'BARRO PRETO', 'BA', '45625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1863, 'BELMONTE', 'BA', '45800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1864, 'BELO CAMPO', 'BA', '45160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1865, 'BIRITINGA', 'BA', '48780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1866, 'BOA NOVA', 'BA', '45250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1867, 'BOA VISTA DO TUPIM', 'BA', '46850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1868, 'BOM JESUS DA LAPA', 'BA', '47600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1870, 'BONINAL', 'BA', '46740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1871, 'BONITO', 'BA', '46820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1996, 'ITABERABA', 'BA', '46880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1837, 'ANDORINHA', 'BA', '48990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1838, 'ANGICAL', 'BA', '47960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1839, 'ANGUERA', 'BA', '44670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1840, 'ANTAS', 'BA', '48420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1841, 'ANTONIO CARDOSO', 'BA', '44180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1842, 'ANTONIO GONCALVES', 'BA', '44780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1843, 'APORA', 'BA', '48350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1706, 'OLHO D''AGUA DO CASADO', 'AL', '57470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1707, 'OLHO D''AGUA GRANDE', 'AL', '57390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1708, 'OLIVENCA', 'AL', '57550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1709, 'OURO BRANCO', 'AL', '57525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1711, 'PALMEIRA DOS INDIOS', 'AL', '57600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1712, 'PAO DE ACUCAR', 'AL', '57400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1713, 'PARICONHA', 'AL', '57475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1714, 'PARIPUEIRA', 'AL', '57935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1715, 'PASSO DE CAMARAGIBE', 'AL', '57930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1716, 'PAULO JACINTO', 'AL', '57740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1717, 'PENEDO', 'AL', '57200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1718, 'PIACABUCU', 'AL', '57210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1719, 'PILAR', 'AL', '57150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1720, 'PINDOBA', 'AL', '57720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1721, 'PIRANHAS', 'AL', '57460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1722, 'POCO DAS TRINCHEIRAS', 'AL', '57510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1724, 'PORTO DE PEDRAS', 'AL', '57945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1725, 'PORTO REAL DO COLEGIO', 'AL', '57290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1726, 'QUEBRANGULO', 'AL', '57750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1727, 'RIO LARGO', 'AL', '57100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1728, 'ROTEIRO', 'AL', '57246000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1729, 'SANTA LUZIA DO NORTE', 'AL', '57130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1730, 'SANTANA DO IPANEMA', 'AL', '57500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1731, 'SANTANA DO MUNDAU', 'AL', '57840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1732, 'SAO BRAS', 'AL', '57380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1733, 'SAO JOSE DA LAJE', 'AL', '57860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1734, 'SAO JOSE DA TAPERA', 'AL', '57445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1735, 'SAO LUIS DO QUITUNDE', 'AL', '57920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1736, 'SAO MIGUEL DOS CAMPOS', 'AL', '57240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1738, 'SAO SEBASTIAO', 'AL', '57275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1739, 'SATUBA', 'AL', '57120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1740, 'SENADOR RUI PALMEIRA', 'AL', '57515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1741, 'TANQUE D''ARCA', 'AL', '57635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1742, 'TAQUARANA', 'AL', '57640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3585, 'MARINOPOLIS', 'SP', '15730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3702, 'POA', 'SP', '08550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3703, 'POLONI', 'SP', '15160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3705, 'PONGAI', 'SP', '16660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3706, 'PONTAL', 'SP', '14180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3707, 'PONTALINDA', 'SP', '15718000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3708, 'PONTES GESTAL', 'SP', '15560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3709, 'POPULINA', 'SP', '15670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3710, 'PORANGABA', 'SP', '18260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3711, 'PORTO FELIZ', 'SP', '18540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3712, 'PORTO FERREIRA', 'SP', '13660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3713, 'POTIM', 'SP', '12525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3554, 'JUQUITIBA', 'SP', '06950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3556, 'LARANJAL PAULISTA', 'SP', '18500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3557, 'LAVINIA', 'SP', '16850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3900, 'ZACARIAS', 'SP', '15265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3901, 'CHAVANTES', 'SP', '18970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3902, 'ESTIVA GERBI', 'SP', '13857000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3903, 'ABATIA', 'PR', '86460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3904, 'ADRIANOPOLIS', 'PR', '83490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3905, 'AGUDOS DO SUL', 'PR', '83850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3906, 'ALMIRANTE TAMANDARE', 'PR', '83500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3907, 'ALTAMIRA DO PARANA', 'PR', '85280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3908, 'ALTONIA', 'PR', '87550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3909, 'ALTO PARANA', 'PR', '87750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3911, 'ALVORADA DO SUL', 'PR', '86150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3912, 'AMAPORA', 'PR', '87850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3913, 'AMPERE', 'PR', '85640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3914, 'ANANY', 'PR', '85425000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3915, 'ANDIRA', 'PR', '86380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3916, 'ANGULO', 'PR', '86755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3917, 'ANTONINA', 'PR', '83370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4045, 'IGUARACU', 'PR', '86750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4046, 'IGUATU', 'PR', '85423000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4047, 'IMBAU', 'PR', '84250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4048, 'IMBITUVA', 'PR', '84430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4049, 'INACIO MARTINS', 'PR', '85155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4050, 'INAJA', 'PR', '87670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4051, 'INDIANOPOLIS', 'PR', '87210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4053, 'IPORA', 'PR', '87560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4054, 'IRACEMA DO OESTE', 'PR', '85833000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4055, 'IRATI', 'PR', '84500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4056, 'IRETAMA', 'PR', '87280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4057, 'ITAGUAJE', 'PR', '86670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4058, 'ITAIPULANDIA', 'PR', '85880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4235, 'SANTA TEREZINHA DE ITAIPU', 'PR', '85875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4236, 'SANTO ANTONIO DA PLATINA', 'PR', '86430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4237, 'SANTO ANTONIO DO CAIUA', 'PR', '87730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4238, 'SANTO ANTONIO DO PARAISO', 'PR', '86315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4239, 'SANTO ANTONIO DO SUDOESTE', 'PR', '85710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4240, 'SANTO INACIO', 'PR', '86650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4242, 'SAO JERONIMO DA SERRA', 'PR', '86270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4243, 'SAO JOAO', 'PR', '85570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4244, 'SAO JOAO DO CAIUA', 'PR', '87740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4245, 'SAO JOAO DO IVAI', 'PR', '86930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4246, 'SAO JOAO DO TRIUNFO', 'PR', '84150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4247, 'SAO JORGE D''OESTE', 'PR', '85575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4248, 'SAO JORGE DO IVAI', 'PR', '87190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4249, 'SAO JORGE DO PATROCINIO', 'PR', '87555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4250, 'SAO JOSE DA BOA VISTA', 'PR', '84980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4251, 'SAO JOSE DAS PALMEIRAS', 'PR', '85898000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4252, 'SAO JOSE DOS PINHAIS', 'PR', '83000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4085, 'LAPA', 'PR', '83750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4086, 'LARANJAL', 'PR', '85275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4087, 'LARANJEIRAS DO SUL', 'PR', '85300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4088, 'LEOPOLIS', 'PR', '86330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4090, 'LINDOESTE', 'PR', '85826000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4091, 'LOANDA', 'PR', '87900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4092, 'LOBATO', 'PR', '86790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4093, 'LONDRINA', 'PR', '86000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4094, 'LUIZIANA', 'PR', '87290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4095, 'LUNARDELLI', 'PR', '86935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4096, 'LUPIONOPOLIS', 'PR', '86635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4097, 'MALLET', 'PR', '84570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4098, 'MAMBORE', 'PR', '87340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4099, 'MANDAGUACU', 'PR', '87160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4100, 'MANDAGUARI', 'PR', '86975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4253, 'SAO MANOEL', 'PR', '87215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4254, 'SAO MATEUS DO SUL', 'PR', '83900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4256, 'SAO PEDRO DO IGUACU', 'PR', '85929000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4101, 'MANDIRITUBA', 'PR', '83800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4102, 'MANFRINOPOLIS', 'PR', '85628000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4103, 'MANGUEIRINHA', 'PR', '85540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4075, 'JAPURA', 'PR', '87225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4076, 'JARDIM ALEGRE', 'PR', '86860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4077, 'JARDIM OLINDA', 'PR', '87690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4078, 'JATAIZINHO', 'PR', '86210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3387, 'CERQUEIRA CESAR', 'SP', '18760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3388, 'CERQUILHO', 'SP', '18520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3390, 'CHARQUEADA', 'SP', '13515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3391, 'CLEMENTINA', 'SP', '16250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3392, 'COLINA', 'SP', '14770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3393, 'COLOMBIA', 'SP', '14795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3394, 'CONCHAL', 'SP', '13835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3395, 'CONCHAS', 'SP', '18570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3396, 'CORDEIROPOLIS', 'SP', '13490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3397, 'COROADOS', 'SP', '16260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3398, 'CORONEL MACEDO', 'SP', '18745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3399, 'CORUMBATAI', 'SP', '13540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3400, 'COSMOPOLIS', 'SP', '13150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3401, 'COSMORAMA', 'SP', '15530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3402, 'COTIA', 'SP', '06700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3403, 'CRAVINHOS', 'SP', '14140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3405, 'CRUZALIA', 'SP', '19860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3406, 'CRUZEIRO', 'SP', '12700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3407, 'CUBATAO', 'SP', '11500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3199, 'ITAPERUNA', 'RJ', '28300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3200, 'ITATIAIA', 'RJ', '27580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3201, 'JAPERI', 'RJ', '26400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3202, 'LAJE DO MURIAE', 'RJ', '28350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3203, 'MACAE', 'RJ', '27900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3204, 'MACUCO', 'RJ', '28545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3205, 'MAGE', 'RJ', '25900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3206, 'MANGARATIBA', 'RJ', '23860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3207, 'MARICA', 'RJ', '24900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3208, 'MENDES', 'RJ', '26700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3209, 'MIGUEL PEREIRA', 'RJ', '26900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3210, 'MIRACEMA', 'RJ', '28460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3212, 'NILOPOLIS', 'RJ', '26500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3213, 'NITEROI', 'RJ', '24000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3408, 'CUNHA', 'SP', '12530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3214, 'NOVA FRIBURGO', 'RJ', '28600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3215, 'NOVA IGUACU', 'RJ', '26000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3216, 'PARACAMBI', 'RJ', '26600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3217, 'PARAIBA DO SUL', 'RJ', '25850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3218, 'PARATI', 'RJ', '23970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3219, 'PATY DO ALFERES', 'RJ', '26950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3220, 'PETROPOLIS', 'RJ', '25600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3221, 'PINHEIRAL', 'RJ', '27197000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3222, 'PIRAI', 'RJ', '27175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3224, 'PORTO REAL', 'RJ', '27570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3225, 'QUATIS', 'RJ', '27400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3226, 'QUEIMADOS', 'RJ', '26300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3227, 'QUISSAMA', 'RJ', '28735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3228, 'RESENDE', 'RJ', '27500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3193, 'GUAPIMIRIM', 'RJ', '25940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3194, 'IGUABA GRANDE', 'RJ', '28960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3195, 'ITABORAI', 'RJ', '24800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3196, 'ITAGUAI', 'RJ', '23800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3197, 'ITALVA', 'RJ', '28250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3198, 'ITAOCARA', 'RJ', '28570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2376, 'CAPITOLIO', 'MG', '37930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2546, 'GOIABEIRA', 'MG', '35248000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2548, 'GONCALVES', 'MG', '37680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2549, 'GONZAGA', 'MG', '39720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2550, 'GOUVEA', 'MG', '39120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2551, 'GOVERNADOR VALADARES', 'MG', '35000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2552, 'GRAO MOGOL', 'MG', '39570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2553, 'GRUPIARA', 'MG', '38470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2554, 'GUANHAES', 'MG', '39740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2555, 'GUAPE', 'MG', '37177000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2556, 'GUARACIABA', 'MG', '35436000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2557, 'GUARACIAMA', 'MG', '39397000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2558, 'GUARANESIA', 'MG', '37810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2378, 'CARAI', 'MG', '39810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2379, 'CARANAIBA', 'MG', '36428000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2380, 'CARANDAI', 'MG', '36280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2381, 'CARANGOLA', 'MG', '36800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2382, 'CARATINGA', 'MG', '35300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2383, 'CARBONITA', 'MG', '39665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2384, 'CAREACU', 'MG', '37556000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2385, 'CARLOS CHAGAS', 'MG', '39864000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2386, 'CARMESIA', 'MG', '35878000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2388, 'CARMO DA MATA', 'MG', '35547000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2389, 'CARMO DE MINAS', 'MG', '37472000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2364, 'CANAPOLIS', 'MG', '38380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2365, 'CANA VERDE', 'MG', '37267000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2367, 'CANTAGALO', 'MG', '39703000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2368, 'CAPARAO', 'MG', '36834000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2369, 'CAPELA NOVA', 'MG', '36290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1437, 'SERIDO', 'PB', '58158000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1438, 'SERRA BRANCA', 'PB', '58580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1439, 'SERRA DA RAIZ', 'PB', '58260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1440, 'SERRA GRANDE', 'PB', '58955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1441, 'SERRA REDONDA', 'PB', '58385000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1442, 'SERRARIA', 'PB', '58395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1443, 'SERTAOZINHO', 'PB', '58268000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1444, 'SOBRADO', 'PB', '58342000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1445, 'SOLANEA', 'PB', '58225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1447, 'SOSSEGO', 'PB', '58177000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1448, 'SOUSA', 'PB', '58800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1449, 'SUME', 'PB', '58540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1450, 'TACIMA', 'PB', '58240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1451, 'TAPEROA', 'PB', '58680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1452, 'TAVARES', 'PB', '58753000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1453, 'TEIXEIRA', 'PB', '58735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1454, 'TENORIO', 'PB', '58665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1455, 'TRIUNFO', 'PB', '58920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1456, 'UIRAUNA', 'PB', '58915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1457, 'UMBUZEIRO', 'PB', '58420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1459, 'VIEROPOLIS', 'PB', '58822000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1460, 'ZABELE', 'PB', '58515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1461, 'ABREU E LIMA', 'PE', '53500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1462, 'AFOGADOS DA INGAZEIRA', 'PE', '56800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1463, 'AFRANIO', 'PE', '56360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1464, 'AGRESTINA', 'PE', '55495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1465, 'AGUA PRETA', 'PE', '55550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1466, 'AGUAS BELAS', 'PE', '55340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1467, 'ALAGOINHA', 'PE', '55260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1468, 'ALIANCA', 'PE', '55890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1469, 'ALTINHO', 'PE', '55490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1659, 'CAMPESTRE', 'AL', '57968000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1661, 'CAMPO GRANDE', 'AL', '57350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1662, 'CANAPI', 'AL', '57530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1663, 'CAPELA', 'AL', '57780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1664, 'CARNEIROS', 'AL', '57535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1665, 'CHA PRETA', 'AL', '57760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1667, 'COLONIA LEOPOLDINA', 'AL', '57975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1668, 'COQUEIRO SECO', 'AL', '57140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1470, 'AMARAJI', 'PE', '55515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1471, 'ANGELIM', 'PE', '55430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2269, 'ANTONIO DIAS', 'MG', '35177000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2530, 'FORTUNA DE MINAS', 'MG', '35760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2531, 'FRANCISCO BADARO', 'MG', '39644000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2532, 'FRANCISCO DUMONT', 'MG', '39387000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2533, 'FRANCISCO SA', 'MG', '39580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2534, 'FRANCISCOPOLIS', 'MG', '39695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2535, 'FREI GASPAR', 'MG', '39840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2536, 'FREI INOCENCIO', 'MG', '35112000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2537, 'FREI LAGONEGRO', 'MG', '39708000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2538, 'FRONTEIRA', 'MG', '38230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2539, 'FRONTEIRA DOS VALES', 'MG', '39870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2540, 'FRUTA DE LEITE', 'MG', '39558000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2542, 'FUNILANDIA', 'MG', '35709000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2543, 'GALILEIA', 'MG', '35250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2544, 'GAMELEIRAS', 'MG', '39505000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2545, 'GLAUCILANDIA', 'MG', '39592000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2370, 'CAPELINHA', 'MG', '39680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2371, 'CAPETINGA', 'MG', '37993000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2372, 'CAPIM BRANCO', 'MG', '35730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2373, 'CAPINOPOLIS', 'MG', '38360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2374, 'CAPITAO ANDRADE', 'MG', '35123000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2375, 'CAPITAO ENEAS', 'MG', '39445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (863, 'SAO LOURENCO DO PIAUI', 'PI', '64778000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (864, 'SAO LUIS DO PIAUI', 'PI', '64638000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (866, 'SAO MIGUEL DO FIDALGO', 'PI', '64558000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (867, 'SAO MIGUEL DO TAPUIO', 'PI', '64330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (868, 'SAO PEDRO DO PIAUI', 'PI', '64430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (869, 'SAO RAIMUNDO NONATO', 'PI', '64770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (870, 'SEBASTIAO BARROS', 'PI', '64985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (871, 'SEBASTIAO LEAL', 'PI', '64873000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (872, 'SIGEFREDO PACHECO', 'PI', '64285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (873, 'SIMOES', 'PI', '64585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (874, 'SIMPLICIO MENDES', 'PI', '64700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (875, 'SOCORRO DO PIAUI', 'PI', '64720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (876, 'SUSSUAPARA', 'PI', '64610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (877, 'TAMBORIL DO PIAUI', 'PI', '64893000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (878, 'TANQUE DO PIAUI', 'PI', '64512000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (879, 'TERESINA', 'PI', '64000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (880, 'UNIAO', 'PI', '64120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (881, 'URUCUI', 'PI', '64860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (882, 'VALENCA DO PIAUI', 'PI', '64300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (884, 'VARZEA GRANDE', 'PI', '64525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (885, 'VERA MENDES', 'PI', '64568000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (886, 'VILA NOVA DO PIAUI', 'PI', '64688000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1084, 'AUGUSTO SEVERO', 'RN', '59000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1085, 'BAIA FORMOSA', 'RN', '59194000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1086, 'BARAUNA', 'RN', '59695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1087, 'BARCELONA', 'RN', '59410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1088, 'BENTO FERNANDES', 'RN', '59555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1089, 'BODO', 'RN', '59528000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1203, 'SAO JOSE DE MIPIBU', 'RN', '59162000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1204, 'SAO JOSE DO CAMPESTRE', 'RN', '59275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1205, 'SAO JOSE DO SERIDO', 'RN', '59378000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1206, 'SAO MIGUEL', 'RN', '59920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1481, 'BEZERROS', 'PE', '55660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1484, 'BOM JARDIM', 'PE', '55730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1485, 'BONITO', 'PE', '55680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1486, 'BREJAO', 'PE', '55325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1647, 'ANADIA', 'AL', '57660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1648, 'ARAPIRACA', 'AL', '57300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1650, 'BARRA DE SANTO ANTONIO', 'AL', '57925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1651, 'BARRA DE SAO MIGUEL', 'AL', '57180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1652, 'BATALHA', 'AL', '57420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1763, 'CUMBE', 'SE', '49660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1764, 'DIVINA PASTORA', 'SE', '49650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1765, 'ESTANCIA', 'SE', '49200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1766, 'FEIRA NOVA', 'SE', '49670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1767, 'FREI PAULO', 'SE', '49514000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1768, 'GARARU', 'SE', '49830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1769, 'GENERAL MAYNARD', 'SE', '49750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1770, 'GRACHO CARDOSO', 'SE', '49860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1771, 'ILHA DAS FLORES', 'SE', '49990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1773, 'ITABAIANA', 'SE', '49500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1774, 'ITABAIANINHA', 'SE', '49290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1775, 'ITABI', 'SE', '49870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1776, 'ITAPORANGA D''AJUDA', 'SE', '49120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1777, 'JAPARATUBA', 'SE', '49960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1778, 'JAPOATA', 'SE', '49950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1779, 'LAGARTO', 'SE', '49400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1780, 'LARANJEIRAS', 'SE', '49170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1781, 'MACAMBIRA', 'SE', '49565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1782, 'MALHADA DOS BOIS', 'SE', '49940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1783, 'MALHADOR', 'SE', '49570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1784, 'MARUIM', 'SE', '49770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1786, 'MONTE ALEGRE DE SERGIPE', 'SE', '49690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1787, 'MURIBECA', 'SE', '49780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1788, 'NEOPOLIS', 'SE', '49980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1789, 'NOSSA SENHORA APARECIDA', 'SE', '49540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1790, 'NOSSA SENHORA DA GLORIA', 'SE', '49680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1791, 'NOSSA SENHORA DAS DORES', 'SE', '49600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1792, 'NOSSA SENHORA DE LOURDES', 'SE', '49890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1793, 'NOSSA SENHORA DO SOCORRO', 'SE', '49160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1794, 'PACATUBA', 'SE', '49970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1416, 'SAO BENTO DE POMBAL', 'PB', '58857000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1417, 'SAO DOMINGOS DO CARIRI', 'PB', '58485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1418, 'SAO DOMINGOS DE POMBAL', 'PB', '58853000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1419, 'SAO FRANCISCO', 'PB', '58818000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1420, 'SAO JOAO DO CARIRI', 'PB', '58590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1305, 'CUITE', 'PB', '58175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1306, 'CUITEGI', 'PB', '58208000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1307, 'CUITE DE MAMANGUAPE', 'PB', '58289000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1308, 'CURRAL DE CIMA', 'PB', '58291000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1309, 'CURRAL VELHO', 'PB', '58990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1310, 'DAMIAO', 'PB', '58173000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1311, 'DESTERRO', 'PB', '58695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1312, 'VISTA SERRANA', 'PB', '58710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1313, 'DIAMANTE', 'PB', '58994000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1314, 'DONA INES', 'PB', '58228000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1605, 'SANTA MARIA DA BOA VISTA', 'PE', '56380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1606, 'SANTA MARIA DO CAMBUCA', 'PE', '55765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1607, 'SANTA TEREZINHA', 'PE', '56750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1608, 'SAO BENEDITO DO SUL', 'PE', '55410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1609, 'SAO BENTO DO UNA', 'PE', '55370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1610, 'SAO CAITANO', 'PE', '55130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1611, 'SAO JOAO', 'PE', '55435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1612, 'SAO JOAQUIM DO MONTE', 'PE', '55670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1613, 'SAO JOSE DA COROA GRANDE', 'PE', '55565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1614, 'SAO JOSE DO BELMONTE', 'PE', '56950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1616, 'SAO LOURENCO DA MATA', 'PE', '54700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1617, 'SAO VICENTE FERRER', 'PE', '55860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1618, 'SERRA TALHADA', 'PE', '56900000');
+COMMIT;
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1619, 'SERRITA', 'PE', '56140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1620, 'SERTANIA', 'PE', '56600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1621, 'SIRINHAEM', 'PE', '55580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1622, 'MOREILANDIA', 'PE', '56150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1623, 'SOLIDAO', 'PE', '56795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1624, 'SURUBIM', 'PE', '55750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1625, 'TABIRA', 'PE', '56780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1626, 'TACAIMBO', 'PE', '55140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1627, 'TACARATU', 'PE', '56480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1628, 'TAMANDARE', 'PE', '55578000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1629, 'TAQUARITINGA DO NORTE', 'PE', '55790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1631, 'TERRA NOVA', 'PE', '56190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1632, 'TIMBAUBA', 'PE', '55870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1653, 'BELEM', 'AL', '57630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1654, 'BELO MONTE', 'AL', '57435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1655, 'BOCA DA MATA', 'AL', '57680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1656, 'BRANQUINHA', 'AL', '57830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1657, 'CACIMBINHAS', 'AL', '57570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1633, 'TORITAMA', 'PE', '55125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1634, 'TRACUNHAEM', 'PE', '55805000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1635, 'TRINDADE', 'PE', '56250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1636, 'TRIUNFO', 'PE', '56870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1637, 'TUPANATINGA', 'PE', '56540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1638, 'TUPARETAMA', 'PE', '56760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1640, 'VERDEJANTE', 'PE', '56120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1641, 'VERTENTE DO LERIO', 'PE', '55760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1642, 'VERTENTES', 'PE', '55770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1643, 'VICENCIA', 'PE', '55850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1644, 'VITORIA DE SANTO ANTAO', 'PE', '55600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1645, 'XEXEU', 'PE', '55555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1646, 'AGUA BRANCA', 'AL', '57490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1957, 'GAVIAO', 'BA', '44650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1958, 'GENTIO DO OURO', 'BA', '47450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1959, 'GLORIA', 'BA', '48610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1960, 'GONGOGI', 'BA', '45540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1961, 'GOVERNADOR MANGABEIRA', 'BA', '44350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1962, 'GUAJERU', 'BA', '46205000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1964, 'GUARATINGA', 'BA', '45840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1965, 'HELIOPOLIS', 'BA', '48445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1966, 'IACU', 'BA', '46860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1967, 'IBIASSUCE', 'BA', '46390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1968, 'IBICARAI', 'BA', '45745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1969, 'IBICOARA', 'BA', '46760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1970, 'IBICUI', 'BA', '45290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1971, 'IBIPEBA', 'BA', '44970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1972, 'IBIPITANGA', 'BA', '46540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1973, 'IBIQUERA', 'BA', '46840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1974, 'IBIRAPITANGA', 'BA', '45500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1976, 'IBIRATAIA', 'BA', '45580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1978, 'IBITITA', 'BA', '44960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1979, 'IBOTIRAMA', 'BA', '47520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1980, 'ICHU', 'BA', '48725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1981, 'IGAPORA', 'BA', '46490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1983, 'IGUAI', 'BA', '45280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1984, 'ILHEUS', 'BA', '45650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1985, 'INHAMBUPE', 'BA', '48490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1801, 'PORTO DA FOLHA', 'SE', '49800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1802, 'PROPRIA', 'SE', '49900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1804, 'RIACHUELO', 'SE', '49130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1805, 'RIBEIROPOLIS', 'SE', '49530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1806, 'ROSARIO DO CATETE', 'SE', '49760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1807, 'SALGADO', 'SE', '49390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1808, 'SANTA LUZIA DO ITANHY', 'SE', '49230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1809, 'SANTANA DE SAO FRANCISCO', 'SE', '49985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1810, 'SANTA ROSA DE LIMA', 'SE', '49640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1811, 'SANTO AMARO DAS BROTAS', 'SE', '49180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1812, 'SAO CRISTOVAO', 'SE', '49100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1813, 'SAO DOMINGOS', 'SE', '49525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1814, 'SAO FRANCISCO', 'SE', '49945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1986, 'IPECAETA', 'BA', '44680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1987, 'IPIAU', 'BA', '45570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1988, 'IPIRA', 'BA', '44600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1989, 'IPUPIARA', 'BA', '47590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1991, 'IRAMAIA', 'BA', '46770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1992, 'IRAQUARA', 'BA', '46980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1993, 'IRARA', 'BA', '44255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1994, 'IRECE', 'BA', '44900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1995, 'ITABELA', 'BA', '45848000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1849, 'ARATACA', 'BA', '45695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1850, 'ARATUIPE', 'BA', '44490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1851, 'AURELINO LEAL', 'BA', '45675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1852, 'BAIANOPOLIS', 'BA', '47830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1853, 'BAIXA GRANDE', 'BA', '44620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1854, 'BANZAE', 'BA', '48405000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1855, 'BARRA', 'BA', '47100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1857, 'BARRA DO CHOCA', 'BA', '45120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1815, 'SAO MIGUEL DO ALEIXO', 'SE', '49535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1816, 'SIMAO DIAS', 'SE', '49480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1817, 'SIRIRI', 'SE', '49630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1818, 'TELHA', 'SE', '49910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1819, 'TOBIAS BARRETO', 'SE', '49300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1820, 'TOMAR DO GERU', 'SE', '49280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1821, 'UMBAUBA', 'SE', '49260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1822, 'ABAIRA', 'BA', '46690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1823, 'ABARE', 'BA', '48680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1795, 'PEDRA MOLE', 'SE', '49512000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1796, 'PEDRINHAS', 'SE', '49350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1797, 'PINHAO', 'SE', '49517000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1798, 'PIRAMBU', 'SE', '49190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1800, 'POCO VERDE', 'SE', '49490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1576, 'PALMEIRINA', 'PE', '55310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1577, 'PANELAS', 'PE', '55470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1578, 'PARANATAMA', 'PE', '55355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1579, 'PARNAMIRIM', 'PE', '56163000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1580, 'PASSIRA', 'PE', '55650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1581, 'PAUDALHO', 'PE', '55825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1582, 'PAULISTA', 'PE', '53400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1583, 'PEDRA', 'PE', '55280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1584, 'PESQUEIRA', 'PE', '55200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1208, 'SAO PAULO DO POTENGI', 'RN', '59460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1209, 'SAO PEDRO', 'RN', '59480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1210, 'SAO RAFAEL', 'RN', '59518000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1211, 'SAO TOME', 'RN', '59400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1212, 'SAO VICENTE', 'RN', '59340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1213, 'SENADOR ELOI DE SOUZA', 'RN', '59250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1214, 'SENADOR GEORGINO AVELINO', 'RN', '59168000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1215, 'SERRA DE SAO BENTO', 'RN', '59214000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1216, 'SERRA DO MEL', 'RN', '59663000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1217, 'SERRA NEGRA DO NORTE', 'RN', '59318000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1218, 'SERRINHA', 'RN', '59258000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1219, 'SERRINHA DOS PINTOS', 'RN', '59808000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1220, 'SEVERIANO MELO', 'RN', '59856000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1221, 'SITIO NOVO', 'RN', '59440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1223, 'TAIPU', 'RN', '59565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1224, 'TANGARA', 'RN', '59240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1225, 'TENENTE ANANIAS', 'RN', '59955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1226, 'TENENTE LAURENTINO CRUZ', 'RN', '59338000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1227, 'TIBAU DO SUL', 'RN', '59178000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1228, 'TIMBAUBA DOS BATISTAS', 'RN', '59320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1229, 'TOUROS', 'RN', '59584000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1230, 'TRIUNFO POTIGUAR', 'RN', '59685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1231, 'UMARIZAL', 'RN', '59865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1232, 'UPANEMA', 'RN', '59670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1233, 'VARZEA', 'RN', '59185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1234, 'VENHA VER', 'RN', '59925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1235, 'VERA CRUZ', 'RN', '59184000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1236, 'VICOSA', 'RN', '59815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1238, 'AGUA BRANCA', 'PB', '58748000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1239, 'AGUIAR', 'PB', '58778000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1240, 'ALAGOA GRANDE', 'PB', '58388000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1241, 'ALAGOA NOVA', 'PB', '58125000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1242, 'ALAGOINHA', 'PB', '58390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1243, 'ALCANTIL', 'PB', '58460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1244, 'ALGODAO DE JANDAIRA', 'PB', '58399000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (776, 'JUREMA', 'PI', '64782000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (777, 'LAGOINHA DO PIAUI', 'PI', '64465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (778, 'LAGOA ALEGRE', 'PI', '64138000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (779, 'LAGOA DO BARRO DO PIAUI', 'PI', '64768000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (780, 'LAGOA DO SAO FRANCISCO', 'PI', '64258000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (781, 'LAGOA DO PIAUI', 'PI', '64388000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (783, 'LANDRI SALES', 'PI', '64850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (784, 'LUIS CORREIA', 'PI', '64220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (785, 'LUZILANDIA', 'PI', '64160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (786, 'MADEIRO', 'PI', '64168000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (787, 'MANOEL EMIDIO', 'PI', '64875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (788, 'MARCOLANDIA', 'PI', '64685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (789, 'MARCOS PARENTE', 'PI', '64845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (790, 'MASSAPE DO PIAUI', 'PI', '64573000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (791, 'MATIAS OLIMPIO', 'PI', '64150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (792, 'MIGUEL ALVES', 'PI', '64130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (793, 'MIGUEL LEAO', 'PI', '64445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (794, 'MILTON BRANDAO', 'PI', '64253000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (795, 'MONSENHOR GIL', 'PI', '64450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (797, 'MONTE ALEGRE DO PIAUI', 'PI', '64940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (798, 'MORRO CABECA NO TEMPO', 'PI', '64968000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (799, 'MORRO DO CHAPEU DO PIAUI', 'PI', '64178000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (800, 'MURICI DOS PORTELAS', 'PI', '64175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (801, 'NAZARE DO PIAUI', 'PI', '64825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (802, 'NOSSA SENHORA DE NAZARE', 'PI', '64288000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (804, 'NOVO ORIENTE DO PIAUI', 'PI', '64530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (805, 'NOVO SANTO ANTONIO', 'PI', '64365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (807, 'OLHO D''AGUA DO PIAUI', 'PI', '64468000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (808, 'PADRE MARCOS', 'PI', '64680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (809, 'PAES LANDIM', 'PI', '64710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (810, 'PAJEU DO PIAUI', 'PI', '64898000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (811, 'PALMEIRA DO PIAUI', 'PI', '64925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (812, 'PALMEIRAIS', 'PI', '64420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (813, 'PAQUETA', 'PI', '64618000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (814, 'PARNAGUA', 'PI', '64970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (815, 'PARNAIBA', 'PI', '64200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (816, 'PASSAGEM FRANCA DO PIAUI', 'PI', '64395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (817, 'PATOS DO PIAUI', 'PI', '64580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (818, 'PAULISTANA', 'PI', '64750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (820, 'PEDRO II', 'PI', '64255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (821, 'PEDRO LAURENTINO', 'PI', '64728000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (822, 'PETRONIO PORTELA', 'PI', '64000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (823, 'PICOS', 'PI', '64600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (824, 'PIMENTEIRAS', 'PI', '64320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (825, 'PIO IX', 'PI', '64660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (826, 'PIRACURUCA', 'PI', '64240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (827, 'PIRIPIRI', 'PI', '64260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (828, 'PORTO', 'PI', '64145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (829, 'PORTO ALEGRE DO PIAUI', 'PI', '64858000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (830, 'PRATA DO PIAUI', 'PI', '64370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (832, 'REDENCAO DO GURGUEIA', 'PI', '64915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (833, 'REGENERACAO', 'PI', '64490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (834, 'RIACHO FRIO', 'PI', '64975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (835, 'RIBEIRA DO PIAUI', 'PI', '64725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (836, 'RIBEIRO GONCALVES', 'PI', '64865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (887, 'WALL FERRAZ', 'PI', '64548000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (888, 'ABAIARA', 'CE', '63240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (889, 'ACARAPE', 'CE', '62785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (890, 'ACARAU', 'CE', '62580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (891, 'ACOPIARA', 'CE', '63560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (892, 'AIUABA', 'CE', '63575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (893, 'ALCANTARAS', 'CE', '62120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (894, 'ALTANEIRA', 'CE', '63195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (896, 'AMONTADA', 'CE', '62540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (897, 'ANTONINA DO NORTE', 'CE', '63570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (898, 'APUIARES', 'CE', '62630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (899, 'AQUIRAZ', 'CE', '61700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (900, 'ARACATI', 'CE', '62800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (901, 'ARACOIABA', 'CE', '62750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (902, 'ARARENDA', 'CE', '62210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (903, 'ARARIPE', 'CE', '63170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (904, 'ARATUBA', 'CE', '62762000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (905, 'ARNEIROZ', 'CE', '63670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (906, 'ASSARE', 'CE', '63140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (907, 'AURORA', 'CE', '63360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (908, 'BAIXIO', 'CE', '63320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (910, 'BARBALHA', 'CE', '63180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (911, 'BARREIRA', 'CE', '62795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (912, 'BARRO', 'CE', '63380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (913, 'BARROQUINHA', 'CE', '62410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (914, 'BATURITE', 'CE', '62760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (915, 'BEBERIBE', 'CE', '62840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1094, 'CAICO', 'RN', '59300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1095, 'CAMPO REDONDO', 'RN', '59230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1096, 'CANGUARETAMA', 'RN', '59190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1097, 'CARAUBAS', 'RN', '59780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1098, 'CARNAUBA DOS DANTAS', 'RN', '59374000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1099, 'CARNAUBAIS', 'RN', '59665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1100, 'CEARA-MIRIM', 'RN', '59570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1102, 'CORONEL EZEQUIEL', 'RN', '59220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1103, 'CORONEL JOAO PESSOA', 'RN', '59930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1104, 'CRUZETA', 'RN', '59375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1105, 'CURRAIS NOVOS', 'RN', '59380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1106, 'DOUTOR SEVERIANO', 'RN', '59910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1107, 'PARNAMIRIM', 'RN', '59150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1108, 'ENCANTO', 'RN', '59905000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1109, 'EQUADOR', 'RN', '59355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1110, 'ESPIRITO SANTO', 'RN', '59180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1111, 'EXTREMOZ', 'RN', '59575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1112, 'FELIPE GUERRA', 'RN', '59795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1113, 'FERNANDO PEDROSA', 'RN', '59517000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1115, 'FRANCISCO DANTAS', 'RN', '59902000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1116, 'FRUTUOSO GOMES', 'RN', '59890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1117, 'GALINHOS', 'RN', '59596000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1118, 'GOIANINHA', 'RN', '59173000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1119, 'GOVERNADOR DIX-SEPT ROSADO', 'RN', '59790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1120, 'GROSSOS', 'RN', '59675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1121, 'GUAMARE', 'RN', '59598000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (752, 'FRANCISCO SANTOS', 'PI', '64645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (753, 'FRONTEIRAS', 'PI', '64690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (754, 'GEMINIANO', 'PI', '64613000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (755, 'GILBUES', 'PI', '64930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (756, 'GUADALUPE', 'PI', '64840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (757, 'GUARIBAS', 'PI', '64798000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (759, 'ILHA GRANDE', 'PI', '64224000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (760, 'INHUMA', 'PI', '64535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (761, 'IPIRANGA DO PIAUI', 'PI', '64540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (762, 'ISAIAS COELHO', 'PI', '64570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (763, 'ITAINOPOLIS', 'PI', '64565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (764, 'ITAUEIRA', 'PI', '64820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (765, 'JACOBINA DO PIAUI', 'PI', '64755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (766, 'JAICOS', 'PI', '64575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (767, 'JARDIM DO MULATO', 'PI', '64495000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (768, 'JATOBA DO PIAUI', 'PI', '64275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (769, 'JERUMENHA', 'PI', '64830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (770, 'JOAO COSTA', 'PI', '64765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (771, 'JOAQUIM PIRES', 'PI', '64170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (773, 'JOSE DE FREITAS', 'PI', '64110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (774, 'JUAZEIRO DO PIAUI', 'PI', '64343000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (775, 'JULIO BORGES', 'PI', '64963000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1472, 'ARACOIABA', 'PE', '53690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1473, 'ARARIPINA', 'PE', '56280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1474, 'ARCOVERDE', 'PE', '56500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1475, 'BARRA DE GUABIRABA', 'PE', '55690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1476, 'BARREIROS', 'PE', '55560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1477, 'BELEM DE MARIA', 'PE', '55440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1478, 'BELEM DO SAO FRANCISCO', 'PE', '56440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1479, 'BELO JARDIM', 'PE', '55150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1480, 'BETANIA', 'PE', '56670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1585, 'PETROLANDIA', 'PE', '56460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1586, 'PETROLINA', 'PE', '56300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1587, 'POCAO', 'PE', '55240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1588, 'POMBOS', 'PE', '55630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1590, 'QUIPAPA', 'PE', '55415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1591, 'QUIXABA', 'PE', '56828000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1592, 'RECIFE', 'PE', '50000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1593, 'RIACHO DAS ALMAS', 'PE', '55120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1421, 'SAO JOAO DO TIGRE', 'PB', '58520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1422, 'SAO JOSE DA LAGOA TAPADA', 'PB', '58815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1423, 'SAO JOSE DE CAIANA', 'PB', '58784000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1424, 'SAO JOSE DE ESPINHARAS', 'PB', '58723000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1425, 'SAO JOSE DOS RAMOS', 'PB', '58339000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1426, 'SAO JOSE DE PIRANHAS', 'PB', '58940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1427, 'SAO JOSE DE PRINCESA', 'PB', '58758000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1428, 'SAO JOSE DO BONFIM', 'PB', '58725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1430, 'SAO JOSE DO SABUGI', 'PB', '58610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1431, 'SAO JOSE DOS CORDEIROS', 'PB', '58570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1432, 'SAO MAMEDE', 'PB', '58625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1433, 'SAO MIGUEL DE TAIPU', 'PB', '58334000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1434, 'SAO SEBASTIAO DE LAGOA DE ROCA', 'PB', '58119000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1435, 'SAO SEBASTIAO DO UMBUZEIRO', 'PB', '58510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1436, 'SAPE', 'PB', '58340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4322, 'ARROIO TRINTA', 'SC', '89590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4039, 'GUARATUBA', 'PR', '83280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4202, 'RENASCENCA', 'PR', '85610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3896, 'VISTA ALEGRE DO ALTO', 'SP', '15920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3849, 'TAIACU', 'SP', '14725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3588, 'MAUA', 'SP', '09300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3704, 'POMPEIA', 'SP', '17580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3844, 'TABAPUA', 'SP', '15880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3718, 'PRATANIA', 'SP', '18660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2773, 'OURO BRANCO', 'MG', '36420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3158, 'SERRA', 'ES', '29160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3165, 'VILA VELHA', 'ES', '29100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2584, 'INCONFIDENTES', 'MG', '37576000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2592, 'IPANEMA', 'MG', '36950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2455, 'CORREGO FUNDO', 'MG', '35578000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2462, 'CRISTINA', 'MG', '37476000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3648, 'OURINHOS', 'SP', '19900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3336, 'BOITUVA', 'SP', '18550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3343, 'BOTUCATU', 'SP', '18600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4409, 'IBIRAMA', 'SC', '89140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4152, 'PALOTINA', 'PR', '85950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2893, 'RUBELITA', 'MG', '39565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3048, 'TOMBOS', 'MG', '36844000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1944, 'ENCRUZILHADA', 'BA', '45150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3003, 'SAPUCAI-MIRIM', 'MG', '37690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2387, 'CARMO DA CACHOEIRA', 'MG', '37225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2146, 'RIBEIRA DO POMBAL', 'BA', '48400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2345, 'CAETE', 'MG', '34800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2351, 'CAMBUI', 'MG', '37600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2358, 'CAMPO BELO', 'MG', '37270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1928, 'CORACAO DE MARIA', 'BA', '44250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1975, 'IBIRAPUA', 'BA', '45940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1982, 'IGRAPIUNA', 'BA', '45443000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1658, 'CAJUEIRO', 'AL', '57770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1666, 'COITE DO NOIA', 'AL', '57325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (803, 'NOSSA SENHORA DOS REMEDIOS', 'PI', '64140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1482, 'BODOCO', 'PE', '56220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1687, 'JUNDIA', 'AL', '57965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1179, 'PILOES', 'RN', '59960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1377, 'PEDRAS DE FOGO', 'PB', '58328000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1076, 'ALEXANDRIA', 'RN', '59965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1083, 'ARES', 'RN', '59170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1004, 'MORADA NOVA', 'CE', '62940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1012, 'OCARA', 'CE', '62755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1019, 'PALMACIA', 'CE', '62780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2509, 'ESPIRITO SANTO DO DOURADO', 'MG', '37566000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2216, 'UBAITABA', 'BA', '45545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2525, 'FERVEDOURO', 'MG', '36815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (586, 'PAULO RAMOS', 'MA', '65716000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (923, 'CARIDADE', 'CE', '62730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (937, 'CRATEUS', 'CE', '63700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (950, 'GRACA', 'CE', '62365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (963, 'ICO', 'CE', '63430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (975, 'ITAPIPOCA', 'CE', '62500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (845, 'SANTO ANTONIO DOS MILAGRES', 'PI', '64438000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5612, 'BUENOS AIRES', 'AR', NULL);
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (707, 'CALDEIRAO GRANDE DO PIAUI', 'PI', '64695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (726, 'COLONIA DO GURGUEIA', 'PI', '64885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (731, 'CRISTALANDIA DO PIAUI', 'PI', '64995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (494, 'CAJARI', 'MA', '65210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (507, 'CIDELANDIA', 'MA', '65921000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (520, 'FERNANDO FALCAO', 'MA', '65964000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (535, 'HUMBERTO DE CAMPOS', 'MA', '65180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (551, 'LAGOA DO MATO', 'MA', '65683000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1254, 'AREIAL', 'PB', '58140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1255, 'AROEIRAS', 'PB', '58400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1256, 'ASSUNCAO', 'PB', '58685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1257, 'BAIA DA TRAICAO', 'PB', '58295000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1258, 'BANANEIRAS', 'PB', '58220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1564, 'MACAPARANA', 'PE', '55865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1565, 'MACHADOS', 'PE', '55740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1566, 'MANARI', 'PE', '56565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1567, 'MARAIAL', 'PE', '55405000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1569, 'MORENO', 'PE', '54800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1570, 'NAZARE DA MATA', 'PE', '55800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1571, 'OLINDA', 'PE', '53000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1572, 'OROBO', 'PE', '55745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1573, 'OROCO', 'PE', '56170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1574, 'OURICURI', 'PE', '56200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1575, 'PALMARES', 'PE', '55540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1550, 'JATAUBA', 'PE', '55180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1551, 'JATOBA', 'PE', '56470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1552, 'JOAO ALFREDO', 'PE', '55720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1553, 'JOAQUIM NABUCO', 'PE', '55535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1554, 'JUCATI', 'PE', '55398000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1555, 'JUPI', 'PE', '55395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1557, 'LAGOA DO CARRO', 'PE', '55820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1558, 'LAGOA DO ITAENGA', 'PE', '55840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1559, 'LAGOA DO OURO', 'PE', '55320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1560, 'LAGOA DOS GATOS', 'PE', '55450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1561, 'LAGOA GRANDE', 'PE', '56395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1527, 'GARANHUNS', 'PE', '55290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1528, 'GLORIA DO GOITA', 'PE', '55620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1529, 'GOIANA', 'PE', '55900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1530, 'GRANITO', 'PE', '56160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1531, 'GRAVATA', 'PE', '55640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1532, 'IATI', 'PE', '55345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1288, 'CAMALAU', 'PB', '58530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1290, 'CAPIM', 'PB', '58287000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1291, 'CARAUBAS', 'PB', '58595000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1292, 'CARRAPATEIRA', 'PB', '58945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1293, 'CASSERENGUE', 'PB', '58238000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1294, 'CATINGUEIRA', 'PB', '58715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1295, 'CATOLE DO ROCHA', 'PB', '58884000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1296, 'CATURITE', 'PB', '58455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1297, 'CONCEICAO', 'PB', '58970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1298, 'CONDADO', 'PB', '58714000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1299, 'CONDE', 'PB', '58322000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1300, 'CONGO', 'PB', '58535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1301, 'COREMAS', 'PB', '58770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1302, 'COXIXOLA', 'PB', '58588000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1303, 'CRUZ DO ESPIRITO SANTO', 'PB', '58337000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1138, 'JUCURUTU', 'RN', '59330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1139, 'LAGOA D''ANTA', 'RN', '59227000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1140, 'LAGOA DE PEDRAS', 'RN', '59244000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1141, 'LAGOA DE VELHOS', 'RN', '59430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1142, 'LAGOA NOVA', 'RN', '59390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1143, 'LAGOA SALGADA', 'RN', '59247000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1144, 'LAJES', 'RN', '59535000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1145, 'LAJES PINTADAS', 'RN', '59235000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1146, 'LUCRECIA', 'RN', '59805000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1147, 'LUIS GOMES', 'RN', '59940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1148, 'MACAIBA', 'RN', '59280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1149, 'MACAU', 'RN', '59500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1150, 'MAJOR SALES', 'RN', '59945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1151, 'MARCELINO VIEIRA', 'RN', '59970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1153, 'MAXARANGUAPE', 'RN', '59580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1154, 'MESSIAS TARGINO', 'RN', '59775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1155, 'MONTANHAS', 'RN', '59198000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1156, 'MONTE ALEGRE', 'RN', '59182000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1157, 'MONTE DAS GAMELEIRAS', 'RN', '59217000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1158, 'MOSSORO', 'RN', '59600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1159, 'NATAL', 'RN', '59000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1160, 'NISIA FLORESTA', 'RN', '59164000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1161, 'NOVA CRUZ', 'RN', '59215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1162, 'OLHO-D''AGUA DO BORGES', 'RN', '59730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1163, 'OURO BRANCO', 'RN', '59347000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1164, 'PARANA', 'RN', '59950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1166, 'PARAZINHO', 'RN', '59586000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1167, 'PARELHAS', 'RN', '59360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1168, 'RIO DO FOGO', 'RN', '59578000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1169, 'PASSA E FICA', 'RN', '59218000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1170, 'PASSAGEM', 'RN', '59259000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1171, 'PATU', 'RN', '59770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1172, 'SANTA MARIA', 'RN', '59464000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1173, 'PAU DOS FERROS', 'RN', '59900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1174, 'PEDRA GRANDE', 'RN', '59588000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1175, 'PEDRA PRETA', 'RN', '59547000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1176, 'PEDRO AVELINO', 'RN', '59530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1177, 'PEDRO VELHO', 'RN', '59196000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1180, 'POCO BRANCO', 'RN', '59560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1181, 'PORTALEGRE', 'RN', '59810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1373, 'PATOS', 'PB', '58700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1374, 'PAULISTA', 'PB', '58860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1375, 'PEDRA BRANCA', 'PB', '58790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1376, 'PEDRA LAVRADA', 'PB', '58180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1378, 'PIANCO', 'PB', '58765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1379, 'PICUI', 'PB', '58187000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1182, 'PORTO DO MANGUE', 'RN', '59668000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1183, 'PRESIDENTE JUSCELINO', 'RN', '59000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1184, 'PUREZA', 'RN', '59582000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1185, 'RAFAEL FERNANDES', 'RN', '59990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1186, 'RAFAEL GODEIRO', 'RN', '59740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1187, 'RIACHO DA CRUZ', 'RN', '59820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1188, 'RIACHO DE SANTANA', 'RN', '59987000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1189, 'RIACHUELO', 'RN', '59470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1190, 'RODOLFO FERNANDES', 'RN', '59830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1191, 'TIBAU', 'RN', '59678000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1192, 'RUY BARBOSA', 'RN', '59420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1193, 'SANTA CRUZ', 'RN', '59200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1194, 'SANTANA DO MATOS', 'RN', '59520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1196, 'SANTO ANTONIO', 'RN', '59255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1197, 'SAO BENTO DO NORTE', 'RN', '59590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1198, 'SAO BENTO DO TRAIRI', 'RN', '59210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1199, 'SAO FERNANDO', 'RN', '59327000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1200, 'SAO FRANCISCO DO OESTE', 'RN', '59908000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1201, 'SAO GONCALO DO AMARANTE', 'RN', '59290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1202, 'SAO JOAO DO SABUGI', 'RN', '59310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1362, 'MULUNGU', 'PB', '58354000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1363, 'NATUBA', 'PB', '58410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1364, 'NAZAREZINHO', 'PB', '58817000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1365, 'NOVA FLORESTA', 'PB', '58178000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1366, 'NOVA OLINDA', 'PB', '58798000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1367, 'NOVA PALMEIRA', 'PB', '58184000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1487, 'BREJINHO', 'PE', '56740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2346, 'CAIANA', 'MG', '36832000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2347, 'CAJURI', 'MG', '36560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2348, 'CALDAS', 'MG', '37780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2350, 'CAMANDUCAIA', 'MG', '37650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2352, 'CAMBUQUIRA', 'MG', '37420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2353, 'CAMPANARIO', 'MG', '39835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2354, 'CAMPANHA', 'MG', '37400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2355, 'CAMPESTRE', 'MG', '37730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2356, 'CAMPINA VERDE', 'MG', '38270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2357, 'CAMPO AZUL', 'MG', '39338000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2360, 'CAMPO FLORIDO', 'MG', '38130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2361, 'CAMPOS ALTOS', 'MG', '38970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2362, 'CAMPOS GERAIS', 'MG', '37160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2363, 'CANAA', 'MG', '36592000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2110, 'PARATINGA', 'BA', '47500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2111, 'PARIPIRANGA', 'BA', '48430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2112, 'PAU BRASIL', 'BA', '45890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2113, 'PAULO AFONSO', 'BA', '48600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2114, 'PE DE SERRA', 'BA', '44655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2115, 'PEDRAO', 'BA', '48140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2116, 'PEDRO ALEXANDRE', 'BA', '48580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2117, 'PIATA', 'BA', '46765000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2118, 'PILAO ARCADO', 'BA', '47240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2119, 'PINDAI', 'BA', '46360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2121, 'PINTADAS', 'BA', '44610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2122, 'PIRAI DO NORTE', 'BA', '45436000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2123, 'PIRIPA', 'BA', '46270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2124, 'PIRITIBA', 'BA', '44830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2125, 'PLANALTINO', 'BA', '45375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2126, 'PLANALTO', 'BA', '45190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2127, 'POCOES', 'BA', '45260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2128, 'POJUCA', 'BA', '48120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2129, 'PONTO NOVO', 'BA', '44755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2130, 'PORTO SEGURO', 'BA', '45810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2131, 'POTIRAGUA', 'BA', '45790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2132, 'PRADO', 'BA', '45980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2133, 'PRESIDENTE DUTRA', 'BA', '44930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1873, 'BOTUPORA', 'BA', '46570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1874, 'BREJOES', 'BA', '45325000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1875, 'BREJOLANDIA', 'BA', '47750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1876, 'BROTAS DE MACAUBAS', 'BA', '47560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1877, 'BRUMADO', 'BA', '46100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1878, 'BUERAREMA', 'BA', '45615000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1879, 'BURITIRAMA', 'BA', '47120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1880, 'CAATIBA', 'BA', '45130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1881, 'CABACEIRAS DO PARAGUACU', 'BA', '44345000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1882, 'CACHOEIRA', 'BA', '44300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1883, 'CACULE', 'BA', '46300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1884, 'CAEM', 'BA', '44730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1886, 'CAETITE', 'BA', '46400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1887, 'CAFARNAUM', 'BA', '44880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1888, 'CAIRU', 'BA', '45420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1889, 'CALDEIRAO GRANDE', 'BA', '44750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1890, 'CAMACAN', 'BA', '45880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1891, 'CAMACARI', 'BA', '42800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1892, 'CAMAMU', 'BA', '45445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (994, 'MARTINOPOLE', 'CE', '62450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (995, 'MASSAPE', 'CE', '62140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (996, 'MAURITI', 'CE', '63210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (998, 'MILAGRES', 'CE', '63250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (999, 'MILHA', 'CE', '63635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1000, 'MIRAIMA', 'CE', '62530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1001, 'MISSAO VELHA', 'CE', '63200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1002, 'MOMBACA', 'CE', '63610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1003, 'MONSENHOR TABOSA', 'CE', '63780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1005, 'MORAUJO', 'CE', '62480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1006, 'MORRINHOS', 'CE', '62550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1007, 'MUCAMBO', 'CE', '62170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1008, 'MULUNGU', 'CE', '62764000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1009, 'NOVA OLINDA', 'CE', '63165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1010, 'NOVA RUSSAS', 'CE', '62200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1013, 'OROS', 'CE', '63520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1014, 'PACAJUS', 'CE', '62870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1015, 'PACATUBA', 'CE', '61800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1016, 'PACOTI', 'CE', '62770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1017, 'PACUJA', 'CE', '62180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1018, 'PALHANO', 'CE', '62910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1953, 'FIRMINO ALVES', 'BA', '45720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1954, 'FLORESTA AZUL', 'BA', '45740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1955, 'FORMOSA DO RIO PRETO', 'BA', '47990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1956, 'GANDU', 'BA', '45450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1752, 'BARRA DOS COQUEIROS', 'SE', '49140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1753, 'BOQUIM', 'SE', '49360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2830, 'PIRAJUBA', 'MG', '38210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2831, 'PIRANGA', 'MG', '36480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2832, 'PIRANGUCU', 'MG', '37511000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2833, 'PIRANGUINHO', 'MG', '37508000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2834, 'PIRAPETINGA', 'MG', '36730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2835, 'PIRAPORA', 'MG', '39270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2837, 'PITANGUI', 'MG', '35650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2838, 'PIUI', 'MG', '37925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2839, 'PLANURA', 'MG', '38220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2840, 'POCO FUNDO', 'MG', '37757000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2841, 'POCOS DE CALDAS', 'MG', '37700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2842, 'POCRANE', 'MG', '36960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2657, 'JURAMENTO', 'MG', '39590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2658, 'JURUAIA', 'MG', '37805000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2659, 'JUVENILIA', 'MG', '39467000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2635, 'JANUARIA', 'MG', '39480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2636, 'JAPARAIBA', 'MG', '35580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2637, 'JAPONVAR', 'MG', '39335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2639, 'JENIPAPO DE MINAS', 'MG', '39645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2640, 'JEQUERI', 'MG', '35390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2559, 'GUARANI', 'MG', '36160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2560, 'GUARARA', 'MG', '36606000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2561, 'GUARDA-MOR', 'MG', '38570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2562, 'GUAXUPE', 'MG', '37800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2423, 'COMERCINHO', 'MG', '39628000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2424, 'CONCEICAO DA APARECIDA', 'MG', '37148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2425, 'CONCEICAO DAS PEDRAS', 'MG', '37527000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2426, 'CONCEICAO DAS ALAGOAS', 'MG', '38120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2427, 'CONCEICAO DE IPANEMA', 'MG', '36947000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2428, 'CONCEICAO DO MATO DENTRO', 'MG', '35860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2430, 'CONCEICAO DO RIO VERDE', 'MG', '37430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2431, 'CONCEICAO DOS OUROS', 'MG', '37548000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2432, 'CONEGO MARINHO', 'MG', '39489000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2433, 'CONFINS', 'MG', '33500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2434, 'CONGONHAL', 'MG', '37557000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2435, 'CONGONHAS', 'MG', '36415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2436, 'CONGONHAS DO NORTE', 'MG', '35850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2437, 'CONQUISTA', 'MG', '38195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2438, 'CONSELHEIRO LAFAIETE', 'MG', '36400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2439, 'CONSELHEIRO PENA', 'MG', '35240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2440, 'CONSOLACAO', 'MG', '37670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2441, 'CONTAGEM', 'MG', '32000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2417, 'CLARAVAL', 'MG', '37997000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2418, 'CLARO DOS POCOES', 'MG', '39380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2419, 'CLAUDIO', 'MG', '35530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2421, 'COLUNA', 'MG', '39770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2422, 'COMENDADOR GOMES', 'MG', '38250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2283, 'AREADO', 'MG', '37140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2284, 'ARGIRITA', 'MG', '36710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2285, 'ARICANDUVA', 'MG', '39678000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2286, 'ARINOS', 'MG', '38680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2287, 'ASTOLFO DUTRA', 'MG', '36780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2288, 'ATALEIA', 'MG', '39850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2289, 'AUGUSTO DE LIMA', 'MG', '39220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2290, 'BAEPENDI', 'MG', '37443000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2291, 'BALDIM', 'MG', '35706000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2292, 'BAMBUI', 'MG', '38900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2294, 'BANDEIRA DO SUL', 'MG', '37740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2295, 'BARAO DE COCAIS', 'MG', '35970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2296, 'BARAO DE MONTE ALTO', 'MG', '36870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2297, 'BARBACENA', 'MG', '36200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2298, 'BARRA LONGA', 'MG', '35447000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2299, 'BARROSO', 'MG', '36212000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2300, 'BELA VISTA DE MINAS', 'MG', '35938000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2301, 'BELMIRO BRAGA', 'MG', '36126000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2302, 'BELO HORIZONTE', 'MG', '30000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2303, 'BELO ORIENTE', 'MG', '35195000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2304, 'BELO VALE', 'MG', '35473000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2305, 'BERILO', 'MG', '39640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2306, 'BERTOPOLIS', 'MG', '39875000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2308, 'BETIM', 'MG', '32500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2309, 'BIAS FORTES', 'MG', '36230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2310, 'BICAS', 'MG', '36600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2311, 'BIQUINHAS', 'MG', '35621000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2312, 'BOA ESPERANCA', 'MG', '37170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2313, 'BOCAINA DE MINAS', 'MG', '37340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2314, 'BOCAIUVA', 'MG', '39390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2315, 'BOM DESPACHO', 'MG', '35600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2316, 'BOM JARDIM DE MINAS', 'MG', '37310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2317, 'BOM JESUS DA PENHA', 'MG', '37948000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2318, 'BOM JESUS DO AMPARO', 'MG', '35908000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2320, 'BOM REPOUSO', 'MG', '37610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2321, 'BOM SUCESSO', 'MG', '37220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2322, 'BONFIM', 'MG', '35521000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2323, 'BONFINOPOLIS DE MINAS', 'MG', '38650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2324, 'BONITO DE MINAS', 'MG', '39490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2325, 'BORDA DA MATA', 'MG', '37564000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2326, 'BOTELHOS', 'MG', '37720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2327, 'BOTUMIRIM', 'MG', '39596000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2495, 'DORES DO INDAIA', 'MG', '35610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2496, 'DORES DO TURVO', 'MG', '36513000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2497, 'DORESOPOLIS', 'MG', '37926000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2498, 'DOURADOQUARA', 'MG', '38530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2499, 'DURANDE', 'MG', '36974000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2500, 'ELOI MENDES', 'MG', '37110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2501, 'ENGENHEIRO CALDAS', 'MG', '35130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2503, 'ENTRE FOLHAS', 'MG', '35324000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2504, 'ENTRE RIOS DE MINAS', 'MG', '35490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2505, 'ERVALIA', 'MG', '36555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2506, 'ESMERALDAS', 'MG', '35740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2507, 'ESPERA FELIZ', 'MG', '36830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2508, 'ESPINOSA', 'MG', '39510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2510, 'ESTIVA', 'MG', '37542000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2511, 'ESTRELA DALVA', 'MG', '36725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2512, 'ESTRELA DO INDAIA', 'MG', '35613000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2513, 'ESTRELA DO SUL', 'MG', '38525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2514, 'EUGENOPOLIS', 'MG', '36855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2515, 'EWBANK DA CAMARA', 'MG', '36108000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2516, 'EXTREMA', 'MG', '37640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2517, 'FAMA', 'MG', '37138000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2518, 'FARIA LEMOS', 'MG', '36840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2519, 'FELICIO DOS SANTOS', 'MG', '39180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2520, 'SAO GONCALO DO RIO PRETO', 'MG', '39185000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2521, 'FELISBURGO', 'MG', '39895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2328, 'BRASILANDIA DE MINAS', 'MG', '38779000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2329, 'BRASILIA DE MINAS', 'MG', '39330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2331, 'BRAUNAS', 'MG', '35169000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2522, 'FELIXLANDIA', 'MG', '35794000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2490, 'DOM SILVERIO', 'MG', '35440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2491, 'DOM VICOSO', 'MG', '37474000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2492, 'DONA EUZEBIA', 'MG', '36784000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2493, 'DORES DE CAMPOS', 'MG', '36213000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2494, 'DORES DE GUANHAES', 'MG', '35894000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2614, 'ITAPAGIPE', 'MG', '38240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2615, 'ITAPECERICA', 'MG', '35550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2616, 'ITAPEVA', 'MG', '37655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2617, 'ITATIAIUCU', 'MG', '35685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2618, 'ITAU DE MINAS', 'MG', '37975000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2619, 'ITAUNA', 'MG', '35680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2621, 'ITINGA', 'MG', '39610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2622, 'ITUETA', 'MG', '35220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2623, 'ITUIUTABA', 'MG', '38300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2624, 'ITUMIRIM', 'MG', '37210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2625, 'ITURAMA', 'MG', '38280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2626, 'ITUTINGA', 'MG', '36390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2627, 'JABOTICATUBAS', 'MG', '35830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2628, 'JACINTO', 'MG', '39930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2629, 'JACUI', 'MG', '37965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2630, 'JACUTINGA', 'MG', '37590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2631, 'JAGUARACU', 'MG', '35188000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2632, 'JAIBA', 'MG', '39508000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2634, 'JANAUBA', 'MG', '39440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2390, 'CARMO DO CAJURU', 'MG', '35510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2391, 'CARMO DO PARANAIBA', 'MG', '38840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2392, 'CARMO DO RIO CLARO', 'MG', '37150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2393, 'CARMOPOLIS DE MINAS', 'MG', '35534000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2394, 'CARNEIRINHO', 'MG', '38290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2395, 'CARRANCAS', 'MG', '37245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (433, 'SAO MIGUEL DO TOCANTINS', 'TO', '77925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (560, 'MARAJA DO SENA', 'MA', '65714000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (344, 'CASEARA', 'TO', '77680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (357, 'DOIS IRMAOS DO TOCANTINS', 'TO', '77685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (373, 'ITAPORA DO TOCANTINS', 'TO', '77740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (389, 'MOSQUITO', 'TO', '77913000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (402, 'PARANA', 'TO', '77360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (414, 'PORTO NACIONAL', 'TO', '77500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (288, 'TUCURUI', 'PA', '68455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (302, 'LARANJAL DO JARI', 'AP', '68920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (314, 'ALMAS', 'TO', '77310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (468, 'AXIXA', 'MA', '65108000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (234, 'ORIXIMINA', 'PA', '68270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (248, 'PRAINHA', 'PA', '68130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (261, 'SANTA MARIA DAS BARREIRAS', 'PA', '68565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (278, 'SAPUCAIA', 'PA', '68548000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (149, 'SAO JOAO DA BALIZA', 'RR', '69375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (165, 'AVEIRO', 'PA', '68150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (178, 'BREU BRANCO', 'PA', '68488000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (317, 'ANGICO', 'TO', '77905000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (330, 'BABACULANDIA', 'TO', '77870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (219, 'MARAPANIM', 'PA', '68760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (624, 'SAO DOMINGOS DO MARANHAO', 'MA', '65790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (640, 'SAO RAIMUNDO DAS MANGABEIRAS', 'MA', '65840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (658, 'TURILANDIA', 'MA', '65276000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (671, 'ALEGRETE DO PIAUI', 'PI', '64675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (686, 'BARREIRAS DO PIAUI', 'PI', '64990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (697, 'BOM PRINCIPIO DO PIAUI', 'PI', '64225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (584, 'PASTOS BONS', 'MA', '65870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4728, 'ENTRE RIOS DO SUL', 'RS', '99645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4744, 'FAGUNDES VARELA', 'RS', '95333000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4759, 'GENERAL CAMARA', 'RS', '95820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4909, 'QUEVEDOS', 'RS', '98140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5067, 'ANGELICA', 'MS', '79785000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4940, 'SANTA VITORIA DO PALMAR', 'RS', '96230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4930, 'SANANDUVA', 'RS', '99840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4710, 'DAVID CANABARRO', 'RS', '99980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4702, 'CORONEL BICACO', 'RS', '98580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4576, 'TROMBUDO CENTRAL', 'SC', '89176000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4591, 'XANXERE', 'SC', '89820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4604, 'ALVORADA', 'RS', '94800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4775, 'HULHA NEGRA', 'RS', '96460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4789, 'IPE', 'RS', '95240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1489, 'BUENOS AIRES', 'PE', '55845000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1490, 'BUIQUE', 'PE', '56520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1491, 'CABO DE SANTO AGOSTINHO', 'PE', '54500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1492, 'CABROBO', 'PE', '56180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1493, 'CACHOEIRINHA', 'PE', '55380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1494, 'CAETES', 'PE', '55360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1495, 'CALCADO', 'PE', '55375000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1496, 'CALUMBI', 'PE', '56930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1497, 'CAMARAGIBE', 'PE', '54750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1498, 'CAMOCIM DE SAO FELIX', 'PE', '55665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1499, 'CAMUTANGA', 'PE', '55930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1500, 'CANHOTINHO', 'PE', '55420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1501, 'CAPOEIRAS', 'PE', '55365000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1502, 'CARNAIBA', 'PE', '56820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1503, 'CARNAUBEIRAS DA PENHA', 'PE', '56420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1504, 'CARPINA', 'PE', '55810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1506, 'CASINHAS', 'PE', '55755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1507, 'CATENDE', 'PE', '55400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1508, 'CEDRO', 'PE', '56130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1509, 'CHA DE ALEGRIA', 'PE', '55835000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1510, 'CHA GRANDE', 'PE', '55636000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1511, 'CONDADO', 'PE', '55940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1512, 'CORRENTES', 'PE', '55315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1513, 'CORTES', 'PE', '55525000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1514, 'CUMARU', 'PE', '55655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1515, 'CUPIRA', 'PE', '55460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1516, 'CUSTODIA', 'PE', '56640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1517, 'DORMENTES', 'PE', '56355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1519, 'EXU', 'PE', '56230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1520, 'FEIRA NOVA', 'PE', '55715000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1521, 'FERNANDO DE NORONHA', 'PE', '53990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1522, 'FERREIROS', 'PE', '55880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1523, 'FLORES', 'PE', '56850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1524, 'FLORESTA', 'PE', '56400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1525, 'FREI MIGUELINHO', 'PE', '55780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1526, 'GAMELEIRA', 'PE', '55530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1135, 'JOAO CAMARA', 'RN', '59550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1136, 'JOAO DIAS', 'RN', '59880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1026, 'PENTECOSTE', 'CE', '62640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1027, 'PEREIRO', 'CE', '63460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1029, 'PIQUET CARNEIRO', 'CE', '63605000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1030, 'PIRES FERREIRA', 'CE', '62255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1031, 'PORANGA', 'CE', '62220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1032, 'PORTEIRAS', 'CE', '63270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1033, 'POTENGI', 'CE', '63160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1893, 'CAMPO ALEGRE DE LOURDES', 'BA', '47220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1894, 'CAMPO FORMOSO', 'BA', '44790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1895, 'CANAPOLIS', 'BA', '47730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1896, 'CANARANA', 'BA', '44890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1897, 'CANAVIEIRAS', 'BA', '45860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1899, 'CANDEIAS', 'BA', '43800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1900, 'CANDIBA', 'BA', '46380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1901, 'CANDIDO SALES', 'BA', '45157000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1902, 'CANSANCAO', 'BA', '48840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1903, 'CANUDOS', 'BA', '48520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1933, 'COTEGIPE', 'BA', '47900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1934, 'CRAVOLANDIA', 'BA', '45330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1935, 'CRISOPOLIS', 'BA', '48480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1936, 'CRISTOPOLIS', 'BA', '47950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1937, 'CRUZ DAS ALMAS', 'BA', '44380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1904, 'CAPELA DO ALTO ALEGRE', 'BA', '44645000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1905, 'CAPIM GROSSO', 'BA', '44695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1907, 'CARAVELAS', 'BA', '45900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1908, 'CARDEAL DA SILVA', 'BA', '48390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1909, 'CARINHANHA', 'BA', '46445000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1910, 'CASA NOVA', 'BA', '47300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1911, 'CASTRO ALVES', 'BA', '44500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1912, 'CATOLANDIA', 'BA', '47815000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1913, 'CATU', 'BA', '48110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1914, 'CATURAMA', 'BA', '46575000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1915, 'CENTRAL', 'BA', '44940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1916, 'CHORROCHO', 'BA', '48660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1917, 'CICERO DANTAS', 'BA', '48410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1918, 'CIPO', 'BA', '48450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1920, 'COCOS', 'BA', '47680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1921, 'CONCEICAO DA FEIRA', 'BA', '44320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1922, 'CONCEICAO DO ALMEIDA', 'BA', '44540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1923, 'CONCEICAO DO COITE', 'BA', '48730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1924, 'CONCEICAO DO JACUIPE', 'BA', '44245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1925, 'CONDE', 'BA', '48300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1926, 'CONDEUBA', 'BA', '46200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1927, 'CONTENDAS DO SINCORA', 'BA', '46620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2247, 'AIMORES', 'MG', '35200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2248, 'AIURUOCA', 'MG', '37450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2249, 'ALAGOA', 'MG', '37458000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2250, 'ALBERTINA', 'MG', '37596000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2252, 'ALFENAS', 'MG', '37130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2253, 'ALFREDO VASCONCELOS', 'MG', '36272000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2254, 'ALMENARA', 'MG', '39900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2255, 'ALPERCATA', 'MG', '35138000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2256, 'ALPINOPOLIS', 'MG', '37940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2257, 'ALTEROSA', 'MG', '37145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2258, 'ALTO CAPARAO', 'MG', '36836000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2259, 'ALTO RIO DOCE', 'MG', '36260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2260, 'ALVARENGA', 'MG', '35249000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2261, 'ALVINOPOLIS', 'MG', '35950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2262, 'ALVORADA DE MINAS', 'MG', '39140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2263, 'AMPARO DO SERRA', 'MG', '35444000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2264, 'ANDRADAS', 'MG', '37795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2265, 'CACHOEIRA DE PAJEU', 'MG', '39980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2267, 'ANGELANDIA', 'MG', '39685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2268, 'ANTONIO CARLOS', 'MG', '36220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1754, 'BREJO GRANDE', 'SE', '49995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1755, 'CAMPO DO BRITO', 'SE', '49520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1756, 'CANHOBA', 'SE', '49880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1757, 'CANINDE DE SAO FRANCISCO', 'SE', '49820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1758, 'CAPELA', 'SE', '49700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1759, 'CARIRA', 'SE', '49550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1760, 'CARMOPOLIS', 'SE', '49740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1761, 'CEDRO DE SAO JOAO', 'SE', '49930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1762, 'CRISTINAPOLIS', 'SE', '49270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1929, 'CORDEIROS', 'BA', '46280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1930, 'CORIBE', 'BA', '47690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1932, 'CORRENTINA', 'BA', '47650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2054, 'LIVRAMENTO DO BRUMADO', 'BA', '46140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2055, 'MACAJUBA', 'BA', '46805000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2056, 'MACARANI', 'BA', '45760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2057, 'MACAUBAS', 'BA', '46500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2058, 'MACURURE', 'BA', '48650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2059, 'MADRE DE DEUS', 'BA', '42600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2060, 'MAETINGA', 'BA', '46255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2061, 'MAIQUINIQUE', 'BA', '45770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2062, 'MAIRI', 'BA', '44630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2063, 'MALHADA', 'BA', '46440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2065, 'MANOEL VITORINO', 'BA', '45240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2066, 'MANSIDAO', 'BA', '47160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2067, 'MARACAS', 'BA', '45360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2068, 'MARAGOGIPE', 'BA', '44420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2069, 'MARAU', 'BA', '45520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2070, 'MARCIONILIO SOUZA', 'BA', '46780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2071, 'MASCOTE', 'BA', '45870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2072, 'MATA DE SAO JOAO', 'BA', '48280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2073, 'MATINA', 'BA', '46480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2074, 'MEDEIROS NETO', 'BA', '45960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2075, 'MIGUEL CALMON', 'BA', '44720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2076, 'MILAGRES', 'BA', '45315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2077, 'MIRANGABA', 'BA', '44745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2078, 'MIRANTE', 'BA', '45255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2079, 'MONTE SANTO', 'BA', '48800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2081, 'MORRO DO CHAPEU', 'BA', '44850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2082, 'MORTUGABA', 'BA', '46290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1824, 'ACAJUTIBA', 'BA', '48360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1825, 'ADUSTINA', 'BA', '48435000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1826, 'AGUA FRIA', 'BA', '48170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1827, 'ERICO CARDOSO', 'BA', '46180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1828, 'AIQUARA', 'BA', '45220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1829, 'ALAGOINHAS', 'BA', '48000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1830, 'ALCOBACA', 'BA', '45990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1831, 'ALMADINA', 'BA', '45640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1832, 'AMARGOSA', 'BA', '45300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1833, 'AMELIA RODRIGUES', 'BA', '44230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1835, 'ANAGE', 'BA', '45180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1836, 'ANDARAI', 'BA', '46830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1844, 'APUAREMA', 'BA', '45355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1845, 'ARACATU', 'BA', '46130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1846, 'ARACAS', 'BA', '48108000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1847, 'ARACI', 'BA', '48760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1848, 'ARAMARI', 'BA', '48130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1594, 'RIBEIRAO', 'PE', '55520000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1595, 'RIO FORMOSO', 'PE', '55570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1596, 'SAIRE', 'PE', '55695000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1597, 'SALGADINHO', 'PE', '55675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1598, 'SALGUEIRO', 'PE', '56000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1599, 'SALOA', 'PE', '55350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1600, 'SANHARO', 'PE', '55250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1602, 'SANTA CRUZ DA BAIXA VERDE', 'PE', '56895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1603, 'SANTA CRUZ DO CAPIBARIBE', 'PE', '55190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1604, 'SANTA FILOMENA', 'PE', '56210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1259, 'BARAUNAS', 'PB', '58188000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1260, 'BARRA DE SANTANA', 'PB', '58458000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1261, 'BARRA DE SANTA ROSA', 'PB', '58170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1262, 'BARRA DE SAO MIGUEL', 'PB', '58470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1263, 'BAYEUX', 'PB', '58305000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1264, 'BELEM', 'PB', '58255000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1266, 'BERNARDINO BATISTA', 'PB', '58922000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1267, 'BOA VENTURA', 'PB', '58993000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1268, 'BOA VISTA', 'PB', '58123000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1127, 'JACANA', 'RN', '59225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1128, 'JANDAIRA', 'RN', '59594000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1273, 'IGARACY', 'PB', '58775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1274, 'BORBOREMA', 'PB', '58394000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1275, 'BREJO DO CRUZ', 'PB', '58890000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1276, 'BREJO DOS SANTOS', 'PB', '58880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1277, 'CAAPORA', 'PB', '58326000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1278, 'CABACEIRAS', 'PB', '58480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1279, 'CABEDELO', 'PB', '58310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1280, 'CACHOEIRA DOS INDIOS', 'PB', '58935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1281, 'CACIMBA DE AREIA', 'PB', '58730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1282, 'CACIMBA DE DENTRO', 'PB', '58230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1284, 'CAICARA', 'PB', '58253000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1285, 'CAJAZEIRAS', 'PB', '58900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1286, 'CAJAZEIRINHAS', 'PB', '58855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1287, 'CALDAS BRANDAO', 'PB', '58350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1129, 'JANDUIS', 'RN', '59690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1130, 'JANUARIO CICCO', 'RN', '59000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1131, 'JAPI', 'RN', '59213000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1132, 'JARDIM DE ANGICOS', 'RN', '59544000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1133, 'JARDIM DE PIRANHAS', 'RN', '59324000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1134, 'JARDIM DO SERIDO', 'RN', '59343000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1245, 'ALHANDRA', 'PB', '58320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1246, 'SAO JOAO DO RIO DO PEIXE', 'PB', '58910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1248, 'APARECIDA', 'PB', '58823000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1249, 'ARACAGI', 'PB', '58270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1250, 'ARARA', 'PB', '58396000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1122, 'IELMO MARINHO', 'RN', '59490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1123, 'IPANGUACU', 'RN', '59508000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1124, 'IPUEIRA', 'RN', '59315000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1125, 'ITAJA', 'RN', '59513000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1126, 'ITAU', 'RN', '59855000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (981, 'JAGUARIBE', 'CE', '63475000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (982, 'JAGUARUANA', 'CE', '62823000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (983, 'JARDIM', 'CE', '63290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (985, 'JIJOCA DE JERICOACOARA', 'CE', '62598000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (986, 'JUAZEIRO DO NORTE', 'CE', '63000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (987, 'JUCAS', 'CE', '63580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (988, 'LAVRAS DA MANGABEIRA', 'CE', '63300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (989, 'LIMOEIRO DO NORTE', 'CE', '62930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (990, 'MADALENA', 'CE', '63860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (991, 'MARACANAU', 'CE', '61900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (992, 'MARANGUAPE', 'CE', '61940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (993, 'MARCO', 'CE', '62560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1034, 'POTIRETAMA', 'CE', '62990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1035, 'QUITERIANOPOLIS', 'CE', '63650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1036, 'QUIXADA', 'CE', '63900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1037, 'QUIXELO', 'CE', '63515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1038, 'QUIXERAMOBIM', 'CE', '63800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1039, 'QUIXERE', 'CE', '62920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1040, 'REDENCAO', 'CE', '62790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1042, 'RUSSAS', 'CE', '62900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1043, 'SABOEIRO', 'CE', '63590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1044, 'SALITRE', 'CE', '63155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1045, 'SANTANA DO ACARAU', 'CE', '62150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1046, 'SANTANA DO CARIRI', 'CE', '63190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1047, 'SANTA QUITERIA', 'CE', '62280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1048, 'SAO BENEDITO', 'CE', '62370000');
+COMMIT;
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1049, 'SAO GONCALO DO AMARANTE', 'CE', '62670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1050, 'SAO JOAO DO JAGUARIBE', 'CE', '62965000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1051, 'SAO LUIZ DO CURU', 'CE', '62665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1052, 'SENADOR POMPEU', 'CE', '63600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1053, 'SENADOR SA', 'CE', '62470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1054, 'SOBRAL', 'CE', '62000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1056, 'TABULEIRO DO NORTE', 'CE', '62960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1057, 'TAMBORIL', 'CE', '63750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1058, 'TARRAFAS', 'CE', '63145000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1059, 'TAUA', 'CE', '63660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1060, 'TEJUCUOCA', 'CE', '62610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1061, 'TIANGUA', 'CE', '62320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1062, 'TRAIRI', 'CE', '62690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1063, 'TURURU', 'CE', '62655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1064, 'UBAJARA', 'CE', '62350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1065, 'UMARI', 'CE', '63310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1066, 'UMIRIM', 'CE', '62660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1090, 'BOM JESUS', 'RN', '59270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1091, 'BREJINHO', 'RN', '59219000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1093, 'CAICARA DO RIO DO VENTO', 'RN', '59540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1067, 'URUBURETAMA', 'CE', '62650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1068, 'URUOCA', 'CE', '62460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1069, 'VARJOTA', 'CE', '62265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1070, 'VARZEA ALEGRE', 'CE', '63540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1071, 'VICOSA DO CEARA', 'CE', '62300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1072, 'ACARI', 'RN', '59370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1073, 'ACU', 'RN', '59650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1074, 'AFONSO BEZERRA', 'RN', '59510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1075, 'AGUA NOVA', 'RN', '59995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1077, 'ALMINO AFONSO', 'RN', '59760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1078, 'ALTO DO RODRIGUES', 'RN', '59507000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1079, 'ANGICOS', 'RN', '59515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1080, 'ANTONIO MARTINS', 'RN', '59870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1082, 'AREIA BRANCA', 'RN', '59655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1380, 'PILAR', 'PB', '58338000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1381, 'PILOES', 'PB', '58393000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1382, 'PILOEZINHOS', 'PB', '58210000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1383, 'PIRPIRITUBA', 'PB', '58213000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1384, 'PITIMBU', 'PB', '58324000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1385, 'POCINHOS', 'PB', '58150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1386, 'POCO DANTAS', 'PB', '58933000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1387, 'POCO DE JOSE DE MOURA', 'PB', '58908000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1388, 'POMBAL', 'PB', '58840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1389, 'PRATA', 'PB', '58550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1390, 'PRINCESA ISABEL', 'PB', '58755000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1392, 'QUEIMADAS', 'PB', '58440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1393, 'QUIXABA', 'PB', '58733000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1394, 'REMIGIO', 'PB', '58398000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1395, 'PEDRO REGIS', 'PB', '58273000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1396, 'RIACHAO', 'PB', '58235000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1397, 'ASSIS CHATEAUBRIAND', 'PB', '58382000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1398, 'RIACHAO DO POCO', 'PB', '58348000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1399, 'RIACHO DE SANTO ANTONIO', 'PB', '58465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1400, 'RIACHO DOS CAVALOS', 'PB', '58870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1401, 'RIO TINTO', 'PB', '58297000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1402, 'SALGADINHO', 'PB', '58650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1403, 'SALGADO DE SAO FELIX', 'PB', '58370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1405, 'SANTA CRUZ', 'PB', '58824000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1406, 'SANTA HELENA', 'PB', '58925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1407, 'SANTA INES', 'PB', '58978000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1408, 'SANTA LUZIA', 'PB', '58600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1409, 'SANTANA DE MANGUEIRA', 'PB', '58985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1410, 'SANTANA DOS GARROTES', 'PB', '58795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1411, 'SANTAREM', 'PB', '58928000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1412, 'SANTA RITA', 'PB', '58300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1413, 'SANTA TERESINHA', 'PB', '58720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1414, 'SANTO ANDRE', 'PB', '58675000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1415, 'SAO BENTO', 'PB', '58865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1269, 'BOM JESUS', 'PB', '58930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1270, 'BOM SUCESSO', 'PB', '58887000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1272, 'BOQUEIRAO', 'PB', '58450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1251, 'ARARUNA', 'PB', '58233000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1252, 'AREIA', 'PB', '58397000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1253, 'AREIA DE BARAUNAS', 'PB', '58732000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (859, 'SAO JOSE DO DIVINO', 'PI', '64245000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (860, 'SAO JOSE DO PEIXE', 'PI', '64555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (861, 'SAO JOSE DO PIAUI', 'PI', '64625000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (862, 'SAO JULIAO', 'PI', '64670000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1963, 'GUANAMBI', 'BA', '46430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1977, 'IBITIARA', 'BA', '46700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1803, 'RIACHAO DO DANTAS', 'SE', '49320000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1990, 'IRAJUBA', 'BA', '45370000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5192, 'JURUENA', 'MT', '78340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4191, 'QUATRO BARRAS', 'PR', '83420000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4327, 'BALNEARIO ARROIO DO SILVA', 'SC', '88914000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4536, 'SANTO AMARO DA IMPERATRIZ', 'SC', '88140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4550, 'SAO JOSE DO CEDRO', 'SC', '89930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4257, 'SAO PEDRO DO IVAI', 'PR', '86945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4265, 'SERRANOPOLIS DO IGUACU', 'PR', '85885000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4137, 'NOVA LARANJEIRAS', 'PR', '85350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4011, 'FAZENDA RIO GRANDE', 'PR', '83820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4026, 'GODOY MOREIRA', 'PR', '86938000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4041, 'IBAITI', 'PR', '84900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4206, 'RIBEIRAO DO PINHAL', 'PR', '86490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4222, 'SANTA CECILIA DO PAVAO', 'PR', '86225000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4233, 'SANTANA DO ITARARE', 'PR', '84970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4346, 'BRACO DO NORTE', 'SC', '88750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4117, 'MATELANDIA', 'PR', '85887000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4131, 'NOVA AMERICA DA COLINA', 'PR', '86230000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3872, 'TRES FRONTEIRAS', 'SP', '15770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3888, 'VALPARAISO', 'SP', '16880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3742, 'RIBEIRAO DOS INDIOS', 'SP', '19380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3752, 'RIO GRANDE DA SERRA', 'SP', '09450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3921, 'ARAPOTI', 'PR', '84990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4082, 'JURANDA', 'PR', '87355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3945, 'BOM SUCESSO DO SUL', 'PR', '85515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4063, 'ITAUNA DO SUL', 'PR', '87980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3806, 'SAO JOAO DA BOA VISTA', 'SP', '13870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3823, 'SAO ROQUE', 'SP', '18130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3836, 'SEVERINIA', 'SP', '14735000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3597, 'MIRANTE DO PARANAPANEMA', 'SP', '19260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3614, 'MORRO AGUDO', 'SP', '14640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3629, 'NOVA EUROPA', 'SP', '14920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3957, 'CAMPINA DO SIMAO', 'PR', '85148000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3787, 'SANTA RITA D''OESTE', 'SP', '15780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3972, 'CASTRO', 'PR', '84160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3782, 'SANTA LUCIA', 'SP', '14825000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3577, 'MAIRINQUE', 'SP', '18120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3555, 'LAGOINHA', 'SP', '12130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3910, 'ALTO PIQUIRI', 'PR', '87580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4052, 'IPIRANGA', 'PR', '84450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4241, 'SAO CARLOS DO IVAI', 'PR', '87770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4089, 'LIDIANOPOLIS', 'PR', '86865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4255, 'SAO MIGUEL DO IGUACU', 'PR', '85877000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3857, 'TAQUARITUBA', 'SP', '18740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3994, 'CRUZ MACHADO', 'PR', '84620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3720, 'PRESIDENTE BERNARDES', 'SP', '19300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3062, 'UNAI', 'MG', '38610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3041, 'TEOFILO OTONI', 'MG', '39800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2941, 'SANTO ANTONIO DO RIO ABAIXO', 'MG', '35880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2958, 'SAO GONCALO DO RIO ABAIXO', 'MG', '35935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2980, 'SAO JOSE DO DIVINO', 'MG', '39848000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2744, 'MUTUM', 'MG', '36955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2757, 'NOVA MODICA', 'MG', '35113000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2767, 'OLIMPIO NORONHA', 'MG', '37488000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3680, 'PEREIRAS', 'SP', '18580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3694, 'PIRANGI', 'SP', '15820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3500, 'IPIGUA', 'SP', '15108000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3513, 'ITAPETININGA', 'SP', '18200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3274, 'ALVARO DE CARVALHO', 'SP', '17410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3290, 'ARACOIABA DA SERRA', 'SP', '18190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3132, 'MANTENOPOLIS', 'ES', '29770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3147, 'PRESIDENTE KENNEDY', 'ES', '29350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3163, 'VILA PAVAO', 'ES', '29843000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3071, 'VARJAO DE MINAS', 'MG', '38794000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3085, 'VIRGINOPOLIS', 'MG', '39730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2938, 'SANTO ANTONIO DO JACINTO', 'MG', '39935000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2923, 'SANTANA DO PARAISO', 'MG', '35167000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2712, 'MATOZINHOS', 'MG', '35720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2726, 'MOEMA', 'MG', '35604000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2563, 'GUIDOVAL', 'MG', '36515000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2577, 'ICARAI DE MINAS', 'MG', '39318000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2593, 'IPATINGA', 'MG', '35160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2600, 'ITACAMBIRA', 'MG', '39594000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2796, 'PATIS', 'MG', '39425000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2799, 'PATROCINIO DO MURIAE', 'MG', '36860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2906, 'SANTA CRUZ DO ESCALVADO', 'MG', '35384000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2663, 'LAGOA DOS PATOS', 'MG', '39360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2678, 'LIMA DUARTE', 'MG', '36140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2693, 'MANTENA', 'MG', '35290000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2447, 'COROACI', 'MG', '39710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2461, 'CRISTIANO OTONI', 'MG', '36426000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2470, 'DELFIM MOREIRA', 'MG', '37514000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2485, 'DIVISA NOVA', 'MG', '37134000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2815, 'PEQUI', 'MG', '35667000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2644, 'JESUANIA', 'MG', '37485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2825, 'PIEDADE DOS GERAIS', 'MG', '35526000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3424, 'EMBAUBA', 'SP', '15425000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3437, 'FERNAO', 'SP', '17455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3450, 'GAVIAO PEIXOTO', 'SP', '14813000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3642, 'ORIENTE', 'SP', '17570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3650, 'OURO VERDE', 'SP', '17920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3664, 'PARIQUERA-ACU', 'SP', '11930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3777, 'SANTA CRUZ DO RIO PARDO', 'SP', '18900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3533, 'JABORANDI', 'SP', '14775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3547, 'JOAO RAMALHO', 'SP', '19680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2396, 'CARVALHOPOLIS', 'MG', '37760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2397, 'CARVALHOS', 'MG', '37456000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2398, 'CASA GRANDE', 'MG', '36422000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2399, 'CASCALHO RICO', 'MG', '38460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2400, 'CASSIA', 'MG', '37980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2402, 'CATAGUASES', 'MG', '36770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2403, 'CATAS ALTAS', 'MG', '35969000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2404, 'CATAS ALTAS DA NORUEGA', 'MG', '36450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2405, 'CATUJI', 'MG', '39816000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2406, 'CATUTI', 'MG', '39526000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2407, 'CAXAMBU', 'MG', '37440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2408, 'CEDRO DO ABAETE', 'MG', '35624000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2409, 'CENTRAL DE MINAS', 'MG', '35260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2410, 'CENTRALINA', 'MG', '38390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2411, 'CHACARA', 'MG', '36110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2412, 'CHALE', 'MG', '36985000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2413, 'CHAPADA DO NORTE', 'MG', '39648000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2414, 'CHAPADA GAUCHA', 'MG', '39314000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2415, 'CHIADOR', 'MG', '36630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2416, 'CIPOTANEA', 'MG', '36265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2162, 'SANTA LUZIA', 'BA', '45865000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2163, 'SANTA MARIA DA VITORIA', 'BA', '47640000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2165, 'SANTANOPOLIS', 'BA', '44260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2166, 'SANTA RITA DE CASSIA', 'BA', '47150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2167, 'SANTA TERESINHA', 'BA', '44590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2168, 'SANTO AMARO', 'BA', '44200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2169, 'SANTO ANTONIO DE JESUS', 'BA', '44570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2170, 'SANTO ESTEVAO', 'BA', '44190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2171, 'SAO DESIDERIO', 'BA', '47820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2172, 'SAO DOMINGOS', 'BA', '48895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2173, 'SAO FELIX', 'BA', '44360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2174, 'SAO FELIX DO CORIBE', 'BA', '47665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2175, 'SAO FELIPE', 'BA', '44550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2177, 'SAO GABRIEL', 'BA', '44915000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2178, 'SAO GONCALO DOS CAMPOS', 'BA', '44330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2179, 'SAO JOSE DA VITORIA', 'BA', '45620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2180, 'SAO JOSE DO JACUIPE', 'BA', '44698000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2181, 'SAO MIGUEL DAS MATAS', 'BA', '44580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2182, 'SAO SEBASTIAO DO PASSE', 'BA', '43850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2183, 'SAPEACU', 'BA', '44530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2184, 'SATIRO DIAS', 'BA', '48485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2185, 'SAUBARA', 'BA', '44220000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2186, 'SAUDE', 'BA', '44740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2187, 'SEABRA', 'BA', '46900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2188, 'SEBASTIAO LARANJEIRAS', 'BA', '46450000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2189, 'SENHOR DO BONFIM', 'BA', '48970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2190, 'SERRA DO RAMALHO', 'BA', '47630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2191, 'SENTO SE', 'BA', '47350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2193, 'SERRA PRETA', 'BA', '44660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2194, 'SERRINHA', 'BA', '48700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2195, 'SERROLANDIA', 'BA', '44710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2196, 'SIMOES FILHO', 'BA', '43700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2197, 'SITIO DO MATO', 'BA', '47610000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2198, 'SITIO DO QUINTO', 'BA', '48565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2199, 'SOBRADINHO', 'BA', '48925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2200, 'SOUTO SOARES', 'BA', '46990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2201, 'TABOCAS DO BREJO VELHO', 'BA', '47760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2202, 'TANHACU', 'BA', '46600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2203, 'TANQUE NOVO', 'BA', '46580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2204, 'TANQUINHO', 'BA', '44160000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2205, 'TAPEROA', 'BA', '45430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2206, 'TAPIRAMUTA', 'BA', '44840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2208, 'TEODORO SAMPAIO', 'BA', '44280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2209, 'TEOFILANDIA', 'BA', '48770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2210, 'TEOLANDIA', 'BA', '45465000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2211, 'TERRA NOVA', 'BA', '44270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2212, 'TREMEDAL', 'BA', '45170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2213, 'TUCANO', 'BA', '48790000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2214, 'UAUA', 'BA', '48950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2215, 'UBAIRA', 'BA', '45310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2332, 'BRASOPOLIS', 'MG', '37530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2217, 'UBATA', 'BA', '45550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2218, 'UIBAI', 'BA', '44950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2219, 'UMBURANAS', 'BA', '44798000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2220, 'UNA', 'BA', '45690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2523, 'FERNANDES TOURINHO', 'MG', '35135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2524, 'FERROS', 'MG', '35800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2527, 'FORMIGA', 'MG', '35570000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2528, 'FORMOSO', 'MG', '38690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1856, 'BARRA DA ESTIVA', 'BA', '46650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1799, 'POCO REDONDO', 'SE', '49810000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1589, 'PRIMAVERA', 'PE', '55510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1429, 'SAO JOSE DO BREJO DA CRUZ', 'PB', '58893000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1446, 'SOLEDADE', 'PB', '58155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1458, 'VARZEA', 'PB', '58620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1660, 'CAMPO ALEGRE', 'AL', '57250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2541, 'FRUTAL', 'MG', '38200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (865, 'SAO MIGUEL DA BAIXA GRANDE', 'PI', '64378000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (883, 'VARZEA BRANCA', 'PI', '64773000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1207, 'SAO MIGUEL DE TOUROS', 'RN', '59585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1222, 'TABOLEIRO GRANDE', 'RN', '59840000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1237, 'VILA FLOR', 'RN', '59192000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (782, 'LAGOA DO SITIO', 'PI', '64308000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (796, 'MONSENHOR HIPOLITO', 'PI', '64650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (806, 'OEIRAS', 'PI', '64500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (819, 'PAVUSSU', 'PI', '64838000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (831, 'QUEIMADA NOVA', 'PI', '64758000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (895, 'ALTO SANTO', 'CE', '62970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (909, 'BANABUIU', 'CE', '63960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1101, 'CERRO CORA', 'RN', '59395000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1114, 'FLORANIA', 'RN', '59335000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (758, 'HUGO NAPOLEAO', 'PI', '64470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (772, 'JOCA MARQUES', 'PI', '64165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1483, 'BOM CONSELHO', 'PE', '55330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1649, 'ATALAIA', 'AL', '57690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1772, 'INDIAROBA', 'SE', '49250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1785, 'MOITA BONITA', 'SE', '49560000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1304, 'CUBATI', 'PB', '58167000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1317, 'ESPERANCA', 'PB', '58135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1331, 'JACARAU', 'PB', '58278000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1368, 'OLHO D''AGUA', 'PB', '58760000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1353, 'MASSARANDUBA', 'PB', '58120000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1674, 'FEIRA GRANDE', 'AL', '57340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1689, 'LAGOA DA CANOA', 'AL', '57330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1699, 'MATRIZ DE CAMARAGIBE', 'AL', '57910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1545, 'ITAPETIM', 'PE', '56720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1568, 'MIRANDIBA', 'PE', '56980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1556, 'JUREMA', 'PE', '55480000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1289, 'CAMPINA GRANDE', 'PB', '58100000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1137, 'JOSE DA PENHA', 'RN', '59980000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1152, 'MARTINS', 'RN', '59800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1165, 'PARAU', 'RN', '59660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1178, 'PENDENCIAS', 'RN', '59504000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1195, 'SANTANA DO SERIDO', 'RN', '59350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1488, 'BREJO DA MADRE DE DEUS', 'PE', '55170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1505, 'CARUARU', 'PE', '55000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1518, 'ESCADA', 'PE', '55500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1028, 'PINDORETAMA', 'CE', '62860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1041, 'RERIUTABA', 'CE', '62260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1055, 'SOLONOPOLE', 'CE', '63620000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1092, 'CAICARA DO NORTE', 'RN', '59592000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1081, 'APODI', 'RN', '59700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1391, 'PUXINANA', 'PB', '58115000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1404, 'SANTA CECILIA', 'PB', '58428000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1271, 'BONITO DE SANTA FE', 'PB', '58960000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1265, 'BELEM DO BREJO DO CRUZ', 'PB', '58895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1283, 'CACIMBAS', 'PB', '58698000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1247, 'AMPARO', 'PB', '58548000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (984, 'JATI', 'CE', '63275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (997, 'MERUOCA', 'CE', '62130000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1011, 'NOVO ORIENTE', 'CE', '63740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1952, 'FILADELFIA', 'BA', '44775000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2836, 'PIRAUBA', 'MG', '36170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2638, 'JECEABA', 'MG', '35498000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2429, 'CONCEICAO DO PARA', 'MG', '35668000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2420, 'COIMBRA', 'MG', '36550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2293, 'BANDEIRA', 'MG', '39917000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2307, 'BERIZAL', 'MG', '39555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2319, 'BOM JESUS DO GALHO', 'MG', '35340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2502, 'ENGENHEIRO NAVARRO', 'MG', '39417000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2330, 'BRAS PIRES', 'MG', '36542000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2620, 'ITAVERAVA', 'MG', '36440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2633, 'JAMPRUCA', 'MG', '39837000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2401, 'CONCEICAO DA BARRA DE MINAS', 'MG', '36360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2164, 'SANTANA', 'BA', '47700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2176, 'SAO FRANCISCO DO CONDE', 'BA', '43900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2192, 'SERRA DOURADA', 'BA', '47740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2207, 'TEIXEIRA DE FREITAS', 'BA', '45995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2526, 'FLORESTAL', 'MG', '35690000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (717, 'CARACOL', 'PI', '64795000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (723, 'COCAL DE TELHA', 'PI', '64278000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (453, 'ALCANTARA', 'MA', '65250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (313, 'ALIANCA DO TOCANTINS', 'TO', '77455000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (464, 'ARAGUANA', 'MA', '65368000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (326, 'ARRAIAS', 'TO', '77330000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (585, 'PAULINO NEVES', 'MA', '65585000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4713, 'DILERMANDO DE AGUIAR', 'RS', '97180000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4845, 'NAO-ME-TOQUE', 'RS', '99470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4672, 'CAPELA DE SANTANA', 'RS', '95745000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4681, 'CAXIAS DO SUL', 'RS', '95000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (90, 'CANUTAMA', 'AM', '69820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (97, 'ENVIRA', 'AM', '69870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (104, 'ITAMARATI', 'AM', '69510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5496, 'TURVELANDIA', 'GO', '75970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5503, 'VIANOPOLIS', 'GO', '75260000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5404, 'MINEIROS', 'GO', '75830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5447, 'PLANALTINA', 'GO', '73750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5235, 'RIO BRANCO', 'MT', '78275000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4860, 'NOVA RAMADA', 'RS', '98758000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4867, 'NOVO BARREIRO', 'RS', '98338000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4990, 'SEGREDO', 'RS', '96910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4283, 'TRES BARRAS DO PARANA', 'PR', '85485000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4292, 'URAI', 'PR', '86280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4801, 'JAGUARAO', 'RS', '96300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4922, 'RONDINHA', 'RS', '99590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4671, 'CAPIVARI DO SUL', 'RS', '95552000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4693, 'CHUVISCA', 'RS', '96193000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4437, 'JOACABA', 'SC', '89600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4450, 'LONTRAS', 'SC', '89182000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4464, 'MODELO', 'SC', '89872000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4477, 'OTACILIO COSTA', 'SC', '88540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (201, 'GARRAFAO DO NORTE', 'PA', '68665000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (66, 'PORTO WALTER', 'AC', '69982000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (80, 'ATALAIA DO NORTE', 'AM', '69650000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (96, 'EIRUNEPE', 'AM', '69880000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (112, 'MANAUS', 'AM', '69000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (125, 'SANTO ANTONIO DO ICA', 'AM', '69680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3, 'CABIXI', 'RO', '78999000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (10, 'GUAJARA-MIRIM', 'RO', '78957000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (23, 'SAO MIGUEL DO GUAPORE', 'RO', '78970000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (34, 'CHUPINGUAIA', 'RO', '78995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5470, 'SANTA TEREZINHA DE GOIAS', 'GO', '76500000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5487, 'SIMOLANDIA', 'GO', '73930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5502, 'VARJAO', 'GO', '75355000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5280, 'ANAPOLIS', 'GO', '75000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5294, 'BALIZA', 'GO', '76250000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5307, 'CACHOEIRA ALTA', 'GO', '75870000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5322, 'CATALAO', 'GO', '75700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5425, 'NOVA VENEZA', 'GO', '75470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (37, 'JAMARI', 'RO', '78937000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (49, 'THEOBROMA', 'RO', '78947000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5464, 'SANTA HELENA DE GOIAS', 'GO', '75920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5276, 'ALVORADA DO NORTE', 'GO', '73950000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5420, 'NOVA AURORA', 'GO', '75750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5140, 'AGUA BOA', 'MT', '78635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5153, 'BARAO DE MELGACO', 'MT', '78190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5168, 'COCALINHO', 'MT', '78680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5333, 'CORUMBAIBA', 'GO', '75680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5347, 'FAINA', 'GO', '76740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5360, 'GOIATUBA', 'GO', '75600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5369, 'IACIARA', 'GO', '73920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5446, 'PIRES DO RIO', 'GO', '75200000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (600, 'PRESIDENTE JUSCELINO', 'MA', '65140000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (482, 'BOA VISTA DO GURUPI', 'MA', '65292000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (338, 'BURITI DO TOCANTINS', 'TO', '77995000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5224, 'PORTO ALEGRE DO NORTE', 'MT', '78655000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5206, 'NOVA BRASILANDIA', 'MT', '78860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5095, 'FATIMA DO SUL', 'MS', '79700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5109, 'LAGUNA CARAPA', 'MS', '79920000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4858, 'NOVA PETROPOLIS', 'RS', '95150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4872, 'PALMITINHO', 'RS', '98430000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4886, 'PICADA CAFE', 'RS', '95175000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4900, 'PORTO MAUA', 'RS', '98947000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5034, 'TUPARENDI', 'RS', '98940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5212, 'NOVO MUNDO', 'MT', '78528000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5057, 'VISTA ALEGRE', 'RS', '98415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4949, 'SANTO EXPEDITO DO SUL', 'RS', '99895000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4965, 'SAO JOSE DOS AUSENTES', 'RS', '95280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4981, 'SAO VALENTIM DO SUL', 'RS', '99240000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3722, 'PRESIDENTE PRUDENTE', 'SP', '19000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3738, 'RIBEIRAO BONITO', 'SP', '13580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4812, 'LAVRAS DO SUL', 'RS', '97390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4659, 'CAMPINAS DO SUL', 'RS', '99660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4824, 'MARIANA PIMENTEL', 'RS', '92900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4553, 'SAO LUDGERO', 'SC', '88730000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4430, 'ITAPOA', 'SC', '89249000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4413, 'IMBITUBA', 'SC', '88780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4286, 'TUPASSI', 'PR', '85945000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5236, 'SANTA CARMEM', 'MT', '78545000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5249, 'SINOP', 'MT', '78550000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5262, 'NOVA MARILANDIA', 'MT', '78415000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5122, 'PORTO MURTINHO', 'MS', '79280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4996, 'SERTAO', 'RS', '99170000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5009, 'TAQUARI', 'RS', '95860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (5022, 'TRES COROAS', 'RS', '95660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2529, 'FORTALEZA DE MINAS', 'MG', '37905000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3294, 'ARARAQUARA', 'SP', '14800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3308, 'AVANHANDAVA', 'SP', '16360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3322, 'BARUERI', 'SP', '06400000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3337, 'BOM JESUS DOS PERDOES', 'SP', '12955000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4303, 'ABELARDO LUZ', 'SC', '89830000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4318, 'ARABUTA', 'SC', '89740000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4495, 'PICARRAS', 'SC', '88380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4509, 'PRESIDENTE GETULIO', 'SC', '89150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4525, 'SALETE', 'SC', '89196000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4636, 'BOA VISTA DO BURICA', 'RS', '98918000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4382, 'DONA EMMA', 'SC', '89155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4396, 'GARUVA', 'SC', '89248000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4410, 'ICARA', 'SC', '88820000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4164, 'PEROLA', 'PR', '87540000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (4177, 'PONTA GROSSA', 'PR', '84000000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3098, 'ARACRUZ', 'ES', '29190000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3111, 'DIVINO DE SAO LOURENCO', 'ES', '29590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2987, 'SAO PEDRO DOS FERROS', 'MG', '35360000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2858, 'PRESIDENTE KUBITSCHEK', 'MG', '39135000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2874, 'RIBEIRAO VERMELHO', 'MG', '37264000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2890, 'RODEIRO', 'MG', '36510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2089, 'MURITIBA', 'BA', '44340000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2273, 'ARACUAI', 'MG', '39600000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2144, 'RIACHO DE SANTANA', 'BA', '46470000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2086, 'MUNDO NOVO', 'BA', '44800000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1869, 'BOM JESUS DA SERRA', 'BA', '45263000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1710, 'PALESTINA', 'AL', '57410000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1723, 'PORTO CALVO', 'AL', '57900000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1737, 'SAO MIGUEL DOS MILAGRES', 'AL', '57940000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1940, 'DIAS D''AVILA', 'BA', '42850000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3176, 'BOM JARDIM', 'RJ', '28660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3361, 'CAJAMAR', 'SP', '07750000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3374, 'CANITAR', 'SP', '18990000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3477, 'IACRI', 'SP', '17680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3483, 'IBIUNA', 'SP', '18150000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3491, 'ILHA COMPRIDA', 'SP', '11925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3242, 'SAO JOSE DO VALE DO RIO PRETO', 'RJ', '25780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3260, 'AGUAI', 'SP', '13860000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2999, 'SAO TIAGO', 'MG', '36350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3016, 'SERICITA', 'MG', '35368000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3030, 'SIMONESIA', 'MG', '36930000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3389, 'CESARIO LANGE', 'SP', '18285000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3404, 'CRISTAIS PAULISTA', 'SP', '14460000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3211, 'NATIVIDADE', 'RJ', '28380000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (3223, 'PORCIUNCULA', 'RJ', '28390000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2547, 'GOIANA', 'MG', '36152000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2377, 'CAPUTIRA', 'MG', '36925000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2366, 'CANDEIAS', 'MG', '37280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2159, 'SANTA CRUZ DA VITORIA', 'BA', '45725000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2003, 'ITAGUACU DA BAHIA', 'BA', '47440000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2018, 'ITARANTIM', 'BA', '45780000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2032, 'JANDAIRA', 'BA', '48310000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2045, 'LAJE', 'BA', '45490000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2229, 'VARZEDO', 'BA', '44565000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2049, 'LAMARAO', 'BA', '48720000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2336, 'BUGRE', 'MG', '35193000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2349, 'CAMACHO', 'MG', '35555000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2359, 'CAMPO DO MEIO', 'MG', '37165000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2120, 'PINDOBACU', 'BA', '44770000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1872, 'BOQUIRA', 'BA', '46530000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1885, 'CAETANOS', 'BA', '45265000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1898, 'CANDEAL', 'BA', '48710000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1906, 'CARAIBAS', 'BA', '45177000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1919, 'COARACI', 'BA', '45638000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2251, 'ALEM PARAIBA', 'MG', '36660000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2266, 'ANDRELANDIA', 'MG', '37300000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1931, 'CORONEL JOAO SA', 'BA', '48590000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2064, 'MALHADA DE PEDRAS', 'BA', '46110000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (2080, 'MORPARA', 'BA', '47580000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1834, 'AMERICA DOURADA', 'BA', '44910000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1601, 'SANTA CRUZ', 'PE', '56215000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1615, 'SAO JOSE DO EGITO', 'PE', '56700000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1630, 'TEREZINHA', 'PE', '55305000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1639, 'VENTUROSA', 'PE', '55270000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1020, 'PARACURU', 'CE', '62680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1021, 'PARAIPABA', 'CE', '62685000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1022, 'PARAMBU', 'CE', '63680000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1023, 'PARAMOTI', 'CE', '62736000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1024, 'PEDRA BRANCA', 'CE', '63630000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (1025, 'PENA FORTE', 'CE', '63280000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (853, 'SAO JOAO DA CANABRAVA', 'PI', '64635000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (854, 'SAO JOAO DA FRONTEIRA', 'PI', '64243000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (855, 'SAO JOAO DA SERRA', 'PI', '64350000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (856, 'SAO JOAO DA VARJOTA', 'PI', '64510000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (857, 'SAO JOAO DO ARRAIAL', 'PI', '64155000');
+Insert into MUNICIPIOS_WEB
+   (CHAVE, NOME, UF, CEP)
+ Values
+   (858, 'SAO JOAO DO PIAUI', 'PI', '64760000');
+COMMIT;

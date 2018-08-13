@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Trabalhe Conosco!</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<script src="js/mascaras.js"></script>	
+
+    <!-- Custom styles for this template -->
+    <style>
+		body {
+			padding-top: 54px;
+		}
+		@media (min-width: 992px) {
+			body {
+				padding-top: 56px;
+			}
+		}
+
+    </style>
+
+  </head>
+
+  <body>
+
+    <!-- Page Content -->
+    <div class="container">
+
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h1> Trabalhe Conosco! </h1>
+			</div>
+		</div>
+		<div class="row" style="margin-top:10px">
+			<div class="col-lg-12">
+				<!--<img src="http://via.placeholder.com/1151x250" class="img-fluid" alt="Responsive image">-->
+				<img src="img/trabalhecom.jpg" class="img-fluid" alt="Responsive image">
+			</div>  
+			
+			<div class="col-lg-12" style="margin-top:50px">
+				<!-- Já sou cadastrado -->
+				<div class="col-lg-6 float-left" style="margin-top:10px">
+					<div class="card">
+						<div class = "card-header">
+							<h4> Já sou cadastrado: </h3>
+						</div>
+						<div class="card-body">
+							<p>
+								Se você já possui cadastro, informe seu CPF e Senha para entrar, visualizar e alterar suas informações.<br/><br/>
+							</p>
+								
+							<form role="form" method="post" action="login.php" data-toggle="validator" name="login">
+								<fieldset>
+									<div class="form-group">
+										<input class="form-control" placeholder="CPF (Apenas números)" name="txtCPFLogin" id="txtCPFLogin" onKeyUp="MascaraCPF(login.txtCPFLogin, event);" required>
+										<div class="help-block with-errors"></div>
+									</div>
+									<div class="form-group">
+										<input class="form-control" placeholder="Senha" name="txtSenhaLogin" id="txtSenhaLogin" type="password" value="" required>
+										<div class="help-block with-errors"></div>
+									</div>
+									<input type="submit" name="btnOK" id="btnOK" value="Entrar" class="btn btn-lg btn-primary btn-block"/>
+								</fieldset>
+								<input type="hidden" name="acao" value="login">
+								<input type="hidden" name="codigoBase" value="900010">
+							</form>								
+							
+						</div>
+					</div>
+				</div>
+				
+				<!-- Me cadastrar -->
+				<div class="col-lg-6 float-left" style="margin-top:10px">
+					<div class="card">
+						<div class = "card-header">
+							<h4> Me cadastrar: </h3>
+						</div>
+						<div class="card-body">
+							Se ainda não possui cadastro, cadastre seu CPF e Senha para começar a usar. <br/><br/>
+							
+							<form role="form" method="post" action="login.php" name="cadastro" data-toggle="validator">
+								<fieldset>
+									<div class="form-group">
+										<input class="form-control" placeholder="CPF (Apenas números)" name="txtCPF" id="txtCPF" onKeyUp="MascaraCPF(cadastro.txtCPF, event);" required>
+										<div class="help-block with-errors"></div>
+									</div>
+									<div class="form-group">
+										<input class="form-control" placeholder="Senha (Mínimo de seis caracteres)" name="txtSenha" id="txtSenha" type="password" value="" data-minlength="6" required>
+										<div class="help-block with-errors"></div>
+									</div>
+									<div class="form-group">
+										<input class="form-control" placeholder="Confirmar Senha" name="txtConfSenha" id="txtConfSenha" type="password" value="" 
+										data-match="#txtSenha" data-match-error="Atenção! As senhas não estão iguais." required>
+										<div class="help-block with-errors"></div>
+									</div>
+									<input type="submit" name="btnOKCadastro" id="btnOKCadastro" value="Cadastrar" class="btn btn-lg btn-primary btn-block"/>
+								</fieldset>
+								<input type="hidden" name="acao" value="cadastro">
+								<input type="hidden" name="codigoBase" value="900010">
+							</form>
+							
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		
+	  
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+	<script src="js/validator.min.js"></script>
+
+  </body>
+  
+</html>
