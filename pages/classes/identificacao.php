@@ -22,6 +22,7 @@
 		public $nacionalidade;
 		public $deficiencia;
 		public $tipocargo;
+		public $pis;
 		
 
 		function inserir($conn, $codigobase, $url) {
@@ -55,18 +56,22 @@
 				$this->complemento = "UPPER('$this->complemento')";
 			}
 			
+			if ($this->pis == '') {
+				$this->pis = 'NULL';
+			}
+
 			$sql = "INSERT INTO TALENTOS_WEB (
 					  CHAVE, CODIGO_BASE, CHAVE_USUARIO_WEB, CPF, NUMERO_RG, NOME, 
 					  ENDERECO, NUMERO, COMPLEMENTO, BAIRRO, CIDADE, CEP, 
 					  TELEFONE, TELEFONE_CELULAR, EMAIL, 
 					  DATA_NASCIMENTO, NACIONALIDADE, SEXO, ESTADO_CIVIL, 
-					  PORTADOR_DEFICIENCIA, TIPO_CARGO, DATA_CADASTRO)
+					  PORTADOR_DEFICIENCIA, TIPO_CARGO, DATA_CADASTRO, PIS)
 					VALUES (
 					  $this->chave, $codigobase, $this->chave, '$this->cpf', '$this->rg', UPPER('$this->nome'), 
 					  UPPER('$this->rua'), UPPER('$this->numero'), " . $this->complemento . ", UPPER('$this->bairro'), $chavecidade, '$this->cep', 
 					  '$this->telefone', '$this->celular', '$this->email', 
 					  TO_DATE('$this->nascimento', 'YYYY-MM-DD'), UPPER('$this->nacionalidade'), UPPER('$this->sexo'), UPPER('$this->estadocivil'), 
-					  UPPER('$this->deficiencia'), '$this->tipocargo', SYSDATE)";
+					  UPPER('$this->deficiencia'), '$this->tipocargo', SYSDATE, $this->pis)";
 
 			echo $sql;		  
 					  
@@ -114,6 +119,10 @@
 			$this->cep = preg_replace("/[^0-9]/", "", $this->cep);
 			$this->nascimento = date("Y-m-d", strtotime($this->nascimento));
 
+			if ($this->pis == '') {
+				$this->pis = 'NULL';
+			}
+
 			$sql = "SELECT CHAVE FROM MUNICIPIOS_WEB WHERE CEP LIKE '" . substr($this->cep, 0, 5)."%'";
 			$ds = oci_parse($conn, $sql);	
 			oci_define_by_name($ds, "CHAVE", $chavecidade);
@@ -147,7 +156,8 @@
 							SEXO = UPPER('$this->sexo'),
 							ESTADO_CIVIL = UPPER('$this->estadocivil'),
 							PORTADOR_DEFICIENCIA = UPPER('$this->deficiencia'),
-							TIPO_CARGO = '$this->tipocargo'
+							TIPO_CARGO = '$this->tipocargo',
+							PIS = $this->pis
 					  WHERE CHAVE = $this->chave";
 
 			echo "complemento: " . $this->complemento;	

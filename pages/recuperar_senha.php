@@ -46,50 +46,19 @@
 			</div>  
 			
 			<div class="col-lg-12" style="margin-top:50px">
-				<!-- Já sou cadastrado -->
-				<div class="col-lg-6 float-left" style="margin-top:10px">
-					<div class="card">
-						<div class = "card-header">
-							<h4> Já sou cadastrado: </h3>
-						</div>
-						<div class="card-body">
-							<p>
-								Se você já possui cadastro, informe seu CPF e Senha para entrar, visualizar e alterar suas informações.<br/><br/>
-							</p>
-								
-							<form role="form" method="post" action="login.php" data-toggle="validator" name="login">
-								<fieldset>
-									<div class="form-group">
-										<input class="form-control" placeholder="CPF (Apenas números)" name="txtCPFLogin" id="txtCPFLogin" onKeyUp="MascaraCPF(login.txtCPFLogin, event);" required>
-										<div class="help-block with-errors"></div>
-									</div>
-									<div class="form-group">
-										<input class="form-control" placeholder="Senha" name="txtSenhaLogin" id="txtSenhaLogin" type="password" value="" required>
-										<div class="help-block with-errors"></div>
-									</div>
-									<div class="form-group text-right">
-										<a href="recuperar_senha.php">Esqueci minha senha</a>
-									</div>
-									<input type="submit" name="btnOK" id="btnOK" value="Entrar" class="btn btn-lg btn-primary btn-block"/>
-								</fieldset>
-								<input type="hidden" name="acao" value="login">
-								<input type="hidden" name="codigoBase" value="900010">
-							</form>								
-							
-						</div>
-					</div>
+				<div class="row">
+				<div class="col-lg-3 float-left" style="margin-top:10px">
 				</div>
-				
 				<!-- Me cadastrar -->
-				<div class="col-lg-6 float-left" style="margin-top:10px">
+				<div class="col-lg-6 float-center" style="margin-top:10px">
 					<div class="card">
 						<div class = "card-header">
-							<h4> Me cadastrar: </h3>
+							<h4> Recuperar Senha </h4>
 						</div>
 						<div class="card-body">
-							Se ainda não possui cadastro, cadastre seu CPF e Senha para começar a usar. <br/><br/>
+							Informe o seu CPF e informe uma nova senha. <br/><br/>
 							
-							<form role="form" method="post" action="login.php" name="cadastro" data-toggle="validator">
+							<form role="form" method="post" action="alterar_senha.php" name="cadastro" data-toggle="validator">
 								<fieldset>
 									<div class="form-group">
 										<input class="form-control" placeholder="CPF (Apenas números)" name="txtCPF" id="txtCPF" onKeyUp="MascaraCPF(cadastro.txtCPF, event);" required>
@@ -104,20 +73,17 @@
 										data-match="#txtSenha" data-match-error="Atenção! As senhas não estão iguais." required>
 										<div class="help-block with-errors"></div>
 									</div>
-									<input type="submit" name="btnOKCadastro" id="btnOKCadastro" value="Cadastrar" class="btn btn-lg btn-primary btn-block"/>
+									<input type="submit" name="btnOKCadastro" id="btnOKCadastro" value="Cadastrar nova senha" class="btn btn-lg btn-primary btn-block"/>
 								</fieldset>
-								<input type="hidden" name="acao" value="cadastro">
 								<input type="hidden" name="codigoBase" value="900010">
 							</form>
 							
 						</div>
 					</div>
 				</div>
-
+			</div>
 			</div>
 		</div>
-		
-	  
     </div>
 
     <!-- Bootstrap core JavaScript -->

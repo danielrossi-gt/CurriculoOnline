@@ -33,7 +33,8 @@ SEXO				VARCHAR2(10)		NULL,
 ESTADO_CIVIL			VARCHAR2(15)		NULL,
 PORTADOR_DEFICIENCIA		VARCHAR2(03)		NULL,
 TIPO_CARGO			NUMBER			NULL,    
-DATA_CADASTRO			DATE			NOT NULL);
+DATA_CADASTRO			DATE			NOT NULL,
+PIS				NUMBER			NULL);
 -----------------------------------------------------------------
 
 

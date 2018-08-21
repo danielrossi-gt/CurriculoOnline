@@ -73,19 +73,23 @@
 							</div>
 
 						    <div class="row">
-							<div class="form-group col-lg-4 float-left">
+							<div class="form-group col-lg-3 float-left">
 								<label for="cpf" >CPF</label>
 								<input name="cpf" id="cpf"  class="form-control text-uppercase" value=<?php echo $_SESSION["cpf"]; ?> type="text" onKeyUp="MascaraCPF(identificacao.cpf, event);" required/>
 								<div class="help-block with-errors"></div>
 							</div>
-							
-							<div class="form-group col-lg-4 float-left">
+							<div class="form-group col-lg-3 float-left">
 								<label for="rg" >RG</label>
 								<input id="rg" name="rg" class="form-control text-uppercase" type="text" onKeyUp="MascaraRG(identificacao.rg, event);" required/>
 								<div class="help-block with-errors"></div>
 							</div>
+							<div class="form-group col-lg-3 float-left">
+								<label for="pis" >PIS</label>
+								<input name="pis" id="pis"  class="form-control text-uppercase" type="text" maxlength="11"/>
+								<div class="help-block with-errors"></div>
+							</div>								
 							
-							<div class="form-group col-lg-4 float-left">
+							<div class="form-group col-lg-3 float-left">
 								<label for="sexo" >Sexo</label>
 								<select id="sexo" name="sexo" class="form-control text-uppercase" required>
 											<option value="MASCULINO">MASCULINO</option>

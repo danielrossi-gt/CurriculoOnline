@@ -15,7 +15,7 @@
 	$sql = "SELECT T.CPF, T.NUMERO_RG, T.NOME, T.ENDERECO, T.NUMERO, T.COMPLEMENTO, T.BAIRRO, T.CIDADE, T.CEP, 
 				   T.TELEFONE, T.TELEFONE_CELULAR, T.EMAIL, TO_CHAR(T.DATA_NASCIMENTO, 'YYYY-MM-DD') DATA_NASCIMENTO, T.NACIONALIDADE, T.SEXO, 
 				   T.ESTADO_CIVIL, T.PORTADOR_DEFICIENCIA, T.TIPO_CARGO, T.DATA_CADASTRO,
-				   M.NOME NOME_CIDADE, M.UF	
+				   M.NOME NOME_CIDADE, M.UF, T.PIS	
 			  FROM TALENTOS_WEB T, MUNICIPIOS_WEB M, TIPO_CARGO_WEB C
 			 WHERE T.CIDADE = M.CHAVE
 			   AND T.TIPO_CARGO = C.CHAVE
@@ -41,6 +41,7 @@
 	oci_define_by_name($ds, "ESTADO_CIVIL", $estadocivil);
 	oci_define_by_name($ds, "PORTADOR_DEFICIENCIA", $deficiencia);
 	oci_define_by_name($ds, "TIPO_CARGO", $tipocargo);
+	oci_define_by_name($ds, "PIS", $pis);
 	oci_execute($ds);	
 	oci_fetch($ds);  
 
@@ -108,7 +109,8 @@
     <div class="container">
 
 		<div class="col-lg-12">
-			<img src="http://via.placeholder.com/1151x250" class="img-fluid" alt="Responsive image">
+			<!--<img src="http://via.placeholder.com/1151x250" class="img-fluid" alt="Responsive image"> -->
+			<img src="img/trabalhecom.jpg" class="img-fluid" alt="Responsive image">
 		</div>  		
 
 		<div class="row" style="margin-top:20px">
@@ -149,19 +151,25 @@
 							</div>
 
 						    <div class="row">
-							<div class="form-group col-lg-4 float-left">
+							<div class="form-group col-lg-3 float-left">
 								<label for="cpf" >CPF</label>
 								<input name="cpf" id="cpf"  class="form-control text-uppercase" value=<?php echo $_SESSION["cpf"]; ?> type="text" onKeyUp="MascaraCPF(identificacao.cpf, event);" required/>
 								<div class="help-block with-errors"></div>
 							</div>
 							
-							<div class="form-group col-lg-4 float-left">
+							<div class="form-group col-lg-3 float-left">
 								<label for="rg" >RG</label>
 								<input id="rg" name="rg" value="<?php echo $rg; ?>" class="form-control text-uppercase" type="text" onKeyUp="MascaraRG(identificacao.rg, event);" required/>
 								<div class="help-block with-errors"></div>
 							</div>
 							
-							<div class="form-group col-lg-4 float-left">
+							<div class="form-group col-lg-3 float-left">
+								<label for="pis" >PIS</label>
+								<input name="pis" id="pis" value="<?php echo $pis; ?>" class="form-control text-uppercase" type="text" maxlength="11"/>
+								<div class="help-block with-errors"></div>
+							</div>
+
+							<div class="form-group col-lg-3 float-left">
 								
 								<label for="sexo" >Sexo</label>
 								<select id="sexo" name="sexo" class="form-control text-uppercase" required>

@@ -62,6 +62,8 @@
 	$id->nacionalidade = $_POST["nacionalidade"];
 	$id->deficiencia = $_POST["deficiencia"];
 	$id->tipocargo = $_POST["tipocargo"];
+	$id->pis = $_POST["pis"];
+
 	
 	$arr = explode(" ", $id->nome);
 	$apelido = $arr[0];

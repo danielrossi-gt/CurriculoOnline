@@ -75,7 +75,8 @@
     <div class="container" style="margin-top:10px;">
 
 		<div class="col-lg-12">
-			<img src="http://via.placeholder.com/1151x250" class="img-fluid" alt="Responsive image">
+			<!--<img src="http://via.placeholder.com/1151x250" class="img-fluid" alt="Responsive image"> -->
+			<img src="img/trabalhecom.jpg" class="img-fluid" alt="Responsive image">
 		</div>  		
 
 		<div class="row" style="margin-top:20px">
@@ -123,7 +124,7 @@
 									                                  'MUL', 'MÚLTIPLA',
 									                                  'REA', 'REABILITADO') PORTADOR_DEFICIENCIA,
 									   C.DESCRICAO TIPO_CARGO, T.DATA_CADASTRO,
-									   M.NOME NOME_CIDADE, M.UF	
+									   M.NOME NOME_CIDADE, M.UF, T.PIS	
 								  FROM TALENTOS_WEB T, MUNICIPIOS_WEB M, TIPO_CARGO_WEB C
 								 WHERE T.CIDADE = M.CHAVE
                                    AND T.TIPO_CARGO = C.CHAVE
@@ -149,6 +150,7 @@
 						oci_define_by_name($ds, "ESTADO_CIVIL", $estadocivil);
 						oci_define_by_name($ds, "PORTADOR_DEFICIENCIA", $deficiencia);
 						oci_define_by_name($ds, "TIPO_CARGO", $tipocargo);
+						oci_define_by_name($ds, "PIS", $pis);
 						oci_execute($ds);	
 						oci_fetch($ds);
 				
@@ -158,7 +160,7 @@
 				
 						echo "<p>
 							  <b>Nome:</b> $nome<br/>
-							  <b>Data Nasc.:</b> $nascimento <br/><b>RG:</b> $rg <br/><b>CPF:</b> $cpf<br/><br/>
+							  <b>Data Nasc.:</b> $nascimento <br/><b>RG:</b> $rg <br/><b>CPF:</b> $cpf<br/><b>PIS:</b> $pis<br/><br/>
 							  <b>Endereço:</b> $endereco, $numero - $bairro<br/>
 							  <b>Cidade:</b> $cidade - $uf<br/>";
 							  
@@ -397,6 +399,8 @@
 								if ($datatermino == '') {
 									$datatermino = 'PRESENTE';
 								}
+
+								$resumo = strtoupper($resumo);
 								
 								echo "<h5>$empresa</h5>
    									  <p>

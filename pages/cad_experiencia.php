@@ -75,7 +75,7 @@
     <div class="container" style="margin-top:10px;">
 
 		<div class="col-lg-12">
-			<img src="http://via.placeholder.com/1151x250" class="img-fluid" alt="Responsive image">
+			<img src="img/trabalhecom.jpg" class="img-fluid" alt="Responsive image">
 		</div>  		
 
 		<div class="row" style="margin-top:20px">
