@@ -24,8 +24,12 @@
 		public $tipocargo;
 		public $pis;
 		
-
 		function inserir($conn, $codigobase, $url) {
+
+			function tirarAcentos($string){
+	    		return preg_replace(array("/(á|à|ã|â|ä)/","/(Á|À|Ã|Â|Ä)/","/(é|è|ê|ë)/","/(É|È|Ê|Ë)/","/(í|ì|î|ï)/","/(Í|Ì|Î|Ï)/","/(ó|ò|õ|ô|ö)/","/(Ó|Ò|Õ|Ô|Ö)/","/(ú|ù|û|ü)/","/(Ú|Ù|Û|Ü)/","/(ñ)/","/(Ñ)/"),explode(" ","a A e E i I o O u U n N"),$string);
+			}
+
 			
 			$this->nome = strtoupper($this->nome);
 			$this->rua = strtoupper($this->rua);
@@ -37,12 +41,16 @@
 			$this->deficiencia = strtoupper($this->deficiencia);
 			
 			$this->cidade = strtoupper($this->cidade);
+			$this->cidade = strtoupper(tirarAcentos($this->cidade));
+
 			$this->cpf = preg_replace("/[^0-9]/", "", $this->cpf);
 			$this->rg = preg_replace("/[^0-9]/", "", $this->rg);
 			$this->cep = preg_replace("/[^0-9]/", "", $this->cep);
 			$this->nascimento = date("Y-m-d", strtotime($this->nascimento));
 
-			$sql = "SELECT CHAVE FROM MUNICIPIOS_WEB WHERE CEP LIKE '" . substr($this->cep, 0, 5)."%'";
+			$sql = "SELECT CHAVE FROM MUNICIPIOS_WEB WHERE NOME = '" . $this->cidade . "' AND UF = '" . $this->uf . "'";
+
+			echo $sql;
 			
 			$ds = oci_parse($conn, $sql);	
 			oci_define_by_name($ds, "CHAVE", $chavecidade);
@@ -60,6 +68,15 @@
 				$this->pis = 'NULL';
 			}
 
+			if ($chavecidade == '') {
+				echo "<script>
+				 		alert('Cidade não encontrada, por favor verifique.');
+						history.go(-1);
+					  </script>";
+			}
+
+
+
 			$sql = "INSERT INTO TALENTOS_WEB (
 					  CHAVE, CODIGO_BASE, CHAVE_USUARIO_WEB, CPF, NUMERO_RG, NOME, 
 					  ENDERECO, NUMERO, COMPLEMENTO, BAIRRO, CIDADE, CEP, 
@@ -73,7 +90,7 @@
 					  TO_DATE('$this->nascimento', 'YYYY-MM-DD'), UPPER('$this->nacionalidade'), UPPER('$this->sexo'), UPPER('$this->estadocivil'), 
 					  UPPER('$this->deficiencia'), '$this->tipocargo', SYSDATE, $this->pis)";
 
-			echo $sql;		  
+			//echo $sql;		  
 					  
 			$ds = oci_parse($conn, $sql);
 			$exec = oci_execute($ds, OCI_NO_AUTO_COMMIT);
@@ -103,6 +120,10 @@
 		}
 		
 		function alterar ($conn, $codigobase, $url) {
+
+			function tirarAcentos($string){
+	    		return preg_replace(array("/(á|à|ã|â|ä)/","/(Á|À|Ã|Â|Ä)/","/(é|è|ê|ë)/","/(É|È|Ê|Ë)/","/(í|ì|î|ï)/","/(Í|Ì|Î|Ï)/","/(ó|ò|õ|ô|ö)/","/(Ó|Ò|Õ|Ô|Ö)/","/(ú|ù|û|ü)/","/(Ú|Ù|Û|Ü)/","/(ñ)/","/(Ñ)/"),explode(" ","a A e E i I o O u U n N"),$string);
+			}			
 			
 			$this->nome = strtoupper($this->nome);
 			$this->rua = strtoupper($this->rua);
@@ -114,6 +135,8 @@
 			$this->deficiencia = strtoupper($this->deficiencia);
 			
 			$this->cidade = strtoupper($this->cidade);
+			$this->cidade = strtoupper(tirarAcentos($this->cidade));
+
 			$this->cpf = preg_replace("/[^0-9]/", "", $this->cpf);
 			$this->rg = preg_replace("/[^0-9]/", "", $this->rg);
 			$this->cep = preg_replace("/[^0-9]/", "", $this->cep);
@@ -123,7 +146,7 @@
 				$this->pis = 'NULL';
 			}
 
-			$sql = "SELECT CHAVE FROM MUNICIPIOS_WEB WHERE CEP LIKE '" . substr($this->cep, 0, 5)."%'";
+			$sql = "SELECT CHAVE FROM MUNICIPIOS_WEB WHERE NOME = '" . $this->cidade . "' AND UF = '" . $this->uf . "'";
 			$ds = oci_parse($conn, $sql);	
 			oci_define_by_name($ds, "CHAVE", $chavecidade);
 			oci_execute($ds);	

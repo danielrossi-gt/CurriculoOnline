@@ -105,7 +105,8 @@
 						    <div class="row">
 							<div class="form-group col-lg-12">
 							    <label for="cargo">Cargo Ocupado</label>
-								<input name="cargo" id="cargo" class="form-control text-uppercase" placeholder="" required>
+								<input name="cargo" id="cargo" class="form-control text-uppercase" placeholder="" size="50" 
+									   maxlength="50" required>
 								<div class="help-block with-errors"></div>
 							</div>
 							</div>							

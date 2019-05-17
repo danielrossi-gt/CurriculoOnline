@@ -90,7 +90,7 @@
 						    <div class="row">
 							<div class="form-group col-lg-12">
 							    <label for="descricao">Descrição</label>
-								<input name="descricao" id="descricao" class="form-control text-uppercase" placeholder="" required>
+								<input name="descricao" id="descricao" class="form-control text-uppercase" placeholder="" size="255" maxlength="255" required>
 								<div class="help-block with-errors"></div>
 							</div>
 							</div>
@@ -98,7 +98,7 @@
 						    <div class="row">
 							<div class="form-group col-lg-12">
 							    <label for="instituicao">Instituição</label>
-								<input name="instituicao" id="instituicao" class="form-control text-uppercase" placeholder="" required>
+								<input name="instituicao" id="instituicao" class="form-control text-uppercase" placeholder="" size="255" maxlength="255" required>
 								<div class="help-block with-errors"></div>
 							</div>
 							</div>							

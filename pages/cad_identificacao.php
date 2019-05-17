@@ -67,7 +67,7 @@
 						    <div class="row">
 							<div class="form-group col-lg-12">
 							    <label for="nome">Nome</label>
-								<input name="nome" id="nome" class="form-control text-uppercase" placeholder="" required>
+								<input name="nome" id="nome" maxlength="60" size="60" class="form-control text-uppercase" placeholder="" required>
 								<div class="help-block with-errors"></div>
 							</div>
 							</div>
@@ -85,7 +85,7 @@
 							</div>
 							<div class="form-group col-lg-3 float-left">
 								<label for="pis" >PIS</label>
-								<input name="pis" id="pis"  class="form-control text-uppercase" type="text" maxlength="11"/>
+								<input name="pis" id="pis"  class="form-control text-uppercase" type="text" maxlength="11" required/>
 								<div class="help-block with-errors"></div>
 							</div>								
 							
@@ -111,13 +111,13 @@
 							<div class="row">
 							<div class="form-group col-lg-9 float-left">
 								<label for="rua">Rua</label>
-								<input id="rua" name="rua" type="text" class="form-control text-uppercase" size="60" required/>
+								<input id="rua" name="rua" type="text" class="form-control text-uppercase" maxlength="40" size="40" required/>
 								<div class="help-block with-errors"></div>
 							</div>
 							
 							<div class="form-group col-lg-3 float-left">
 								<label for="numero">Número</label>
-								<input id="numero" name="numero" class="form-control text-uppercase" type="text" required/>
+								<input id="numero" name="numero" class="form-control text-uppercase" type="text" maxlength="6" size="6" required/>
 								<div class="help-block with-errors"></div>
 							</div>
 							</div>
@@ -125,7 +125,7 @@
 							<div class="row">
 							<div class="form-group col-lg-12 float-left">
 								<label for="complemento">Complemento</label>
-								<input id="complemento" name="complemento" type="text" class="form-control text-uppercase" size="60" />
+								<input id="complemento" name="complemento" type="text" class="form-control text-uppercase" maxlength="20" size="20" />
 								<div class="help-block with-errors"></div>
 							</div>	
 							</div>
@@ -133,7 +133,7 @@
 							<div class="row">
 							<div class="form-group col-lg-4 float-left">
 								<label for="bairro">Bairro</label>
-								<input id="bairro" name="bairro" type="text" class="form-control text-uppercase" size="40" required/>
+								<input id="bairro" name="bairro" type="text" class="form-control text-uppercase" maxlength="30" size="30" required/>
 								<div class="help-block with-errors"></div>
 							</div>
 							
@@ -194,7 +194,7 @@
 							<div class="row">
 							<div class="form-group col-lg-12 float-left">
 								<label for="email">E-Mail</label>
-								<input id="email" name="email" type="email" class="form-control" size="40" required/>
+								<input id="email" name="email" type="email" class="form-control" size="50" maxlength="50" required/>
 								<div class="help-block with-errors"></div>
 							</div>
 							</div>

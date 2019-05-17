@@ -165,7 +165,7 @@
 							
 							<div class="form-group col-lg-3 float-left">
 								<label for="pis" >PIS</label>
-								<input name="pis" id="pis" value="<?php echo $pis; ?>" class="form-control text-uppercase" type="text" maxlength="11"/>
+								<input name="pis" id="pis" value="<?php echo $pis; ?>" class="form-control text-uppercase" type="text" maxlength="11" required/>
 								<div class="help-block with-errors"></div>
 							</div>
 
